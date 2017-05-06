@@ -2,86 +2,25 @@
 
 #EXTM3U
 
-#EXTINF:-1,Ote Cinema 1
-http://5.189.131.126:9705/live/testiptv/testiptv/231.ts
-#EXTINF:-1,Ote Cinema 2
-http://5.189.131.126:9705/live/testiptv/testiptv/232.ts
-#EXTINF:-1,Ote Cinema 3
-http://5.189.131.126:9705/live/testiptv/testiptv/233.ts
-#EXTINF:-1,Ote Sport HD 1
-http://5.189.131.126:9705/live/testiptv/testiptv/225.ts
-#EXTINF:-1,Ote Sport HD 2
-http://5.189.131.126:9705/live/testiptv/testiptv/226.ts
-#EXTINF:-1,Ote Sport HD 3
-http://5.189.131.126:9705/live/testiptv/testiptv/227.ts
-#EXTINF:-1,Ote Sport HD 4
-http://5.189.131.126:9705/live/testiptv/testiptv/228.ts
-#EXTINF:-1,Ote Sport HD 5
-http://5.189.131.126:9705/live/testiptv/testiptv/229.ts
-#EXTINF:-1,Ote Sport HD 6
-http://5.189.131.126:9705/live/testiptv/testiptv/230.ts
-#EXTINF:-1,NOVA CINEMA
-http://62.168.1.253:8009
-#EXTINF:-1,NOVA
-http://62.168.1.253:8016
-#EXTINF:-1,NOVA CINEMA
-http://62.168.1.253:8017
-#EXTINF:-1,Alpha Tv
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/317.ts
-
-#EXTINF:-1,ANeo
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/318.ts
-
-#EXTINF:-1,ANT1
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/319.ts
-
-#EXTINF:-1,Mega Gr
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/313.ts
-
-#EXTINF:-1,STAR GR
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/361.ts
-
-#EXTINF:-1,Star Tv
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/362.ts
-
-#EXTINF:-1,Rik Sat
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/315.ts
-
-#EXTINF:-1,Skai Greece
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/316.ts
-
-#EXTINF:-1,Greec Music
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/80.ts
-
-#EXTINF:-1,Extra 3
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/320.ts
-
-#EXTINF:-1,KPHTH TV GR
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/314.ts
-
-#EXTINF:-1,Ote Cinema 1
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/327.ts
-
-#EXTINF:-1,Ote Cinema 2
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/328.ts
-
-#EXTINF:-1,Ote Cinema 3
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/329.ts
-
-#EXTINF:-1,OTESport 1 HD
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/321.ts
-
-#EXTINF:-1,OTESport 2 HD
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/322.ts
-
-#EXTINF:-1,OTESport 3 HD
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/323.ts
-
-#EXTINF:-1,OTESport 4 HD
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/324.ts
-
-#EXTINF:-1,OTESport 5 HD
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/325.ts
-
-#EXTINF:-1,OTESport 6 HD
-http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/326.ts
+#EXTINF:-1,Ant1 (Greece)
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
+#EXTINF:-1,Ant1 (Cyprus)
+http://videos.ant1.com.cy/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,ERT 3 (Greece)
+http://live2.ertopen.com/live2/e600/playlist.m3u8
+#EXTINF:-1,Mega (Greece)
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:-1,Ena (Greece)
+rtmp://srv1.viiideo.gr/videon/enatv
+#EXTINF:-1,Nea (Greece)
+http://srv1.viiideo.gr:1935/hellasonmedia/mp4:neatv/hasbahca.m3u8
+#EXTINF:-1,Star TV (Greece)
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:-1,Extra 3 (Greece)
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:-1,Blue Sky (Greece)
+rtmp://188.40.142.123:1935/bluesky/bluesky.stream
+#EXTINF:-1,Makedonia (Greece)
+http://213.16.167.55/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,TV Creta (Greece)
+http://srv1.viiideo.gr:1935/hellasonmedia/mp4:tvcreta/playlist.m3u8
