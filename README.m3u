@@ -1,26 +1,133 @@
 # LiveGreekTV
 
-#EXTM3U
-
-#EXTINF:-1,Ant1 (Greece)
-http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
-#EXTINF:-1,Ant1 (Cyprus)
-http://videos.ant1.com.cy/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,ERT 3 (Greece)
-http://live2.ertopen.com/live2/e600/playlist.m3u8
-#EXTINF:-1,Mega (Greece)
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-#EXTINF:-1,Ena (Greece)
-rtmp://srv1.viiideo.gr/videon/enatv
-#EXTINF:-1,Nea (Greece)
-http://srv1.viiideo.gr:1935/hellasonmedia/mp4:neatv/hasbahca.m3u8
-#EXTINF:-1,Star TV (Greece)
-http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:-1,Extra 3 (Greece)
-rtmp://213.16.167.186:1935/live/mpegts_256.stream
-#EXTINF:-1,Blue Sky (Greece)
-rtmp://188.40.142.123:1935/bluesky/bluesky.stream
-#EXTINF:-1,Makedonia (Greece)
-http://213.16.167.55/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,TV Creta (Greece)
-http://srv1.viiideo.gr:1935/hellasonmedia/mp4:tvcreta/playlist.m3u8
+#EXTM3U 
+#EXTINF:0,===== GRIECHISCH =====
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7474.ts
+#EXTINF:0,-GR: TV 5 EUROPA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16326.ts
+#EXTINF:0,-GR: SUNNY
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16338.ts
+#EXTINF:0,-GR: STAR
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16325.ts
+#EXTINF:0,-GR: SMILE
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16339.ts
+#EXTINF:0,-GR: SKAI
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16324.ts
+#EXTINF:0,-GR: SBC
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16336.ts
+#EXTINF:0,-GR: RIK
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16329.ts
+#EXTINF:0,-GR: NICK
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16337.ts
+#EXTINF:0,-GR: MTV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16335.ts
+#EXTINF:0,-GR: MEGA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16323.ts
+#EXTINF:0,-GR: MAKEDONIA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16322.ts
+#EXTINF:0,-GR: MAD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16316.ts
+#EXTINF:0,-GR: KONTRA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16315.ts
+#EXTINF:0,-GR: ERT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16317.ts
+#EXTINF:0,-GR: E
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16321.ts
+#EXTINF:0,-GR: DS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16328.ts
+#EXTINF:0,-GR: CH 9
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16334.ts
+#EXTINF:0,-GR: BLUE SKY
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16333.ts
+#EXTINF:0,-GR: BBC NEWS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16327.ts
+#EXTINF:0,-GR: ATTICA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16332.ts
+#EXTINF:0,-GR: ART
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16320.ts
+#EXTINF:0,-GR: ANT 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16319.ts
+#EXTINF:0,-GR: ALPHA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16318.ts
+#EXTINF:0,-GR: ACTION 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16331.ts
+#EXTINF:0,-GR: ABC CHANNEL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16330.ts
+#EXTINF:0,-GR: 1 GREECE
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16340.ts
+#EXTINF:0,GR: ZOUGLA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7156.ts
+#EXTINF:0,GR-: VOULI
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7153.ts
+#EXTINF:0,GR: TV-100
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7152.ts
+#EXTINF:0,GR: RIK SAT 2 TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6596.ts
+#EXTINF:0,-GR: MAD TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7138.ts
+#EXTINF:0,GR: KPHTH TV GR
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7163.ts
+#EXTINF:0,GR: EBS PLUS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7127.ts
+#EXTINF:0,GR: CRETA  TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7123.ts
+#EXTINF:0,GR-: ANT 1 CYP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7118.ts
+#EXTINF:0,GR: ZOUGLA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4714.ts
+#EXTINF:0,GR: MEGA CYP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4720.ts
+#EXTINF:0,GR: KRHTH TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4722.ts
+#EXTINF:0,GR-: KONTRA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4723.ts
+#EXTINF:0,GR: EXTRA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4726.ts
+#EXTINF:0,-GR: ERT 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4710.ts
+#EXTINF:0,-GR: ERT 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4709.ts
+#EXTINF:0,GR-: ALPHA CYP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4730.ts
+#EXTINF:0,GR: TV 100
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6180.ts
+#EXTINF:0,GR: MAD TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6012.ts
+#EXTINF:0,GR: EURONEWS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6172.ts
+#EXTINF:0,GR: EBS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6176.ts
+#EXTINF:0,GR: 4E
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6161.ts
+#EXTINF:0,GR: AXELOOS TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11657.ts
+#EXTINF:0,GR: SIGMA CYP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12056.ts
+#EXTINF:0,-GR: VOULI
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15851.ts
+#EXTINF:0,-GR: KONTRA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15847.ts
+#EXTINF:0,-GR: EXTRA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15846.ts
+#EXTINF:0,-GR: ERT 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15848.ts
+#EXTINF:0,-GR: ANT 1 CYP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15853.ts
+#EXTINF:0,-GR: ALPHA CYP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15852.ts
+#EXTINF:0,GR: NEA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22931.ts
+#EXTINF:0,GR-: ERT 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11945.ts
+#EXTINF:0,GR-: TILE SPORT TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21300.ts
+#EXTINF:0,GR: MESSINIA TV HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12219.ts
+#EXTINF:0,GR: EPSILON
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21936.ts
+#EXTINF:0,GR: STAR
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21932.ts
+#EXTINF:0,GR-: ERT 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15850.ts
+#EXTINF:0,GR-: ERT 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15849.ts
