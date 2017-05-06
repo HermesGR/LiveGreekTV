@@ -1,63 +1,167 @@
 #Extm3u
-#EXTINF:-1,* * * * * * * * * * GREECE * * * * * * * * * *
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2340.ts
-#EXTINF:-1,GR: ZOUGLA TV
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2369.ts
-#EXTINF:-1,GR: Viasat Sport HD
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2360.ts
-#EXTINF:-1,GR: SIGMA TV
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2367.ts
-#EXTINF:-1,GR: Sigma Cy
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2361.ts
-#EXTINF:-1,GR: Mega
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2362.ts
-#EXTINF:-1,GR: Makedonia
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2363.ts
-#EXTINF:-1,GR: Mad Cy
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2364.ts
-#EXTINF:-1,GR: KONTRA
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2366.ts
-#EXTINF:-1,GR: Creta Tv
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2365.ts
-#EXTINF:-1,GR: Antena 1
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2368.ts
-#EXTINF:-1,GR: Ant1
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2370.ts
-#EXTINF:-1,GR: Alpha
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2371.ts
-#EXTINF:-1,GR WZRA
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2342.ts
-#EXTINF:-1,GR Star
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2344.ts
-#EXTINF:-1,GR Skai
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2345.ts
-#EXTINF:-1,GR SBC
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2346.ts
-#EXTINF:-1,GR SAMIAKI TV
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2347.ts
-#EXTINF:-1,GR NERIT
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2348.ts
-#EXTINF:-1,GR NEA TV
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2349.ts
-#EXTINF:-1,GR KONTRA
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2350.ts
-#EXTINF:-1,GR EXTRA
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2351.ts
-#EXTINF:-1,GR ERT3
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2352.ts
-#EXTINF:-1,GR ERT2
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2353.ts
-#EXTINF:-1,GR ERT1
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2354.ts
-#EXTINF:-1,GR EPIRUS TV1
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2355.ts
-#EXTINF:-1,GR E
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2356.ts
-#EXTINF:-1,GR BLUE SKY
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2357.ts
-#EXTINF:-1,GR Action 24
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2358.ts
-#EXTINF:-1,GR:TILESPORT TV
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2584.ts
-#EXTINF:-1,GR 4E
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2359.ts
+
+#EXTM3U
+#EXTINF:-1,ANT1 CYPRUS
+http://154.57.7.251:8000/ant1
+#EXTINF:-1,BLUE SKY
+http://154.57.7.251:8000/blusky
+#EXTINF:-1,ERT1
+http://154.57.7.251:8000/ert1
+#EXTINF:-1,ERT2
+http://154.57.7.251:8000/ert2
+#EXTINF:-1,ERT3
+http://154.57.7.251:8000/ert3
+#EXTINF:-1,EXTRA CHANNEL
+http://154.57.7.251:8000/extra
+#EXTINF:-1,KONTRA
+http://154.57.7.251:8000/kontra
+#EXTINF:-1,M.TV
+http://154.57.7.251:8000/mtv
+#EXTINF:-1,MAD TV
+http://154.57.7.251:8000/mad
+#EXTINF:-1,MEGA
+http://154.57.7.251:8000/mega
+#EXTINF:-1,RIK SAT
+http://154.57.7.251:8000/rik
+#EXTINF:-1,Skai Greece
+http://154.57.7.251:8000/skai
+#EXTINF:-1,ALPHA
+http://154.57.7.251:8000/alph
+#EXTINF:-1,SBC
+http://154.57.7.251:8000/sbc
+#EXTINF:-1,STAR GR
+http://154.57.7.251:8000/star
+#EXTINF:-1,Action 24
+http://154.57.7.251:8000/action24
+#EXTINF:-1,BBC World News
+http://154.57.7.251:8000/bbcnews
+#EXTINF:-1,TV5 Monde
+http://154.57.7.251:8000/tv5europe
+#EXTINF:-1,AB Channel
+http://154.57.7.251:8000/abchannel
+#EXTINF:-1,Channel9
+http://154.57.7.251:8000/ch9
+#EXTINF:-1,Attica
+http://154.57.7.251:8000/attica
+#EXTINF:-1,DS
+http://154.57.7.251:8000/ds
+#EXTINF:-1,Sunny
+http://154.57.7.251:8000/sunny
+#EXTINF:-1,Smile
+http://154.57.7.251:8000/smile
+#EXTINF:-1,Nickelodejn
+
+
+
+
+
+
+
+#EXTINF:0,GR: OTE Cinma 1
+http://ipsatpro.com:8000/live/angelo/angelo/1427.ts
+#EXTINF:0,GR: OTE Cinma 2
+http://ipsatpro.com:8000/live/angelo/angelo/1426.ts
+#EXTINF:0,GR: OTE Cinma 3
+http://ipsatpro.com:8000/live/angelo/angelo/1425.ts
+#EXTINF:0,GR: OTE Cinma 4
+http://ipsatpro.com:8000/live/angelo/angelo/1424.ts
+#EXTINF:0,GR: OTE Sport 1
+http://ipsatpro.com:8000/live/angelo/angelo/831.ts
+#EXTINF:0,GR: OTE Sport 2
+http://ipsatpro.com:8000/live/angelo/angelo/838.ts
+#EXTINF:0,GR: OTE Sport 3
+http://ipsatpro.com:8000/live/angelo/angelo/837.ts
+#EXTINF:0,GR: OTE Sport 4
+http://ipsatpro.com:8000/live/angelo/angelo/836.ts
+#EXTINF:0,GR: OTE Sport 5
+http://ipsatpro.com:8000/live/angelo/angelo/835.ts
+#EXTINF:0,GR: OTE Sport 6
+http://ipsatpro.com:8000/live/angelo/angelo/834.ts
+#EXTINF:0,GR: OTE Sport 7
+http://ipsatpro.com:8000/live/angelo/angelo/833.ts
+#EXTINF:0,GR: OTE Sport 8
+http://ipsatpro.com:8000/live/angelo/angelo/832.ts
+#EXTINF:0,GR: Astra Supersport 1
+http://ipsatpro.com:8000/live/angelo/angelo/845.ts
+#EXTINF:0,GR: Astra Supersport 2
+http://ipsatpro.com:8000/live/angelo/angelo/844.ts
+#EXTINF:0,GR: Astra Supersport 3
+http://ipsatpro.com:8000/live/angelo/angelo/843.ts
+#EXTINF:0,GR: Astra Supersport 4
+http://ipsatpro.com:8000/live/angelo/angelo/842.ts
+#EXTINF:0,GR: CTH Stadium X HD
+http://ipsatpro.com:8000/live/angelo/angelo/839.ts
+#EXTINF:0,GR: CTH Stadium 1 HD
+http://ipsatpro.com:8000/live/angelo/angelo/841.ts
+#EXTINF:0,GR: CTH Stadium 2 HD
+http://ipsatpro.com:8000/live/angelo/angelo/840.ts
+#EXTINF:0,GR: CTH Stadium 3 HD
+http://ipsatpro.com:8000/live/angelo/angelo/870.ts
+#EXTINF:0,GR: CTH Stadium 4 HD
+http://ipsatpro.com:8000/live/angelo/angelo/868.ts
+#EXTINF:0,GR: CTH Stadium 5 HD
+http://ipsatpro.com:8000/live/angelo/angelo/869.ts
+#EXTINF:0,GR: CTH Stadium 6 HD
+http://ipsatpro.com:8000/live/angelo/angelo/867.ts
+#EXTINF:0,GR: Lyxnos TV
+http://ipsatpro.com:8000/live/angelo/angelo/846.ts
+#EXTINF:0,GR: BRT 1
+http://ipsatpro.com:8000/live/angelo/angelo/878.ts
+#EXTINF:0,GR: Astra tv
+http://ipsatpro.com:8000/live/angelo/angelo/877.ts
+#EXTINF:0,GR: TV1000
+http://ipsatpro.com:8000/live/angelo/angelo/874.ts
+#EXTINF:0,GR: Nea TV
+http://ipsatpro.com:8000/live/angelo/angelo/875.ts
+#EXTINF:0,GR: Kontra Channel
+http://ipsatpro.com:8000/live/angelo/angelo/876.ts
+#EXTINF:0,GR: EXTRA
+http://ipsatpro.com:8000/live/angelo/angelo/873.ts
+#EXTINF:0,GR: bluesky
+http://ipsatpro.com:8000/live/angelo/angelo/861.ts
+#EXTINF:0,GR: Samiaki
+http://ipsatpro.com:8000/live/angelo/angelo/860.ts
+#EXTINF:0,GR: EPT HD
+http://ipsatpro.com:8000/live/angelo/angelo/872.ts
+#EXTINF:0,GR: EPT 1
+http://ipsatpro.com:8000/live/angelo/angelo/871.ts
+#EXTINF:0,GR: EPT 2
+http://ipsatpro.com:8000/live/angelo/angelo/866.ts
+#EXTINF:0,GR: EPT 3
+http://ipsatpro.com:8000/live/angelo/angelo/865.ts
+#EXTINF:0,GR: Star
+http://ipsatpro.com:8000/live/angelo/angelo/848.ts
+#EXTINF:0,GR: SAKI
+http://ipsatpro.com:8000/live/angelo/angelo/850.ts
+#EXTINF:0,GR: Ma tv
+http://ipsatpro.com:8000/live/angelo/angelo/849.ts
+#EXTINF:0,GR: Antenna
+http://ipsatpro.com:8000/live/angelo/angelo/847.ts
+#EXTINF:0,GR: Nerit HD
+http://ipsatpro.com:8000/live/angelo/angelo/853.ts
+#EXTINF:0,GR: MTV Music
+http://ipsatpro.com:8000/live/angelo/angelo/864.ts
+#EXTINF:0,GR: Mega
+http://ipsatpro.com:8000/live/angelo/angelo/863.ts
+#EXTINF:0,GR: EPIRUS TV1
+http://ipsatpro.com:8000/live/angelo/angelo/862.ts
+#EXTINF:0,GR: Alpha
+http://ipsatpro.com:8000/live/angelo/angelo/855.ts
+#EXTINF:0,GR: Euronews
+http://ipsatpro.com:8000/live/angelo/angelo/858.ts
+#EXTINF:0,GR: Alpha Sat Use
+http://ipsatpro.com:8000/live/angelo/angelo/859.ts
+#EXTINF:0,GR: Aigaio TV
+http://ipsatpro.com:8000/live/angelo/angelo/854.ts
+#EXTINF:0,GR: ANT1
+http://ipsatpro.com:8000/live/angelo/angelo/856.ts
+#EXTINF:0,GR: MAD TV
+http://ipsatpro.com:8000/live/angelo/angelo/857.ts
+#EXTINF:0,GR: KRHTH TV
+http://ipsatpro.com:8000/live/angelo/angelo/852.ts
+#EXTINF:0,GR: Nerit Plus
+http://ipsatpro.com:8000/live/angelo/angelo/851.ts
+
+
+
+
