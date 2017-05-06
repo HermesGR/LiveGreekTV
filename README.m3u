@@ -1,0 +1,52 @@
+# LiveGreekTV
+
+#EXTM3U
+#EXTINF:-1,ANT1 CYPRUS
+http://154.57.7.251:8000/ant1
+#EXTINF:-1,BLUE SKY
+http://154.57.7.251:8000/blusky
+#EXTINF:-1,ERT1
+http://154.57.7.251:8000/ert1
+#EXTINF:-1,ERT2
+http://154.57.7.251:8000/ert2
+#EXTINF:-1,ERT3
+http://154.57.7.251:8000/ert3
+#EXTINF:-1,EXTRA CHANNEL
+http://154.57.7.251:8000/extra
+#EXTINF:-1,KONTRA
+http://154.57.7.251:8000/kontra
+#EXTINF:-1,M.TV
+http://154.57.7.251:8000/mtv
+#EXTINF:-1,MAD TV
+http://154.57.7.251:8000/mad
+#EXTINF:-1,MEGA
+http://154.57.7.251:8000/mega
+#EXTINF:-1,RIK SAT
+http://154.57.7.251:8000/rik
+#EXTINF:-1,Skai Greece
+http://154.57.7.251:8000/skai
+#EXTINF:-1,ALPHA
+http://154.57.7.251:8000/alph
+#EXTINF:-1,SBC
+http://154.57.7.251:8000/sbc
+#EXTINF:-1,STAR GR
+http://154.57.7.251:8000/star
+#EXTINF:-1,Action 24
+http://154.57.7.251:8000/action24
+#EXTINF:-1,BBC World News
+http://154.57.7.251:8000/bbcnews
+#EXTINF:-1,TV5 Monde
+http://154.57.7.251:8000/tv5europe
+#EXTINF:-1,AB Channel
+http://154.57.7.251:8000/abchannel
+#EXTINF:-1,Channel9
+http://154.57.7.251:8000/ch9
+#EXTINF:-1,Attica
+http://154.57.7.251:8000/attica
+#EXTINF:-1,DS
+http://154.57.7.251:8000/ds
+#EXTINF:-1,Sunny
+http://154.57.7.251:8000/sunny
+#EXTINF:-1,Smile
+http://154.57.7.251:8000/smile
+#EXTINF:-1,Nickelodejn
