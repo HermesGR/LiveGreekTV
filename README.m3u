@@ -1,137 +1,2396 @@
 # LiveGreekTV
 
-#EXTM3U 
-#EXTINF:0,===== GRIECHISCH =====
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7474.ts
-#EXTINF:-1,DirecTV sports
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f88c9f198ca06f1bca210be9e7959f4cebf0dd48/3172.m3u8
-#EXTINF:0,-GR: GOL TV
-http://194.140.12.113:1935/live/GolTV.stream/playlist.m3u8 
-#EXTINF:0,-GR: TV 5 EUROPA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16326.ts
-#EXTINF:0,-GR: SUNNY
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16338.ts
-#EXTINF:0,-GR: STAR
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16325.ts
-#EXTINF:0,-GR: SMILE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16339.ts
-#EXTINF:0,-GR: SKAI
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16324.ts
-#EXTINF:0,-GR: SBC
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16336.ts
-#EXTINF:0,-GR: RIK
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16329.ts
-#EXTINF:0,-GR: NICK
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16337.ts
-#EXTINF:0,-GR: MTV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16335.ts
-#EXTINF:0,-GR: MEGA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16323.ts
-#EXTINF:0,-GR: MAKEDONIA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16322.ts
-#EXTINF:0,-GR: MAD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16316.ts
-#EXTINF:0,-GR: KONTRA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16315.ts
-#EXTINF:0,-GR: ERT HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16317.ts
-#EXTINF:0,-GR: E
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16321.ts
-#EXTINF:0,-GR: DS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16328.ts
-#EXTINF:0,-GR: CH 9
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16334.ts
-#EXTINF:0,-GR: BLUE SKY
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16333.ts
-#EXTINF:0,-GR: BBC NEWS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16327.ts
-#EXTINF:0,-GR: ATTICA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16332.ts
-#EXTINF:0,-GR: ART
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16320.ts
-#EXTINF:0,-GR: ANT 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16319.ts
-#EXTINF:0,-GR: ALPHA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16318.ts
-#EXTINF:0,-GR: ACTION 24
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16331.ts
-#EXTINF:0,-GR: ABC CHANNEL
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16330.ts
-#EXTINF:0,-GR: 1 GREECE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16340.ts
-#EXTINF:0,GR: ZOUGLA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7156.ts
-#EXTINF:0,GR-: VOULI
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7153.ts
-#EXTINF:0,GR: TV-100
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7152.ts
-#EXTINF:0,GR: RIK SAT 2 TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6596.ts
-#EXTINF:0,-GR: MAD TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7138.ts
-#EXTINF:0,GR: KPHTH TV GR
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7163.ts
-#EXTINF:0,GR: EBS PLUS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7127.ts
-#EXTINF:0,GR: CRETA  TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7123.ts
-#EXTINF:0,GR-: ANT 1 CYP
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/7118.ts
-#EXTINF:0,GR: ZOUGLA TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4714.ts
-#EXTINF:0,GR: MEGA CYP
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4720.ts
-#EXTINF:0,GR: KRHTH TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4722.ts
-#EXTINF:0,GR-: KONTRA TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4723.ts
-#EXTINF:0,GR: EXTRA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4726.ts
-#EXTINF:0,-GR: ERT 2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4710.ts
-#EXTINF:0,-GR: ERT 3
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4709.ts
-#EXTINF:0,GR-: ALPHA CYP
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4730.ts
-#EXTINF:0,GR: TV 100
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6180.ts
-#EXTINF:0,GR: MAD TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6012.ts
-#EXTINF:0,GR: EURONEWS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6172.ts
-#EXTINF:0,GR: EBS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6176.ts
-#EXTINF:0,GR: 4E
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6161.ts
-#EXTINF:0,GR: AXELOOS TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11657.ts
-#EXTINF:0,GR: SIGMA CYP
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12056.ts
-#EXTINF:0,-GR: VOULI
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15851.ts
-#EXTINF:0,-GR: KONTRA TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15847.ts
-#EXTINF:0,-GR: EXTRA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15846.ts
-#EXTINF:0,-GR: ERT 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15848.ts
-#EXTINF:0,-GR: ANT 1 CYP
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15853.ts
-#EXTINF:0,-GR: ALPHA CYP
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15852.ts
-#EXTINF:0,GR: NEA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22931.ts
-#EXTINF:0,GR-: ERT 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11945.ts
-#EXTINF:0,GR-: TILE SPORT TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21300.ts
-#EXTINF:0,GR: MESSINIA TV HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12219.ts
-#EXTINF:0,GR: EPSILON
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21936.ts
-#EXTINF:0,GR: STAR
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21932.ts
-#EXTINF:0,GR-: ERT 3
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15850.ts
-#EXTINF:0,GR-: ERT 2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15849.ts
+#EXTM3U
+#EXTINF:-1,[COLOR green]--- WORLD IPTV CHANNELS ---[/COLOR]
+http://0.1.5.0:1234
+#EXTINF:-1,[COLOR yellow]By tutorial-iptv-xbmc.blogspot.com[/B][/I][/COLOR]
+http://0.1.5.0:1224
+
+#EXTINF:-1,SKY SPORT3
+http://bit.do/iptvsportt-SP3
+#EXTINF:-1,SUPER CALCIO
+http://bit.do/iptvsportt-SPR
+#EXTINF:-1,SKY SPORT it F1
+http://bit.do/iptvsportt-F1
+#EXTINF:-1,SKY SPORT it24
+http://bit.do/iptvsportt-24
+#EXTINF:-1,SKY SPORT it1
+http://bit.do/iptvsportt-SP1
+#EXTINF:-1,Canal futbol
+http://bit.do/iptvsportt-FOOT
+#EXTINF:-1,canal liga
+http://bit.do/iptvsportt-LIGA
+#EXTINF:-1,barca tv
+http://bit.do/iptvsportt-BARCA
+#EXTINF:-1,Digi Sport 1
+http://bit.do/iptvsportt-digi1
+#EXTINF:-1,Digi Sport 2
+http://bit.do/iptvsportt-digi2
+#EXTINF:-1,Digi Sport 3
+http://bit.do/iptvsportt-digi3
+#EXTINF:-1,Sport Tv5
+http://bit.do/iptvsportt-por5
+#EXTINF:-1,Sport Tv4
+http://bit.do/iptvsportt-por4
+#EXTINF:-1,Sport Tv3
+http://bit.do/iptvsportt-por3
+#EXTINF:-1,Sport Tv2
+http://bit.do/iptvsportt-por2
+#EXTINF:-1,Sport Tv1
+http://bit.do/iptvsportt-por1
+#EXTINF:-1,Fox SportS1
+http://bit.do/iptvsportt-fox1
+#EXTINF:-1,Fox SportS2
+http://bit.do/iptvsportt-fox2
+#EXTINF:-1,Fox SportS3
+http://bit.do/iptvsportt-fox3
+#EXTINF:-1,Fox SportS4
+http://bit.do/iptvsportt-fox4
+#EXTINF:-1,Fox SportS5
+http://bit.do/iptvsportt-fox5
+#EXTINF:-1,Sky Sport5
+http://bit.do/iptvsportt-Sky1
+#EXTINF:-1,Sky Sport4
+http://bit.do/iptvsportt-Sky2
+#EXTINF:-1,Sky Sport3
+http://bit.do/iptvsportt-Sky3
+#EXTINF:-1,Sky Sport2
+http://bit.do/iptvsportt-Sky4
+#EXTINF:-1,Sky Sport1
+http://bit.do/iptvsportt-Sky5
+#EXTINF:-1,Bt Sport1
+http://bit.do/iptvsportt-BT1
+#EXTINF:-1,Bt Sport2
+http://bit.do/iptvsportt-BT2
+#EXTINF:-1,Stenta Sport
+http://bit.do/iptvsportt-ST
+#EXTINF:-1,Eurosport
+http://bit.do/iptvsportt-EU
+#EXTINF:-1,Arena Sport 1 HD
+http://bit.ly/1Zz8xGb
+#EXTINF:-1,Arena Sport 2 HD
+http://bit.ly/1lrLW0C
+#EXTINF:-1,Arena Sport 3 HD
+http://bit.ly/1PDwarE
+#EXTINF:-1,Arena Sport 4 HD
+http://bit.ly/1nw98MV
+#EXTINF:-1,FOX SPORTS LIVE TV 1 HD
+http://bit.ly/1QlNuGy
+#EXTINF:-1,FOX SPORTS LIVE TV 2 HD
+http://bit.ly/1V5STkg
+#EXTINF:-1,FOX SPORTS LIVE TV 3 HD
+http://bit.ly/20co3Ke
+#EXTINF:-1,FOX SPORTS LIVE TV 4 HD
+http://bit.ly/1NiOuVs
+#EXTINF:-1,beIN SPORT1
+http://bit.do/iptvsportt1
+#EXTINF:-1,beIN SPORT2
+http://bit.do/iptvsportt2
+#EXTINF:-1,beIN SPORT3
+http://bit.do/iptvsportt3
+#EXTINF:-1,beIN SPORT4
+http://bit.do/iptvsportt4
+#EXTINF:-1,beIN SPORT5
+http://bit.do/iptvsportt5
+#EXTINF:-1,beIN SPORT6
+http://bit.do/iptvsportt6
+#EXTINF:-1,beIN SPORT7
+http://bit.do/iptvsportt7
+#EXTINF:-1,beIN SPORT8
+http://bit.do/iptvsportt8
+#EXTINF:-1,beIN SPORT9
+http://bit.do/iptvsportt9
+#EXTINF:-1,beIN SPORT10
+http://bit.do/iptvsportt10
+#EXTINF:-1,Sport Tv5
+http://bit.do/iptvsportt-por5
+#EXTINF:-1,Sport Tv4
+http://bit.do/iptvsportt-por4
+#EXTINF:-1,Sport Tv3
+http://bit.do/iptvsportt-por3
+#EXTINF:-1,Sport Tv2
+http://bit.do/iptvsportt-por2
+#EXTINF:-1,Sport Tv1
+http://bit.do/iptvsportt-por1
+#EXTINF:-1,sport 1
+http://85.25.43.23:8080/hls/helloszia2.m3u8
+#EXTINF:-1,Sport 2
+http://85.25.43.23:8080/hls/helloszia3.m3u8
+#EXTINF:-1,Eurosport 1 HU
+http://85.25.43.23:8080/hls/helloszia4.m3u8
+#EXTINF:-1,RTL KLUB
+http://85.25.43.23:8080/hls/helloszia5.m3u8
+
+#EXTINF:-1,[COLOR yellow]By tutorial-iptv-xbmc.blogspot.com[/B][/I][/COLOR]
+http://0.1.5.60:1224
+
+#EXTINF:0,UK: sky sports news
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/964.m3u8
+#EXTINF:0,UK: Sky Sports F1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/965.m3u8
+#EXTINF:0,UK: sky sports 5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/966.m3u8
+#EXTINF:0,UK: sky sports 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/967.m3u8
+#EXTINF:0,UK: sky sports 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/968.m3u8
+#EXTINF:0,UK: Sky Sports 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/969.m3u8
+#EXTINF:0,UK: Sky Sports 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/970.m3u8
+#EXTINF:0,UK: sky premiere sports
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/976.m3u8
+#EXTINF:0,UK: sky one
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/977.m3u8
+#EXTINF:0,UK: sky news
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/978.m3u8
+#EXTINF:0,UK: sky movies thriller
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/979.m3u8
+#EXTINF:0,UK: sky movies select
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/980.m3u8
+#EXTINF:0,UK: sky movies scifi
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/981.m3u8
+#EXTINF:0,UK: sky movies premiere
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/982.m3u8
+#EXTINF:0,UK: sky movies modern great
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/983.m3u8
+#EXTINF:0,UK: sky movies family
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/984.m3u8
+#EXTINF:0,UK: sky movies drama
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/985.m3u8
+#EXTINF:0,UK: sky movies disney
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/986.m3u8
+#EXTINF:0,UK: sky movies comedy
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/987.m3u8
+#EXTINF:0,UK: sky movies action
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/988.m3u8
+#EXTINF:0,UK: sky liverpool
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/989.m3u8
+#EXTINF:0,UK: sky atlantic
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/990.m3u8
+#EXTINF:0,UK: sky arts1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/991.m3u8
+#EXTINF:0,UK: skt art2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/992.m3u8
+#EXTINF:0,UK: setmax
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/993.m3u8
+#EXTINF:0,UK: Setanta
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/994.m3u8
+#EXTINF:0,UK: rte2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/995.m3u8
+#EXTINF:0,UK: rte1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/996.m3u8
+#EXTINF:0,UK: racing
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/997.m3u8
+#EXTINF:0,UK: quest
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/998.m3u8
+#EXTINF:0,UK: BT SPORT EUROPE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1567.m3u8
+#EXTINF:0,UK Local: Yesterday
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1823.m3u8
+#EXTINF:0,UK Local: Watch
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1824.m3u8
+#EXTINF:0,UK Local: Viasat Sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1835.m3u8
+#EXTINF:0,UK Local: UTV UK LOCAL
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1834.m3u8
+#EXTINF:0,UK Local: Uk Real Lives
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1825.m3u8
+#EXTINF:0,UK Local: UK H2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1826.m3u8
+#EXTINF:0,UK Local: TV1000 Action
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1836.m3u8
+#EXTINF:0,UK Local: Really
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1827.m3u8
+#EXTINF:0,UK Local: PBS America
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1838.m3u8
+#EXTINF:0,UK Local: National Geographic Wild
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1832.m3u8
+#EXTINF:0,UK Local: National Geographic
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1833.m3u8
+#EXTINF:0,UK Local: More 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1828.m3u8
+#EXTINF:0,UK Local: Fox uk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1829.m3u8
+#EXTINF:0,UK Local: Eden
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1830.m3u8
+#EXTINF:0,UK Local: E!
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1839.m3u8
+#EXTINF:0,UK Local: Drama
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1831.m3u8
+#EXTINF:0,UK Local: BT Sports Moisac
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1840.m3u8
+#EXTINF:0,UK Local: BT Sports Extra
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1841.m3u8
+#EXTINF:0,UK: zoom
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/955.m3u8
+#EXTINF:0,UK: VIRGIN TV MUSIC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/959.m3u8
+#EXTINF:0,UK: vh1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/960.m3u8
+#EXTINF:0,UK: TV3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1054.m3u8
+#EXTINF:0,UK: True Movies 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1056.m3u8
+#EXTINF:0,UK: true movies
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/961.m3u8
+#EXTINF:0,UK: True Entertainment
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1057.m3u8
+#EXTINF:0,UK: True Drama
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1058.m3u8
+#EXTINF:0,UK: TLC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1060.m3u8
+#EXTINF:0,UK: sony entertainment
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/962.m3u8
+#EXTINF:0,UK: sky two
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/963.m3u8
+#EXTINF:0,UK: POP
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1062.m3u8
+#EXTINF:0,UK: pick
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/999.m3u8
+#EXTINF:0,UK: nicktoons
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1000.m3u8
+#EXTINF:0,UK: nickelodeon
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1001.m3u8
+#EXTINF:0,UK: Nick JR
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1063.m3u8
+#EXTINF:0,UK: nat geo wild
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1002.m3u8
+#EXTINF:0,UK: nat geo
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1003.m3u8
+#EXTINF:0,UK: mutv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1004.m3u8
+#EXTINF:0,UK: mtvHDlive
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1007.m3u8
+#EXTINF:0,UK: mtv music
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1005.m3u8
+#EXTINF:0,UK: mtv hits
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1006.m3u8
+#EXTINF:0,UK: MTV Classic
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1064.m3u8
+#EXTINF:0,UK: movies4men
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1010.m3u8
+#EXTINF:0,UK: movies showcase
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1008.m3u8
+#EXTINF:0,UK: movies premiere 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1009.m3u8
+#EXTINF:0,UK: motors
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1011.m3u8
+#EXTINF:0,UK: itv4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1012.m3u8
+#EXTINF:0,UK: itv3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1013.m3u8
+#EXTINF:0,UK: itv2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1014.m3u8
+#EXTINF:0,UK: itv1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1015.m3u8
+#EXTINF:0,UK: investigation discovery
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1016.m3u8
+#EXTINF:0,UK: Home
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1065.m3u8
+#EXTINF:0,UK: history
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1017.m3u8
+#EXTINF:0,UK: Good Food
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1067.m3u8
+#EXTINF:0,UK: gold
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1018.m3u8
+#EXTINF:0,UK: fox
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1019.m3u8
+#EXTINF:0,UK: five
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1020.m3u8
+#EXTINF:0,UK: film4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1021.m3u8
+#EXTINF:0,UK: Eurosport 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1070.m3u8
+#EXTINF:0,UK: Eurosport 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1071.m3u8
+#EXTINF:0,UK: espn hd
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1022.m3u8
+#EXTINF:0,UK: e4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1023.m3u8
+#EXTINF:0,UK: drama
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1024.m3u8
+#EXTINF:0,UK: Dmax
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1072.m3u8
+#EXTINF:0,Uk: Christmas 24
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2584.m3u8
+#EXTINF:0,UK: Disney XD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1025.m3u8
+#EXTINF:0,UK: disney junior
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1026.m3u8
+#EXTINF:0,UK: disney
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1027.m3u8
+#EXTINF:0,UK: Discovery Turbo
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1073.m3u8
+#EXTINF:0,UK: Discovery Shed
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1074.m3u8
+#EXTINF:0,UK: discovery science
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1028.m3u8
+#EXTINF:0,UK: discovery history
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1029.m3u8
+#EXTINF:0,UK: discovery
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1030.m3u8
+#EXTINF:0,UK: Dave
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1075.m3u8
+#EXTINF:0,UK: Crime and Investigation
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1076.m3u8
+#EXTINF:0,UK: comedy central
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1031.m3u8
+#EXTINF:0,UK: colors
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1032.m3u8
+#EXTINF:0,UK: clubland
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1033.m3u8
+#EXTINF:0,UK: Citv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1077.m3u8
+#EXTINF:0,UK: chelsea
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1034.m3u8
+#EXTINF:0,UK: Channel 5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1078.m3u8
+#EXTINF:0,UK: channel 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1037.m3u8
+#EXTINF:0,UK: cbs drama
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1038.m3u8
+#EXTINF:0,UK: Cartoon Network
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1081.m3u8
+#EXTINF:0,UK: BT Sports Extra
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1082.m3u8
+#EXTINF:0,UK: bt sports 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1040.m3u8
+#EXTINF:0,UK: bt sports 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1041.m3u8
+#EXTINF:0,UK: BT SPORT 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1039.m3u8
+#EXTINF:0,UK: boxnation
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1042.m3u8
+#EXTINF:0,UK: bliss (music)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1043.m3u8
+#EXTINF:0,UK: bbc4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1044.m3u8
+#EXTINF:0,UK: bbc3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1045.m3u8
+#EXTINF:0,UK: bbc2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1046.m3u8
+#EXTINF:0,UK: bbc1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1047.m3u8
+#EXTINF:0,UK: BBC World News
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1083.m3u8
+#EXTINF:0,UK: BABY TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1084.m3u8
+#EXTINF:0,UK: at the races
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1048.m3u8
+#EXTINF:0,UK: animal planet
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1049.m3u8
+#EXTINF:0,UK: alibi
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1050.m3u8
+#EXTINF:0,UK: 5 usa
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1051.m3u8
+#EXTINF:0,UK: 5 star
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1052.m3u8
+#EXTINF:0,UK: 3E
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1053.m3u8
+#EXTINF:0,Sky Sports 5 HD UK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/971.m3u8
+#EXTINF:0,Sky Sports 4 HD UK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/972.m3u8
+#EXTINF:0,Sky Sports 3 HD UK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/973.m3u8
+#EXTINF:0,Sky Sports 2 HD UK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/974.m3u8
+#EXTINF:0,Sky Sports 1 HD UK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/975.m3u8
+#EXTINF:0,USA: ABC News HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/924.m3u8
+#EXTINF:0,USA: ESPN HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/945.m3u8
+#EXTINF:0,USA: Fox Sports 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/944.m3u8
+#EXTINF:0,USA: Fox Sports 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/943.m3u8
+#EXTINF:0,USA: HBO HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/942.m3u8
+#EXTINF:0,USA: NBA Sports US
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/941.m3u8
+#EXTINF:0,USA: sport1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/932.m3u8
+#EXTINF:0,USA: tsn1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/952.m3u8
+#EXTINF:0,USA: tsn2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/951.m3u8
+#EXTINF:0,USA: tsn3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/950.m3u8
+#EXTINF:0,USA: tsn4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/949.m3u8
+#EXTINF:0,USA: tsn5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/948.m3u8
+#EXTINF:0,Canada Sport: SNWL
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/954.m3u8
+#EXTINF:0,USA-VEVO 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1607.m3u8
+#EXTINF:0,USA-VEVO 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1606.m3u8
+#EXTINF:0,USA-VEVO 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1605.m3u8
+#EXTINF:0,Spanish: Movistar Series
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1656.m3u8
+#EXTINF:0,Spanish: Cine 3D
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1657.m3u8
+#EXTINF:0,Mexico: Trece HD mexico
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1658.m3u8
+#EXTINF:0,Italian: Premium Sport HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1659.m3u8
+#EXTINF:0,Netherlands: Ziggo Sport Racing
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2175.m3u8
+#EXTINF:0,Netherlands: Ziggo Sport Golf
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2176.m3u8
+#EXTINF:0,Netherlands: Veronica / Disney XD HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2177.m3u8
+#EXTINF:0,Netherlands: TV Oost
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2178.m3u8
+#EXTINF:0,Netherlands: TV 538
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2179.m3u8
+#EXTINF:0,Netherlands: TLC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2180.m3u8
+#EXTINF:0,Netherlands: Syfy
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2181.m3u8
+#EXTINF:0,Netherlands: Shorts TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2182.m3u8
+#EXTINF:0,Netherlands: SBS 9
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2183.m3u8
+#EXTINF:0,Netherlands: SBS 6 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2184.m3u8
+#EXTINF:0,Netherlands: RTV Drenthe
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2185.m3u8
+#EXTINF:0,Netherlands: RTV 7
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2186.m3u8
+#EXTINF:0,Netherlands: RTL Telekids
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2187.m3u8
+#EXTINF:0,Netherlands: RTL Lounge
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2188.m3u8
+#EXTINF:0,Netherlands: RTL 8 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2189.m3u8
+#EXTINF:0,Netherlands: RTL 7 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2190.m3u8
+#EXTINF:0,Netherlands: RTL 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2191.m3u8
+#EXTINF:0,Netherlands: RTL 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2192.m3u8
+#EXTINF:0,Netherlands: Omroep Zeeland
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2193.m3u8
+#EXTINF:0,Netherlands: NPO Zappelin Xtra/Humor TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2194.m3u8
+#EXTINF:0,Netherlands: NPO Politiek/Best
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2195.m3u8
+#EXTINF:0,Netherlands: NPO Doc
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2196.m3u8
+#EXTINF:0,Netherlands: NPO 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2197.m3u8
+#EXTINF:0,Netherlands: NPO 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2198.m3u8
+#EXTINF:0,Netherlands: NPO 101
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2199.m3u8
+#EXTINF:0,Netherlands: NPO 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2200.m3u8
+#EXTINF:0,Netherlands: Nicktoons
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2201.m3u8
+#EXTINF:0,Netherlands: Nickelodeon
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2202.m3u8
+#EXTINF:0,Netherlands: NET 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2203.m3u8
+#EXTINF:0,Netherlands: NET 5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2204.m3u8
+#EXTINF:0,Netherlands: National Geographic Channel HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2205.m3u8
+#EXTINF:0,Netherlands: L1 Limburg
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2206.m3u8
+#EXTINF:0,Netherlands: HBO 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2207.m3u8
+#EXTINF:0,Netherlands: HBO 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2208.m3u8
+#EXTINF:0,Netherlands: HBO 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2209.m3u8
+#EXTINF:0,Netherlands: HBO 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2210.m3u8
+#EXTINF:0,Netherlands: Fox Sports 2 Internationaal HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2211.m3u8
+#EXTINF:0,Netherlands: Fox Sports 1 Eredivisie HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2212.m3u8
+#EXTINF:0,Netherlands: Fox Life
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2213.m3u8
+#EXTINF:0,Netherlands: Fox
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2214.m3u8
+#EXTINF:0,Netherlands: Extreme Sports
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2215.m3u8
+#EXTINF:0,Netherlands: Eurosport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2216.m3u8
+#EXTINF:0,Netherlands: Edge Sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2217.m3u8
+#EXTINF:0,Netherlands: Disney Junior
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2218.m3u8
+#EXTINF:0,Netherlands: Disney Channel
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2219.m3u8
+#EXTINF:0,Netherlands: Discovery Channel
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2220.m3u8
+#EXTINF:0,Netherlands: Crime & Investigation
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2221.m3u8
+#EXTINF:0,Netherlands: Comedy Central Extra
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2222.m3u8
+#EXTINF:0,Netherlands: CBS Reality
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2223.m3u8
+#EXTINF:0,Netherlands: AT 5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2224.m3u8
+#EXTINF:0,Netherlands: 24Kitchen
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2225.m3u8
+#EXTINF:0,Netherlands: 192 TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2226.m3u8
+#EXTINF:0,Netherlands: 13th Street
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2227.m3u8
+#EXTINF:0,Netherlands: (BE) Vitaya
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2228.m3u8
+#EXTINF:0,Netherlands: (BE) Vijf
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2229.m3u8
+#EXTINF:0,Netherlands: (BE) Ketnet
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2230.m3u8
+#EXTINF:0,Netherlands: (BE) Jim
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2231.m3u8
+#EXTINF:0,Netherlands: (BE) Een HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2232.m3u8
+#EXTINF:0,Netherlands: (BE) Canvas HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2233.m3u8
+#EXTINF:0,Netherlands: (BE) Acht
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2234.m3u8
+#EXTINF:0,Netherlands Local: Sport 1 Voetbal HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1803.m3u8
+#EXTINF:0,Netherlands Local: Sport 1 Select HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1804.m3u8
+#EXTINF:0,Netherlands Local: Sport 1 Select
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1805.m3u8
+#EXTINF:0,Netherlands Local: Sport 1 Extra 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1806.m3u8
+#EXTINF:0,Netherlands Local: Sport 1 Extra 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1807.m3u8
+#EXTINF:0,Netherlands Local: MTV Music 24
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1808.m3u8
+#EXTINF:0,Netherlands Local: MTV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1809.m3u8
+#EXTINF:0,Netherlands Local: Fox Sports 6 Internationaal
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1810.m3u8
+#EXTINF:0,Netherlands Local: Fox Sports 5 Eredivisie
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1811.m3u8
+#EXTINF:0,Netherlands Local: Fox Sports 4 Internationaal
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1812.m3u8
+#EXTINF:0,Netherlands Local: Fox Sports 3 Eredivisie
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1813.m3u8
+#EXTINF:0,Netherlands Local: Fox Sports 2 Internationaal
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1814.m3u8
+#EXTINF:0,Netherlands Local: Fox Sports 1 Eredivisie
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1815.m3u8
+#EXTINF:0,Netherlands Local: Film 1 Sundance
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1816.m3u8
+#EXTINF:0,Netherlands Local: Film 1 Spotlight
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1817.m3u8
+#EXTINF:0,Netherlands Local: Film 1 Premiere HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1818.m3u8
+#EXTINF:0,Netherlands Local: Film 1 Comedy & Kids
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1819.m3u8
+#EXTINF:0,Netherlands Local: Film 1 Action HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1820.m3u8
+#EXTINF:0,Netherlands Local: Comedy Central
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1821.m3u8
+#EXTINF:0,Netherlands Local: Cartoon Network
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1822.m3u8
+#EXTINF:0,Netherlands: Veronica
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1153.m3u8
+#EXTINF:0,Netherlands: Sport 1 Voetbal (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1142.m3u8
+#EXTINF:0,Netherlands: Sport 1 Select HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1143.m3u8
+#EXTINF:0,Netherlands: Sport 1 Golf (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1144.m3u8
+#EXTINF:0,Netherlands: SBS 6 HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1145.m3u8
+#EXTINF:0,Netherlands: RTL 8 (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1146.m3u8
+#EXTINF:0,Netherlands: RTL 7 (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1147.m3u8
+#EXTINF:0,Netherlands: RTL 5 HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1148.m3u8
+#EXTINF:0,Netherlands: RTL 4 HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1149.m3u8
+#EXTINF:0,Netherlands: NPO 3 HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1150.m3u8
+#EXTINF:0,Netherlands: NPO 2 HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1151.m3u8
+#EXTINF:0,Netherlands: NPO 1 HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1152.m3u8
+#EXTINF:0,Netherlands: National Geographic Channel HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1161.m3u8
+#EXTINF:0,Netherlands: HBO HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1162.m3u8
+#EXTINF:0,Netherlands: HBO 3 (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1163.m3u8
+#EXTINF:0,Netherlands: HBO 2 (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1164.m3u8
+#EXTINF:0,Netherlands: FOX SPORTS 5 EREDIVISIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1156.m3u8
+#EXTINF:0,Netherlands: FOX SPORTS 4 EREDIVISIE)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1157.m3u8
+#EXTINF:0,Netherlands: FOX SPORTS 3 EREDIVISIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1158.m3u8
+#EXTINF:0,Netherlands: FOX SPORTS 2 EREDIVISIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1159.m3u8
+#EXTINF:0,Netherlands: Fox Sports 1 Eredivisie HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1165.m3u8
+#EXTINF:0,Netherlands: FOX SPORTS 1 EREDIVISIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1160.m3u8
+#EXTINF:0,Netherlands: Fox (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1166.m3u8
+#EXTINF:0,Netherlands: film1-syfy
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1154.m3u8
+#EXTINF:0,Netherlands: film1-comedy
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1155.m3u8
+#EXTINF:0,Netherlands: Film 1 Sundance (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1167.m3u8
+#EXTINF:0,Netherlands: Film 1 Premiere HD (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1168.m3u8
+#EXTINF:0,Netherlands: Film 1 Comedy and Kids (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1169.m3u8
+#EXTINF:0,Netherlands: Film 1 Action (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1170.m3u8
+#EXTINF:0,Netherlands: Discovery Channel (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1171.m3u8
+#EXTINF:0,Netherlands: Comedy Central (NL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1172.m3u8
+#EXTINF:0,Nordic: C More Sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1225.m3u8
+#EXTINF:0,Nordic: C more Series
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1226.m3u8
+#EXTINF:0,Nordic: C More Live 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1227.m3u8
+#EXTINF:0,Nordic: C More Live 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1228.m3u8
+#EXTINF:0,Nordic: C More Live 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1229.m3u8
+#EXTINF:0,Nordic: C More Live
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1230.m3u8
+#EXTINF:0,Nordic: C more hockey
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1231.m3u8
+#EXTINF:0,Nordic: C more Hits
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1232.m3u8
+#EXTINF:0,Nordic: C more Fotboll
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1233.m3u8
+#EXTINF:0,Nordic: C more First
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1234.m3u8
+#EXTINF:0,Nordic: C more Emotion
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1235.m3u8
+#EXTINF:0,Nordic: C more Action
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1236.m3u8
+#EXTINF:0,Nordic: 7 eren
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1237.m3u8
+#EXTINF:0,Nordic: 6 eren
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1238.m3u8
+#EXTINF:0,Local Spanish: VEVO HITS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2552.m3u8
+#EXTINF:0,Local Spanish: TVE 24 Horas
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2553.m3u8
+#EXTINF:0,Local Spanish: TV Canaria
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2554.m3u8
+#EXTINF:0,Local Spanish: Telecinco
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2555.m3u8
+#EXTINF:0,Local Spanish: TCM
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2556.m3u8
+#EXTINF:0,Local Spanish: Levante TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2558.m3u8
+#EXTINF:0,Local Spanish: Kiss TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2559.m3u8
+#EXTINF:0,Local Spanish: Eurosport 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2561.m3u8
+#EXTINF:0,Local Spanish: Divinity
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2562.m3u8
+#EXTINF:0,Local Spanish: Disney XD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2563.m3u8
+#EXTINF:0,Local Spanish: Canal Cocina
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2571.m3u8
+#EXTINF:0,Local Spanish: Canal Series Xtra
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2573.m3u8
+#EXTINF:0,Local Spanish: Boing
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2581.m3u8
+#EXTINF:0,Local Spanish: Baby TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2582.m3u8
+#EXTINF:0,Local Spanish: 7RM Murcia
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2583.m3u8
+#EXTINF:0,Spanish Local: TNT Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1706.m3u8
+#EXTINF:0,Spanish Local: SyFy Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1707.m3u8
+#EXTINF:0,Spanish Local: Real Madrid Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1708.m3u8
+#EXTINF:0,Spanish Local: Nickelodeon HD Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1711.m3u8
+#EXTINF:0,Spanish Local: Natgeo Wild Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1713.m3u8
+#EXTINF:0,Spanish Local: MTV Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1715.m3u8
+#EXTINF:0,Spanish Local: FOX Life Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1721.m3u8
+#EXTINF:0,Spanish Local: FDF Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1723.m3u8
+#EXTINF:0,Spanish Local: Energy Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1725.m3u8
+#EXTINF:0,Spanish Local: Discovery Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1729.m3u8
+#EXTINF:0,Spanish Local: Canal Series Xtra HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1735.m3u8
+#EXTINF:0,Spanish Local: Canal Partidazo
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1737.m3u8
+#EXTINF:0,Spanish Local: Canal 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1739.m3u8
+#EXTINF:0,Spanish Local: Canal Liga HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1741.m3u8
+#EXTINF:0,Spanish Local: Canal Futbol HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1743.m3u8
+#EXTINF:0,Spanish Local: Canal Deportes HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1744.m3u8
+#EXTINF:0,Spanish Local: Canal Dcine HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1745.m3u8
+#EXTINF:0,Spanish Local: Canal Comedia HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1746.m3u8
+#EXTINF:0,Spanish Local: Canal Accion HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1747.m3u8
+#EXTINF:0,Spanish Local: AXN Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1751.m3u8
+#EXTINF:0,Spanish Local: AMC Spain HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1753.m3u8
+#EXTINF:0,Spanish: TNT
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/793.m3u8
+#EXTINF:0,Spanish: REAL MADRID HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/795.m3u8
+#EXTINF:0,Spanish: Odisea HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/796.m3u8
+#EXTINF:0,Spanish: Nickelodeon Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/804.m3u8
+#EXTINF:0,Spanish: Nick Jr Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/805.m3u8
+#EXTINF:0,Spanish: National Geographic Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/762.m3u8
+#EXTINF:0,Spanish: Movistar MOTO GP
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/764.m3u8
+#EXTINF:0,Spanish: Movistar F1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/797.m3u8
+#EXTINF:0,Spanish: Hollywood Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/765.m3u8
+#EXTINF:0,Spanish: History
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/766.m3u8
+#EXTINF:0,Spanish: Fox Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/768.m3u8
+#EXTINF:0,Spanish: Fox Crime Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/769.m3u8
+#EXTINF:0,Spanish: FDF Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/770.m3u8
+#EXTINF:0,Spanish: Eurosport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/799.m3u8
+#EXTINF:0,Spanish: Energy Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/771.m3u8
+#EXTINF:0,Spanish: Disney Junior
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/773.m3u8
+#EXTINF:0,Spanish: Discovery
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/800.m3u8
+#EXTINF:0,Spanish: Caza y Pesca HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/801.m3u8
+#EXTINF:0,Spanish: Canal Estrenos HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/776.m3u8
+#EXTINF:0,Spanish: Canal Toros
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/780.m3u8
+#EXTINF:0,Spanish: Canal Liga
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/782.m3u8
+#EXTINF:0,Spanish: Canal Golf
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/783.m3u8
+#EXTINF:0,Spanish: Canal Futbol
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/784.m3u8
+#EXTINF:0,Spanish: Canal Deportes
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/785.m3u8
+#EXTINF:0,Spanish: Canal Dcine
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/786.m3u8
+#EXTINF:0,Spanish: Boing Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/788.m3u8
+#EXTINF:0,Spanish: Barca TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/789.m3u8
+#EXTINF:0,Spanish: AXN White Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/790.m3u8
+#EXTINF:0,Spanish: AXN Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/791.m3u8
+#EXTINF:0,Spanish: A&E Spain
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/792.m3u8
+#EXTINF:0,Turkish: YUMURCAK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2684.m3u8
+#EXTINF:0,Turkish: YolTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2685.m3u8
+#EXTINF:0,Turkish: YabanTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2686.m3u8
+#EXTINF:0,Turkish: UlusalKanal
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2688.m3u8
+#EXTINF:0,Turkish: TrtTürk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2689.m3u8
+#EXTINF:0,Turkish: TRT COCUK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2690.m3u8
+#EXTINF:0,Turkish: TivibuSpor2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2691.m3u8
+#EXTINF:0,Turkish: TivibuSpor1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2692.m3u8
+#EXTINF:0,Turkish: TGRT HABER
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2693.m3u8
+#EXTINF:0,Turkish: StarTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2695.m3u8
+#EXTINF:0,Turkish: SportTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2696.m3u8
+#EXTINF:0,Turkish: Smartspor
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2697.m3u8
+#EXTINF:0,Turkish: SINEMA 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2700.m3u8
+#EXTINF:0,Turkish: SINEMA 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2701.m3u8
+#EXTINF:0,Turkish: SINEMA 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2702.m3u8
+#EXTINF:0,Turkish: SamanyoluTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2704.m3u8
+#EXTINF:0,Turkish: SamanyoluHaber&euro
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2705.m3u8
+#EXTINF:0,Turkish: PowerTürk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2706.m3u8
+#EXTINF:0,Turkish: PLANET TURK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2707.m3u8
+#EXTINF:0,Turkish: PLANET MUTFAK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2709.m3u8
+#EXTINF:0,Turkish: PLANET COCUK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2710.m3u8
+#EXTINF:0,Turkish: MoviemaxTurk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2712.m3u8
+#EXTINF:0,Turkish: moviemaxstars
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2713.m3u8
+#EXTINF:0,Turkish: mavi-karadeniz-EgeTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2716.m3u8
+#EXTINF:0,Turkish: kraltv-/-tv-em
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2717.m3u8
+#EXTINF:0,Turkish: KanalB-/-ulketv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2718.m3u8
+#EXTINF:0,Turkish: HalkTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2720.m3u8
+#EXTINF:0,Turkish: HABERTURK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2721.m3u8
+#EXTINF:0,Turkish: HaberTürk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2722.m3u8
+#EXTINF:0,Turkish: FLASH TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2723.m3u8
+#EXTINF:0,Turkish: filtv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2724.m3u8
+#EXTINF:0,Turkish: E2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2725.m3u8
+#EXTINF:0,Turkish: DreamTv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2726.m3u8
+#EXTINF:0,Turkish: DISNEY CHANNEL
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2728.m3u8
+#EXTINF:0,Turkish: CNN TURK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2729.m3u8
+#EXTINF:0,Turkish: CINE 18
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2739.m3u8
+#EXTINF:0,Turkish: CINE 14
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2743.m3u8
+#EXTINF:0,Turkish: CINE 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2748.m3u8
+#EXTINF:0,Turkish: CemTv-/-360tv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2749.m3u8
+#EXTINF:0,Turkish: BUGUN TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2751.m3u8
+#EXTINF:0,Turkish: bugüntv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2752.m3u8
+#EXTINF:0,Turkish: BLOOMBERG
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2753.m3u8
+#EXTINF:0,Turkish: BEYAZ TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2754.m3u8
+#EXTINF:0,Turkish: BengüTürk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2755.m3u8
+#EXTINF:0,Turkish: 24 TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2760.m3u8
+#EXTINF:0,Turkish: TV 8 HD (TR)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/684.m3u8
+#EXTINF:0,Turkish: TV 2 (TR)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/685.m3u8
+#EXTINF:0,Turkish: TRT1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/696.m3u8
+#EXTINF:0,Turkish: TRT Spor
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/697.m3u8
+#EXTINF:0,Turkish: TRT Muzik (TR)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/722.m3u8
+#EXTINF:0,Turkish: TRT HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/698.m3u8
+#EXTINF:0,Turkish: Star TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/699.m3u8
+#EXTINF:0,Turkish: Sports TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/700.m3u8
+#EXTINF:0,Turkish: Smart Spor HD 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/686.m3u8
+#EXTINF:0,Turkish: Smart Spor HD 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/687.m3u8
+#EXTINF:0,Turkish: sinema1 hd
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/719.m3u8
+#EXTINF:0,Turkish: Show TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/703.m3u8
+#EXTINF:0,Turkish: PPV Salon 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/692.m3u8
+#EXTINF:0,Turkish: PPV Salon 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/693.m3u8
+#EXTINF:0,Turkish: PPV Salon 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/694.m3u8
+#EXTINF:0,Turkish: PPV Dsmart Loca3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/704.m3u8
+#EXTINF:0,Turkish: PPV Dsmart Loca2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/705.m3u8
+#EXTINF:0,Turkish: PPV Dsmart Loca1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/706.m3u8
+#EXTINF:0,Turkish: Power Turk (TR)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/731.m3u8
+#EXTINF:0,Turkish: ntv spor hd
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/720.m3u8
+#EXTINF:0,Turkish: Ntv Smart Spor HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/688.m3u8
+#EXTINF:0,Turkish: MovieSmart HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/707.m3u8
+#EXTINF:0,Turkish: ligtv3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/689.m3u8
+#EXTINF:0,Turkish: ligtv2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/690.m3u8
+#EXTINF:0,Turkish: ligtv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/691.m3u8
+#EXTINF:0,Turkish: KanalTurk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/708.m3u8
+#EXTINF:0,Turkish: Kanal D HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/709.m3u8
+#EXTINF:0,Turkish: Kanal 7
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/710.m3u8
+#EXTINF:0,Turkish: foxtv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/712.m3u8
+#EXTINF:0,Turkish: Fil TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/713.m3u8
+#EXTINF:0,Turkish: cine5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/714.m3u8
+#EXTINF:0,Turkish: ATV HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/715.m3u8
+#EXTINF:0,Turkish: A Spor HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/716.m3u8
+#EXTINF:0,Scandinavian: Sport Klub HD 3 Cro
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/866.m3u8
+#EXTINF:0,Scandinavian: Sport Klub HD 2 Cro
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/867.m3u8
+#EXTINF:0,Scandinavian: Sport Klub HD 1 Cro
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/868.m3u8
+#EXTINF:0,Scandinavian: Sport Klub 3 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/869.m3u8
+#EXTINF:0,Scandinavian: Sport Klub 2 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/870.m3u8
+#EXTINF:0,Scandinavian: Sport Klub 1 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/871.m3u8
+#EXTINF:0,Scandinavian: PinkZabava
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/895.m3u8
+#EXTINF:0,Scandinavian: PinkHorror
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/896.m3u8
+#EXTINF:0,Scandinavian: PinkBH
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/898.m3u8
+#EXTINF:0,Scandinavian: PINK-WORLD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/900.m3u8
+#EXTINF:0,Scandinavian: PINK-WESTERN
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/901.m3u8
+#EXTINF:0,Scandinavian: PINK-PREMIUM
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/904.m3u8
+#EXTINF:0,Scandinavian: PINK-M
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/907.m3u8
+#EXTINF:0,Scandinavian: PINK-KIDS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/908.m3u8
+#EXTINF:0,Scandinavian: PINK-FOLK-2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/909.m3u8
+#EXTINF:0,Scandinavian: PINK-COMEDY
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/911.m3u8
+#EXTINF:0,Scandinavian: PINK-ACTION
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/912.m3u8
+#EXTINF:0,Scandinavian: PINK-3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/913.m3u8
+#EXTINF:0,Scandinavian: PINK-2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/914.m3u8
+#EXTINF:0,Scandinavian: Pink Soap
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/915.m3u8
+#EXTINF:0,Scandinavian: Pink Plus
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/916.m3u8
+#EXTINF:0,Scandinavian: PINK EXTRA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/917.m3u8
+#EXTINF:0,Scandinavian: PINK – Crime & Mystery
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/918.m3u8
+#EXTINF:0,Scandinavian: PINK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/919.m3u8
+#EXTINF:0,Scandinavian: Esport 3 Cat
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/921.m3u8
+#EXTINF:0,Scandinavian: Eska Best.Music Tv
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/893.m3u8
+#EXTINF:0,Scandinavian: Digi Sport 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/863.m3u8
+#EXTINF:0,Scandinavian: Digi Sport 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/864.m3u8
+#EXTINF:0,Scandinavian: Digi Sport 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/865.m3u8
+#EXTINF:0,Scandinavian: Arena Sports 4 HD Croatia
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/877.m3u8
+#EXTINF:0,Scandinavian: Arena Sports 3 HD Croatia
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/878.m3u8
+#EXTINF:0,Scandinavian: Arena Sports 2 HD Croatia
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/879.m3u8
+#EXTINF:0,Scandinavian: Arena Sports 1 HD Croatia
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/880.m3u8
+#EXTINF:0,Scandinavian: Arena Sport 5 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/881.m3u8
+#EXTINF:0,Scandinavian: Arena Sport 4 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/882.m3u8
+#EXTINF:0,Scandinavian: Arena Sport 3 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/883.m3u8
+#EXTINF:0,Scandinavian: Arena Sport 2 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/884.m3u8
+#EXTINF:0,Scandinavian: Arena Sport 1 Srb
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/885.m3u8
+#EXTINF:0,Russian: SPORT
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1140.m3u8
+#EXTINF:0,Russian: Russia 24
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1141.m3u8
+#EXTINF:0,Russian: Football 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1138.m3u8
+#EXTINF:0,Russian: Football 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1139.m3u8
+#EXTINF:0,Portugal: VEVO 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/642.m3u8
+#EXTINF:0,Portugal: VEVO 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/643.m3u8
+#EXTINF:0,Portugal: VEVO 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/644.m3u8
+#EXTINF:0,Portugal: TVI FICCAO
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/645.m3u8
+#EXTINF:0,Portugal: TVCINE 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/647.m3u8
+#EXTINF:0,Portugal: TVCINE 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/648.m3u8
+#EXTINF:0,Portugal: TVCINE 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/649.m3u8
+#EXTINF:0,Portugal: TVCINE 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/650.m3u8
+#EXTINF:0,Portugal: TV SERIES
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/651.m3u8
+#EXTINF:0,Portugal: SportTV 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/637.m3u8
+#EXTINF:0,Portugal: SportTV 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/638.m3u8
+#EXTINF:0,Portugal: SportTV 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/639.m3u8
+#EXTINF:0,Portugal: SportTV 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/640.m3u8
+#EXTINF:0,Portugal: SportTV 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/641.m3u8
+#EXTINF:0,Portugal: SPORTING TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/652.m3u8
+#EXTINF:0,Portugal: SIC NOTICIAS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/653.m3u8
+#EXTINF:0,Portugal: SIC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/655.m3u8
+#EXTINF:0,Portugal: RTP 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/656.m3u8
+#EXTINF:0,Portugal: RTP 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/657.m3u8
+#EXTINF:0,Portugal: PORTO CANAL (test)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/658.m3u8
+#EXTINF:0,Portugal: ODISSEIA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/659.m3u8
+#EXTINF:0,Portugal: NATIONAL GEOGRAPHIC HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/660.m3u8
+#EXTINF:0,Portugal: FX Portuga
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/665.m3u8
+#EXTINF:0,Portugal: FOX HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/666.m3u8
+#EXTINF:0,Portugal: Eurosport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/667.m3u8
+#EXTINF:0,Portugal: DISNEY JUNIOR (test)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/668.m3u8
+#EXTINF:0,Portugal: DISNEY Channel
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/669.m3u8
+#EXTINF:0,Portugal: CM TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/671.m3u8
+#EXTINF:0,Portugal: CINEMUNDO
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/672.m3u8
+#EXTINF:0,Portugal: Cartoon Network Portugal
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/673.m3u8
+#EXTINF:0,Portugal: CANAL PANDA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/674.m3u8
+#EXTINF:0,Portugal: BENFICA TV 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/676.m3u8
+#EXTINF:0,Portugal: BENFICA TV 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/677.m3u8
+#EXTINF:0,Portugal: AXN WHITE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/678.m3u8
+#EXTINF:0,Portugal: AXN BLACK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/679.m3u8
+#EXTINF:0,Portugal: A BOLA TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/680.m3u8
+#EXTINF:0,Germany: WDR
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2677.m3u8
+#EXTINF:0,Germany: tnt-serie
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2662.m3u8
+#EXTINF:0,Germany: syfy
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2663.m3u8
+#EXTINF:0,Germany: swr
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2664.m3u8
+#EXTINF:0,Germany: Sporttime6
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2666.m3u8
+#EXTINF:0,Germany: Pro7
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2668.m3u8
+#EXTINF:0,Germany: phonix
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2669.m3u8
+#EXTINF:0,Germany: NDR backup
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2681.m3u8
+#EXTINF:0,Germany: Mgm-/-Dmax
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2670.m3u8
+#EXTINF:0,Germany: history
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2671.m3u8
+#EXTINF:0,Germany: foxlife
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2672.m3u8
+#EXTINF:0,Germany: das-erste
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2673.m3u8
+#EXTINF:0,Germany: arte
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2674.m3u8
+#EXTINF:0,Germany: ard1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2675.m3u8
+#EXTINF:0,Germany: 3sat
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2676.m3u8
+#EXTINF:0,Germany: Sky-Select HD1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1496.m3u8
+#EXTINF:0,Germany: Sky-Select HD2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1495.m3u8
+#EXTINF:0,Germany: Sky-Select HD3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1494.m3u8
+#EXTINF:0,Germany: Sky-Select HD4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1493.m3u8
+#EXTINF:0,Germany: Sky-Select HD5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1492.m3u8
+#EXTINF:0,Germany: Sky-Select HD6
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1491.m3u8
+#EXTINF:0,Germany: Sky-Select HD7
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1490.m3u8
+#EXTINF:0,Germany: Sky-Select HD8
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1489.m3u8
+#EXTINF:0,German: ZDF HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/828.m3u8
+#EXTINF:0,German: VOX HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/829.m3u8
+#EXTINF:0,German: Super RTL
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/831.m3u8
+#EXTINF:0,German: Sport Time 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/837.m3u8
+#EXTINF:0,German: Sport Time 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/838.m3u8
+#EXTINF:0,German: SKY_SPORTS2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/820.m3u8
+#EXTINF:0,German: SKY_SPORTS1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/821.m3u8
+#EXTINF:0,German: SKY_COMEDY
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/822.m3u8
+#EXTINF:0,German: sky_cinema_hd
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/823.m3u8
+#EXTINF:0,German: SKY_BUNDESLIGA1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/824.m3u8
+#EXTINF:0,German: sky_action
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/825.m3u8
+#EXTINF:0,German: SKY Krimi
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/840.m3u8
+#EXTINF:0,German: Sky hits
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/841.m3u8
+#EXTINF:0,German: Sky Emotion
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/861.m3u8
+#EXTINF:0,German: Sky Cinema 24 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/842.m3u8
+#EXTINF:0,German: Sky Cartoon Network
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/843.m3u8
+#EXTINF:0,German: SKY ATLANTIC HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/844.m3u8
+#EXTINF:0,German: Sat 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/845.m3u8
+#EXTINF:0,German: RTL Nitro
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/846.m3u8
+#EXTINF:0,German: RTL HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/847.m3u8
+#EXTINF:0,German: RTL 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/848.m3u8
+#EXTINF:0,German: ORF 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/850.m3u8
+#EXTINF:0,German: ORF 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/851.m3u8
+#EXTINF:0,German: nat_geo_hd
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/826.m3u8
+#EXTINF:0,German: natgeo_wild
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/827.m3u8
+#EXTINF:0,German: N-TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/852.m3u8
+#EXTINF:0,German: MGM
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/818.m3u8
+#EXTINF:0,German: Kika
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/854.m3u8
+#EXTINF:0,German: KABEL 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/855.m3u8
+#EXTINF:0,German: Eurosport HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/856.m3u8
+#EXTINF:0,German: Discovery
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/857.m3u8
+#EXTINF:0,German: Boomerang
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/858.m3u8
+#EXTINF:0,German: AXN
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/859.m3u8
+#EXTINF:0,German: 13th Street Germany HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/860.m3u8
+#EXTINF:0,Greek: Vouli
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/807.m3u8
+#EXTINF:0,Greek: STAR
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/808.m3u8
+#EXTINF:0,Greek: NERIT
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/810.m3u8
+#EXTINF:0,Greek: MEGA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/811.m3u8
+#EXTINF:0,Greek: Kontra
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/816.m3u8
+#EXTINF:0,Greek: ANT1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/814.m3u8
+#EXTINF:0,Greek: ALPHA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/815.m3u8
+#EXTINF:0,French: Weo
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1392.m3u8
+#EXTINF:0,French: W9
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1378.m3u8
+#EXTINF:0,French: TVA (Canada)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1393.m3u8
+#EXTINF:0,French: TV M3 (Switzerland)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1394.m3u8
+#EXTINF:0,French: tf1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1357.m3u8
+#EXTINF:0,French: Teva HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1395.m3u8
+#EXTINF:0,French: TELETOON
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1396.m3u8
+#EXTINF:0,French: SYFY
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1358.m3u8
+#EXTINF:0,French: Sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1379.m3u8
+#EXTINF:0,French: Serie Club
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1380.m3u8
+#EXTINF:0,French: SCIENCES & VIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1397.m3u8
+#EXTINF:0,French: Science et Vie TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1398.m3u8
+#EXTINF:0,French: RTS Un
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1399.m3u8
+#EXTINF:0,French: RTS Deux
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1400.m3u8
+#EXTINF:0,French: RTL 9 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1381.m3u8
+#EXTINF:0,French: ROUGE TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1401.m3u8
+#EXTINF:0,French: PLANETE CI
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1402.m3u8
+#EXTINF:0,French: planet hd a&e
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1359.m3u8
+#EXTINF:0,French: Paris Premiere
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1403.m3u8
+#EXTINF:0,French: OLTV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1404.m3u8
+#EXTINF:0,French: OCS City HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1405.m3u8
+#EXTINF:0,French: NRJ TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1406.m3u8
+#EXTINF:0,French: NRJ 12
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1407.m3u8
+#EXTINF:0,French: Notélé (belgique)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1408.m3u8
+#EXTINF:0,French: nat geo wild
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1360.m3u8
+#EXTINF:0,French: Monaco Info
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1409.m3u8
+#EXTINF:0,French: ma chaine sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1361.m3u8
+#EXTINF:0,French: M6
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1362.m3u8
+#EXTINF:0,French: LCP
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1410.m3u8
+#EXTINF:0,French: LA TELE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1411.m3u8
+#EXTINF:0,French: Infosport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1382.m3u8
+#EXTINF:0,French: gulli
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1383.m3u8
+#EXTINF:0,French: France5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1363.m3u8
+#EXTINF:0,French: France4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1364.m3u8
+#EXTINF:0,French: france3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1365.m3u8
+#EXTINF:0,French: france2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1366.m3u8
+#EXTINF:0,French: France O HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1412.m3u8
+#EXTINF:0,French: France 24 en Francais
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1413.m3u8
+#EXTINF:0,French: FOOT PLUS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1367.m3u8
+#EXTINF:0,French: EUROSPORT
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1368.m3u8
+#EXTINF:0,French: Euronews
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1414.m3u8
+#EXTINF:0,French: Enorme TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1415.m3u8
+#EXTINF:0,French: E! entertainment
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1384.m3u8
+#EXTINF:0,French: Disney Cinemagic
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1416.m3u8
+#EXTINF:0,French: DISNEY CHANNEL
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1417.m3u8
+#EXTINF:0,French: d8
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1369.m3u8
+#EXTINF:0,French: d17
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1370.m3u8
+#EXTINF:0,French: Cusine tv HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1418.m3u8
+#EXTINF:0,French: COMEDIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1419.m3u8
+#EXTINF:0,French: Cine Premier
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1385.m3u8
+#EXTINF:0,French: CINE PLUS PREMIERE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1371.m3u8
+#EXTINF:0,French: Cine Famiz
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1386.m3u8
+#EXTINF:0,French: Cine Emotion
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1387.m3u8
+#EXTINF:0,French: Cine Club
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1388.m3u8
+#EXTINF:0,French: CINE CLASSIC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1420.m3u8
+#EXTINF:0,French: CINE FRISSON
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1431.m3u8
+#EXTINF:0,French: CHASSE & PÊCHE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1421.m3u8
+#EXTINF:0,French: cartoon network
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1372.m3u8
+#EXTINF:0,French: Canal plus sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1389.m3u8
+#EXTINF:0,French: CANAL PLUS DECALE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1373.m3u8
+#EXTINF:0,French: canal plus cinema
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1374.m3u8
+#EXTINF:0,French: CANAL PLUS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1375.m3u8
+#EXTINF:0,French: Canal 9 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1422.m3u8
+#EXTINF:0,French: Canal Series
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1423.m3u8
+#EXTINF:0,French: Boomerang
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1424.m3u8
+#EXTINF:0,French: BFM TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1425.m3u8
+#EXTINF:0,French: BFM Buisness
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1426.m3u8
+#EXTINF:0,French: bein sport2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1376.m3u8
+#EXTINF:0,French: bein sport1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1377.m3u8
+#EXTINF:0,French: ARTE (France)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1427.m3u8
+#EXTINF:0,French: Animaux HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1428.m3u8
+#EXTINF:0,French: Action
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1390.m3u8
+#EXTINF:0,French: AB1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1429.m3u8
+#EXTINF:0,French: 13 eme Rue HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1430.m3u8
+#EXTINF:0,Albanian: TVSH
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2646.m3u8
+#EXTINF:0,Albanian: TV Koha Tetovë HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2647.m3u8
+#EXTINF:0,Albanian: Supersport Kosova 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2648.m3u8
+#EXTINF:0,Albanian: Supersport Kosova 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2649.m3u8
+#EXTINF:0,Albanian: RTV Islam
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2650.m3u8
+#EXTINF:0,Albanian: RTV 21 Plus
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2651.m3u8
+#EXTINF:0,Albanian: RTV 21 HD Popullore
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2653.m3u8
+#EXTINF:0,Albanian: RTV 21 HD Junior
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2654.m3u8
+#EXTINF:0,Albanian: KTV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2655.m3u8
+#EXTINF:0,Albanian: Fox Life
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2656.m3u8
+#EXTINF:0,Albanian: Fox
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2657.m3u8
+#EXTINF:0,Albanian: Folk
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2658.m3u8
+#EXTINF:0,Albanian: Cufo TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2659.m3u8
+#EXTINF:0,Albanian: ALSAT-M
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2660.m3u8
+#EXTINF:0,Arabic: MBC BOLLYwood
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/636.m3u8
+#EXTINF:0,Albanian: Vizion Plus
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1089.m3u8
+#EXTINF:0,Albanian: TV3 Cat
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1085.m3u8
+#EXTINF:0,Albanian: TV Era (AL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1086.m3u8
+#EXTINF:0,Albanian: Tring World
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1090.m3u8
+#EXTINF:0,Albanian: Tring Tring
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1091.m3u8
+#EXTINF:0,Albanian: Tring Super
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1092.m3u8
+#EXTINF:0,Albanian: Tring Shqip
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1093.m3u8
+#EXTINF:0,Albanian: Tring Max
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1094.m3u8
+#EXTINF:0,Albanian: Tring Life
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1095.m3u8
+#EXTINF:0,Albanian: Tring Komedi
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1096.m3u8
+#EXTINF:0,Albanian: Tring History
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1097.m3u8
+#EXTINF:0,Albanian: Top News (AL)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1087.m3u8
+#EXTINF:0,Albanian: Top Channel HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1100.m3u8
+#EXTINF:0,Albanian: Super Sports 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1101.m3u8
+#EXTINF:0,Albanian: Super Sports 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1102.m3u8
+#EXTINF:0,Albanian: Super Sports 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1103.m3u8
+#EXTINF:0,Albanian: Super Sports 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1104.m3u8
+#EXTINF:0,Albanian: RTV 21
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1105.m3u8
+#EXTINF:0,Albanian: KTV Kohavision
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1106.m3u8
+#EXTINF:0,Albanian: Junior
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1107.m3u8
+#EXTINF:0,Albanian: Film Thriller
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1108.m3u8
+#EXTINF:0,Albanian: Film NJE HD Subs
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1109.m3u8
+#EXTINF:0,Albanian: Film NJE HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1110.m3u8
+#EXTINF:0,Albanian: Film Komedi
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1111.m3u8
+#EXTINF:0,Albanian: Film DY HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1112.m3u8
+#EXTINF:0,Albanian: Film Drama
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1113.m3u8
+#EXTINF:0,Albanian: Film Digi Gold
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1114.m3u8
+#EXTINF:0,Albanian: Film Action HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1115.m3u8
+#EXTINF:0,Albanian: Explorer SHKENCE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1116.m3u8
+#EXTINF:0,Albanian: Explorer Natyre
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1117.m3u8
+#EXTINF:0,Albanian: Explorer History
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1118.m3u8
+#EXTINF:0,Albanian: Digit Alb Film Hits
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1120.m3u8
+#EXTINF:0,Albanian: Digit Alb Aksion
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1121.m3u8
+#EXTINF:0,Albanian: BBF Music
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1123.m3u8
+#EXTINF:0,Albania: SUPERSONIC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1132.m3u8
+#EXTINF:0,Albania: RTK 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1133.m3u8
+#EXTINF:0,Albania: KLAN KOSOVA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1135.m3u8
+#EXTINF:0,Albania: KLAN
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1136.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2278.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2276.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2275.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2274.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2273.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 6 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2272.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 7 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2271.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 8 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2270.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 9 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2269.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 10 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2277.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 11 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2630.m3u8
+#EXTINF:0,1Mb_Local: BeinSport 12 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2629.m3u8
+#EXTINF:0,1Mb_CTH STADIUM 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1953.m3u8
+#EXTINF:0,1Mb_CTH STADIUM 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1952.m3u8
+#EXTINF:0,1Mb_CTH STADIUM 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1951.m3u8
+#EXTINF:0,1Mb_CTH STADIUM 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1950.m3u8
+#EXTINF:0,1Mb_CTH STADIUM 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1949.m3u8
+#EXTINF:0,1Mb_CTH STADIUM 6 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1948.m3u8
+#EXTINF:0,1Mb_German: SKY_BUNDESLIGA1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1928.m3u8
+#EXTINF:0,1Mb_German: SKY_SPORTS1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1927.m3u8
+#EXTINF:0,1Mb_German: SKY_SPORTS2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1926.m3u8
+#EXTINF:0,1Mb_Italian: Fox Sports 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1925.m3u8
+#EXTINF:0,1Mb_Italian: SKY_SPORT1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1923.m3u8
+#EXTINF:0,1Mb_Italian: SKY_SPORT2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1922.m3u8
+#EXTINF:0,1Mb_Italian: sky_sport3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1921.m3u8
+#EXTINF:0,1Mb_Italian: SKY_SPORT_24
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1920.m3u8
+#EXTINF:0,1Mb_UK: bt sports 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1945.m3u8
+#EXTINF:0,1Mb_UK: bt sports 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1944.m3u8
+#EXTINF:0,1Mb_UK: Eurosport 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1947.m3u8
+#EXTINF:0,1Mb_UK: Eurosport 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1946.m3u8
+#EXTINF:0,1Mb_UK: mtv hits
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1943.m3u8
+#EXTINF:0,1Mb_UK: mtv music
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1942.m3u8
+#EXTINF:0,1Mb_UK: sky movies action
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1941.m3u8
+#EXTINF:0,1Mb_UK: sky movies comedy
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1940.m3u8
+#EXTINF:0,1Mb_UK: sky movies disney
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1939.m3u8
+#EXTINF:0,1Mb_UK: sky movies drama
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1938.m3u8
+#EXTINF:0,1Mb_UK: sky movies family
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1937.m3u8
+#EXTINF:0,1Mb_UK: sky movies modern great
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1936.m3u8
+#EXTINF:0,1Mb_UK: sky movies premiere
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1935.m3u8
+#EXTINF:0,1Mb_UK: sky movies scifi
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1934.m3u8
+#EXTINF:0,1Mb_UK: sky movies select
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1933.m3u8
+#EXTINF:0,1Mb_UK: sky movies thriller
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1932.m3u8
+#EXTINF:0,1Mb_UK: Sky Sports 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1919.m3u8
+#EXTINF:0,1Mb_UK: Sky Sports 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1918.m3u8
+#EXTINF:0,1Mb_UK: sky sports 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1917.m3u8
+#EXTINF:0,1Mb_UK: sky sports 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1916.m3u8
+#EXTINF:0,1Mb_UK: sky sports 5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1915.m3u8
+#EXTINF:0,1Mb_UK: Sky Sports F1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1914.m3u8
+#EXTINF:0,1Mb_UK: sky sports news
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1913.m3u8
+#EXTINF:0,1Mb_USA-VEVO 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1931.m3u8
+#EXTINF:0,1Mb_USA-VEVO 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1930.m3u8
+#EXTINF:0,1Mb_USA-VEVO 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1929.m3u8
+#EXTINF:0,Local: BeinSport 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1883.m3u8
+#EXTINF:0,Local: BeinSport 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1875.m3u8
+#EXTINF:0,Local: BeinSport 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1874.m3u8
+#EXTINF:0,Local: BeinSport 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1873.m3u8
+#EXTINF:0,Local: BeinSport 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1872.m3u8
+#EXTINF:0,Local: BeinSport 6 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1871.m3u8
+#EXTINF:0,Local: BeinSport 7 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1870.m3u8
+#EXTINF:0,Local: BeinSport 8 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1869.m3u8
+#EXTINF:0,Local: BeinSport 9 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1868.m3u8
+#EXTINF:0,Local: BeinSport 10 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1882.m3u8
+#EXTINF:0,Local: BeinSport 11 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1881.m3u8
+#EXTINF:0,Local: BeinSport 12 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1880.m3u8
+#EXTINF:0,BeinSport 13 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1879.m3u8
+#EXTINF:0,BeinSport 14 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1878.m3u8
+#EXTINF:0,BeinSport 15 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1877.m3u8
+#EXTINF:0,CTH STADIUM 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1534.m3u8
+#EXTINF:0,CTH STADIUM 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1533.m3u8
+#EXTINF:0,CTH STADIUM 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1532.m3u8
+#EXTINF:0,CTH STADIUM 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1531.m3u8
+#EXTINF:0,CTH STADIUM 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1530.m3u8
+#EXTINF:0,CTH STADIUM 6 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1529.m3u8
+#EXTINF:0,CTH Stadium X HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1528.m3u8
+#EXTINF:0,IRAN: IRIB AMOZESH
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2621.m3u8
+#EXTINF:0,IRAN: IRIB BAZAR
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2622.m3u8
+#EXTINF:0,IRAN: IRIB FILM
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2619.m3u8
+#EXTINF:0,IRAN: IRIB MOSTANAD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2620.m3u8
+#EXTINF:0,IRAN: IRIB NAMAYESH
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2628.m3u8
+#EXTINF:0,IRAN: IRIB NASIM
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2625.m3u8
+#EXTINF:0,IRAN: IRIB pouya
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2626.m3u8
+#EXTINF:0,IRAN: IRIB SALAMAT
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2624.m3u8
+#EXTINF:0,IRAN: IRIB SHOMA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2623.m3u8
+#EXTINF:0,IRAN: IRIB TV1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2611.m3u8
+#EXTINF:0,IRAN: IRIB TV2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2612.m3u8
+#EXTINF:0,IRAN: IRIB TV3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2613.m3u8
+#EXTINF:0,IRAN: IRIB TV4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2614.m3u8
+#EXTINF:0,IRAN: IRIB TV5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2615.m3u8
+#EXTINF:0,IRAN: IRIB VARZESH
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2616.m3u8
+#EXTINF:0,IRAN: IRINN
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2617.m3u8
+#EXTINF:0,IRAN: Farsi1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2609.m3u8
+#EXTINF:0,IRAN: VOA Persian
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2497.m3u8
+#EXTINF:0,IRAN: channel 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2513.m3u8
+#EXTINF:0,IRAN: bbc persian
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2514.m3u8
+#EXTINF:0,IRAN :TapeshTV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2516.m3u8
+#EXTINF:0,IRAN :RUBIX
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2517.m3u8
+#EXTINF:0,IRAN :RIVER
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2518.m3u8
+#EXTINF:0,IRAN :Onyx
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2521.m3u8
+#EXTINF:0,IRAN :MIFA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2525.m3u8
+#EXTINF:0,IRAN :GEM TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2536.m3u8
+#EXTINF:0,IRAN : PMC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2550.m3u8
+#EXTINF:0,Local USA: Starze Dge HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2143.m3u8
+#EXTINF:0,Local USA: Starz Encore HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2144.m3u8
+#EXTINF:0,Local USA: Starz East HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2145.m3u8
+#EXTINF:0,Local USA: Starz Cinema HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2146.m3u8
+#EXTINF:0,Local USA: NBC HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2148.m3u8
+#EXTINF:0,Local USA: NBA HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2149.m3u8
+#EXTINF:0,Local USA: History HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2150.m3u8
+#EXTINF:0,Local USA: HBO Zone HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2151.m3u8
+#EXTINF:0,Local USA: HBO Signature HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2152.m3u8
+#EXTINF:0,Local USA: HBO East
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2153.m3u8
+#EXTINF:0,Local USA: HBO Comedy HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2154.m3u8
+#EXTINF:0,Local USA: FOX Sport 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2155.m3u8
+#EXTINF:0,Local USA: FOX Sport 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2156.m3u8
+#EXTINF:0,Local USA: FOX HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2157.m3u8
+#EXTINF:0,Local USA: ESPN 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2159.m3u8
+#EXTINF:0,Local USA: ESPN 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2160.m3u8
+#EXTINF:0,Local USA: DISCOVERY TURBO EN
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2161.m3u8
+#EXTINF:0,Local USA: Discovery HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2163.m3u8
+#EXTINF:0,Local USA: CNN HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2165.m3u8
+#EXTINF:0,Local USA: Cinemax East HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2166.m3u8
+#EXTINF:0,Local USA: Cinemax Action HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2167.m3u8
+#EXTINF:0,Local USA: Cinemax 5 Star HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2168.m3u8
+#EXTINF:0,Local USA: CBS HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2169.m3u8
+#EXTINF:0,Local USA: CBC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2170.m3u8
+#EXTINF:0,Local USA: BLOOMBERG HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2171.m3u8
+#EXTINF:0,Local USA: ABC NEWS HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2172.m3u8
+#EXTINF:0,Local USA: ABC HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2173.m3u8
+#EXTINF:0,CAN: OMNI 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2174.m3u8
+#EXTINF:0,Pezhvak Show
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/2011.m3u8
+#EXTINF:0,Pars TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1972.m3u8
+#EXTINF:0,ITN
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1974.m3u8
+#EXTINF:0,ITC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1987.m3u8
+#EXTINF:0,Gem USA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1981.m3u8
+#EXTINF:0,Ganj E Hozour TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1982.m3u8
+#EXTINF:0,Didar Global Plus
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1984.m3u8
+#EXTINF:0,ANDISHEH TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1973.m3u8
+#EXTINF:0,Almas TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1993.m3u8
+
+#EXTINF:-1,[COLOR yellow]By tutorial-iptv-xbmc.blogspot.com[/B][/I][/COLOR]
+http://0.1.56.0:1224
+
+#EXTINF:-1,Amedia 1 HD
+http://92.127.217.138:1234/udp/225.54.41.29:5000
+#EXTINF:-1,Amedia HIT HD
+http://92.127.217.138:1234/udp/225.54.41.41:5000
+#EXTINF:-1,Amedia Premium HD
+http://92.127.217.138:1234/udp/225.54.41.30:5000
+#EXTINF:-1,Amedia Premium HD
+http://92.127.217.138:1234/udp/225.54.43.30:5000
+#EXTINF:-1,Discovery Channel HD
+http://92.127.217.138:1234/udp/225.54.41.18:5000
+#EXTINF:-1,Discovery Science HD
+http://92.127.217.138:1234/udp/225.54.41.35:5000
+#EXTINF:-1,Fashion One HD
+http://92.127.217.138:1234/udp/225.54.41.12:5000
+#EXTINF:-1,FOX HD
+http://92.127.217.138:1234/udp/225.54.41.17:5000
+#EXTINF:-1,FOX Life HD
+http://92.127.217.138:1234/udp/225.54.41.5:5000
+#EXTINF:-1,History HD
+http://92.127.217.138:1234/udp/225.54.41.26:5000
+#EXTINF:-1,Mezzo Live HD
+http://92.127.217.138:1234/udp/225.54.41.11:5000
+#EXTINF:-1,MTV Live HD
+http://92.127.217.138:1234/udp/225.54.41.10:5000
+#EXTINF:-1,MyZen.TV HD
+http://92.127.217.138:1234/udp/225.54.41.9:5000
+#EXTINF:-1,Nat Geo Wild HD
+http://92.127.217.138:1234/udp/225.54.41.7:5000
+#EXTINF:-1,National Geographic HD
+http://92.127.217.138:1234/udp/225.54.41.6:5000
+#EXTINF:-1,Nickelodeon HD
+http://92.127.217.138:1234/udp/225.54.41.15:5000
+#EXTINF:-1,Outdoor Channel HD
+http://92.127.217.138:1234/udp/225.54.41.13:5000
+#EXTINF:-1,Paramount Channel HD
+http://92.127.217.138:1234/udp/225.54.41.31:5000
+#EXTINF:-1,Paramount Comedy HD
+http://92.127.217.138:1234/udp/225.54.41.37:5000
+#EXTINF:-1,Russia Today HD
+http://92.127.217.138:1234/udp/225.54.41.25:5000
+#EXTINF:-1,SET HD
+http://92.127.217.138:1234/udp/225.54.41.16:5000
+#EXTINF:-1,TLC HD
+http://92.127.217.138:1234/udp/225.54.41.36:5000
+#EXTINF:-1,Travel And Adventure HD
+http://92.127.217.138:1234/udp/225.54.41.8:5000
+#EXTINF:-1,TV1000 Comedy HD
+http://92.127.217.138:1234/udp/225.54.41.22:5000
+#EXTINF:-1,TV1000 Comedy HD
+http://92.127.217.138:1234/udp/225.54.43.22:5000
+#EXTINF:-1,TV1000 Megahit HD
+http://92.127.217.138:1234/udp/225.54.41.21:5000
+#EXTINF:-1,TV1000 Megahit HD
+http://92.127.217.138:1234/udp/225.54.43.21:5000
+#EXTINF:-1,TV1000 Premium HD
+http://92.127.217.138:1234/udp/225.54.41.20:5000
+#EXTINF:-1,TV1000 Premium HD
+http://92.127.217.138:1234/udp/225.54.43.20:5000
+#EXTINF:-1,Viasat Nature HD
+http://92.127.217.138:1234/udp/225.54.41.28:5000
+#EXTINF:-1,Viasat Nature HD
+http://92.127.217.138:1234/udp/225.54.43.28:5000
+#EXTINF:-1,Наш Футбол HD
+http://92.127.217.138:1234/udp/225.54.41.4:5000
+#EXTINF:-1,Наш Футбол HD
+http://92.127.217.138:1234/udp/225.54.43.4:5000
+#EXTINF:-1,Первый канал HD
+http://92.127.217.138:1234/udp/225.54.41.1:5000
+#EXTINF:-1,Россия HD
+http://92.127.217.138:1234/udp/225.54.41.23:5000
+#EXTINF:-1,Спорт 1 HD
+http://92.127.217.138:1234/udp/225.54.41.3:5000
+#EXTINF:-1,2×2
+http://92.127.217.138:1234/udp/225.54.223.241:5000
+#EXTINF:-1,2×2
+http://92.127.217.138:1234/udp/225.54.223.242:5000
+#EXTINF:-1,2×2
+http://92.127.217.138:1234/udp/225.54.223.243:5000
+#EXTINF:-1,8 канал
+http://92.127.217.138:1234/udp/225.54.23.154:5000
+#EXTINF:-1,8 канал
+http://92.127.217.138:1234/udp/239.1.128.62:5000
+#EXTINF:-1,24 DOC
+http://92.127.217.138:1234/udp/225.54.23.81:5000
+#EXTINF:-1,24 Техно
+http://92.127.217.138:1234/udp/225.54.23.57:5000
+#EXTINF:-1,49 канал Новосибирск
+http://92.127.217.138:1234/udp/239.1.128.53:5000
+#EXTINF:-1,A-One
+http://92.127.217.138:1234/udp/225.54.23.114:5000
+#EXTINF:-1,AMC
+http://92.127.217.138:1234/udp/225.54.23.46:5000
+#EXTINF:-1,Amedia 1
+http://92.127.217.138:1234/udp/225.54.23.36:5000
+#EXTINF:-1,Animal Planet
+http://92.127.217.138:1234/udp/239.1.5.3:1234
+#EXTINF:-1,Baby TV
+http://92.127.217.138:1234/udp/225.54.23.102:5000
+#EXTINF:-1,BBC World News
+http://92.127.217.138:1234/udp/225.54.23.10:5000
+#EXTINF:-1,Boomerang
+http://92.127.217.138:1234/udp/225.54.23.103:5000
+#EXTINF:-1,Bridge TV
+http://92.127.217.138:1234/udp/225.54.23.122:5000
+#EXTINF:-1,Cartoon Network
+http://92.127.217.138:1234/udp/225.54.23.95:5000
+#EXTINF:-1,Deutsche Welle
+http://92.127.217.138:1234/udp/225.54.23.7:5000
+#EXTINF:-1,Disney
+http://92.127.217.138:1234/udp/225.54.223.231:5000
+#EXTINF:-1,Disney
+http://92.127.217.138:1234/udp/239.1.128.60:5000
+#EXTINF:-1,Disney
+http://92.127.217.138:1234/udp/225.54.223.232:5000
+#EXTINF:-1,English Club TV
+http://92.127.217.138:1234/udp/225.54.23.72:5000
+#EXTINF:-1,Euronews
+http://92.127.217.138:1234/udp/225.54.23.6:5000
+#EXTINF:-1,Europa Plus TV
+http://92.127.217.138:1234/udp/225.54.23.123:5000
+#EXTINF:-1,Eurosport
+http://92.127.217.138:1234/udp/225.54.23.130:5000
+#EXTINF:-1,Eurosport 2
+http://92.127.217.138:1234/udp/225.54.23.131:5000
+#EXTINF:-1,Eurosport News
+http://92.127.217.138:1234/udp/225.54.23.144:5000
+#EXTINF:-1,Extreme Sports
+http://92.127.217.138:1234/udp/225.54.23.139:5000
+#EXTINF:-1,Fashion TV
+http://92.127.217.138:1234/udp/225.54.23.106:5000
+#EXTINF:-1,FOX
+http://92.127.217.138:1234/udp/225.54.23.30:5000
+#EXTINF:-1,FOX Life
+http://92.127.217.138:1234/udp/225.54.23.31:5000
+#EXTINF:-1,France 24
+http://92.127.217.138:1234/udp/225.54.23.4:5000
+#EXTINF:-1,History
+http://92.127.217.138:1234/udp/225.54.23.52:5000
+#EXTINF:-1,ID Xtra
+http://92.127.217.138:1234/udp/225.54.23.83:5000
+#EXTINF:-1,JimJam
+http://92.127.217.138:1234/udp/225.54.23.99:5000
+#EXTINF:-1,LifeNews
+http://92.127.217.138:1234/udp/225.54.23.16:5000
+#EXTINF:-1,MCM TOP
+http://92.127.217.138:1234/udp/225.54.23.121:5000
+#EXTINF:-1,Mezzo
+http://92.127.217.138:1234/udp/225.54.23.128:5000
+#EXTINF:-1,Motors TV
+http://92.127.217.138:1234/udp/225.54.23.140:5000
+#EXTINF:-1,MTV Dance
+http://92.127.217.138:1234/udp/225.54.23.124:5000
+#EXTINF:-1,MTV Hits
+http://92.127.217.138:1234/udp/225.54.23.125:5000
+#EXTINF:-1,MTV Rocks
+http://92.127.217.138:1234/udp/225.54.23.126:5000
+#EXTINF:-1,MTV Россия
+http://92.127.217.138:1234/udp/225.54.23.112:5000
+#EXTINF:-1,Music Box
+http://92.127.217.138:1234/udp/225.54.23.116:5000
+#EXTINF:-1,Music Box Ru
+http://92.127.217.138:1234/udp/225.54.23.115:5000
+#EXTINF:-1,Nat Geo Wild
+http://92.127.217.138:1234/udp/225.54.23.66:5000
+#EXTINF:-1,National Geographic Channel
+http://92.127.217.138:1234/udp/225.54.23.54:5000
+#EXTINF:-1,NHK World
+http://92.127.217.138:1234/udp/225.54.23.11:5000
+#EXTINF:-1,Nick Jr.
+http://92.127.217.138:1234/udp/225.54.23.101:5000
+#EXTINF:-1,Nickelodeon
+http://92.127.217.138:1234/udp/225.54.23.90:5000
+#EXTINF:-1,Ocean TV
+http://92.127.217.138:1234/udp/225.54.23.70:5000
+#EXTINF:-1,Outdoor Channel
+http://92.127.217.138:1234/udp/225.54.23.146:5000
+#EXTINF:-1,Paramount Channel
+http://92.127.217.138:1234/udp/225.54.23.44:5000
+#EXTINF:-1,Paramount Comedy
+http://92.127.217.138:1234/udp/225.54.23.26:5000
+#EXTINF:-1,RU.TV
+http://92.127.217.138:1234/udp/225.54.23.117:5000
+#EXTINF:-1,Rusong TV
+http://92.127.217.138:1234/udp/225.54.23.129:5000
+#EXTINF:-1,Russia Today
+http://92.127.217.138:1234/udp/225.54.23.5:5000
+#EXTINF:-1,Shop24
+http://92.127.217.138:1234/udp/225.54.23.12:5000
+#EXTINF:-1,SET
+http://92.127.217.138:1234/udp/225.54.23.27:5000
+#EXTINF:-1,Shopping live
+http://92.127.217.138:1234/udp/225.54.23.2:5000
+#EXTINF:-1,Sony Sci-Fi
+http://92.127.217.138:1234/udp/225.54.23.34:5000
+#EXTINF:-1,Sony Turbo
+http://92.127.217.138:1234/udp/225.54.23.28:5000
+#EXTINF:-1,Top Shop TV
+http://92.127.217.138:1234/udp/225.54.23.3:5000:5000
+#EXTINF:-1,Travel+ Adventure
+http://92.127.217.138:1234/udp/225.54.23.53:5000
+#EXTINF:-1,TV1000
+http://92.127.217.138:1234/udp/225.54.23.19:5000
+#EXTINF:-1,TV1000 Action
+http://92.127.217.138:1234/udp/225.54.23.18:5000
+#EXTINF:-1,VH1
+http://92.127.217.138:1234/udp/225.54.23.120:5000
+#EXTINF:-1,VH1 Classic
+http://92.127.217.138:1234/udp/225.54.23.127:5000
+#EXTINF:-1,Viasat Explorer
+http://92.127.217.138:1234/udp/225.54.23.55:5000
+#EXTINF:-1,Viasat History
+http://92.127.217.138:1234/udp/225.54.23.56:5000
+#EXTINF:-1,Viasat Nature
+http://92.127.217.138:1234/udp/225.54.23.80:5000
+#EXTINF:-1,Viasat Sport
+http://92.127.217.138:1234/udp/225.54.23.135:5000
+#EXTINF:-1,World Business Channel
+http://92.127.217.138:1234/udp/225.54.23.89:5000
+#EXTINF:-1,XXI
+http://92.127.217.138:1234/udp/225.54.23.21:5000
+#EXTINF:-1,Zee TV
+http://92.127.217.138:1234/udp/225.54.23.47:5000
+#EXTINF:-1,Zooпарк
+http://92.127.217.138:1234/udp/225.54.23.61:5000
+#EXTINF:-1,Авто Плюс
+http://92.127.217.138:1234/udp/225.54.23.149:5000
+#EXTINF:-1,Беларусь 24
+http://92.127.217.138:1234/udp/225.54.23.155:5000
+#EXTINF:-1,Бобер
+http://92.127.217.138:1234/udp/225.54.23.105:5000
+#EXTINF:-1,Боец
+http://92.127.217.138:1234/udp/225.54.23.133:5000
+#EXTINF:-1,Бойцовский клуб
+http://92.127.217.138:1234/udp/225.54.23.150:5000
+#EXTINF:-1,Вместе-РФ
+http://92.127.217.138:1234/udp/225.54.23.17:5000
+#EXTINF:-1,Всё ТВ
+http://92.127.217.138:1234/udp/225.54.23.1:5000
+#EXTINF:-1,Детский
+http://92.127.217.138:1234/udp/225.54.23.92:5000
+#EXTINF:-1,Детский мир + Телеклуб
+http://92.127.217.138:1234/udp/225.54.23.97:5000
+#EXTINF:-1,Дом кино
+http://92.127.217.138:1234/udp/225.54.23.33:5000
+#EXTINF:-1,Домашний
+http://92.127.217.138:1234/udp/225.54.223.121:5000
+#EXTINF:-1,Домашний
+http://92.127.217.138:1234/udp/225.54.223.122:5000
+#EXTINF:-1,Домашний
+http://92.127.217.138:1234/udp/239.1.128.48:4000
+#EXTINF:-1,Драйв
+http://92.127.217.138:1234/udp/225.54.23.148:5000
+#EXTINF:-1,Еврокино
+http://92.127.217.138:1234/udp/225.54.23.37:5000
+#EXTINF:-1,Живи
+http://92.127.217.138:1234/udp/225.54.23.110:5000
+#EXTINF:-1,Звезда
+http://92.127.217.138:1234/udp/225.54.223.151:5000
+#EXTINF:-1,Звезда
+http://92.127.217.138:1234/udp/225.54.223.152:5000
+#EXTINF:-1,Звезда
+http://92.127.217.138:1234/udp/239.1.128.50:5000
+#EXTINF:-1,Здоровое ТВ
+http://92.127.217.138:1234/udp/225.54.23.71:5000
+#EXTINF:-1,Иллюзион+
+http://92.127.217.138:1234/udp/225.54.23.22:5000
+#EXTINF:-1,Инва Медиа ТВ
+http://92.127.217.138:1234/udp/225.54.23.15:5000
+#EXTINF:-1,История
+http://92.127.217.138:1234/udp/225.54.23.86:5000
+#EXTINF:-1,Карусель
+http://92.127.217.138:1234/udp/225.54.223.71:5000
+#EXTINF:-1,Карусель
+http://92.127.217.138:1234/udp/225.54.223.73:5000
+#EXTINF:-1,Кино ТВ
+http://92.127.217.138:1234/udp/225.54.23.45:5000
+#EXTINF:-1,Комедия
+http://92.127.217.138:1234/udp/225.54.23.25:5000
+#EXTINF:-1,Кто есть кто
+http://92.127.217.138:1234/udp/225.54.23.84:5000
+#EXTINF:-1,Ля-Минор
+http://92.127.217.138:1234/udp/225.54.23.119:5000
+#EXTINF:-1,Мама
+http://92.127.217.138:1234/udp/225.54.23.96:5000
+#EXTINF:-1,Матч ТВ
+http://92.127.217.138:1234/udp/225.54.223.21:5000
+#EXTINF:-1,Матч ТВ
+http://92.127.217.138:1234/udp/225.54.223.22:5000
+#EXTINF:-1,Матч ТВ
+http://92.127.217.138:1234/udp/239.1.128.39:5000
+#EXTINF:-1,Мир
+http://92.127.217.138:1234/udp/225.54.223.161:5000
+#EXTINF:-1,Мир 24
+http://92.127.217.138:1234/udp/225.54.23.13:5000
+#EXTINF:-1,Морской
+http://92.127.217.138:1234/udp/225.54.23.143:5000
+#EXTINF:-1,Моя планета
+http://92.127.217.138:1234/udp/225.54.23.58:5000
+#EXTINF:-1,Муз ТВ
+http://92.127.217.138:1234/udp/225.54.223.201:5000
+#EXTINF:-1,Муз ТВ
+http://92.127.217.138:1234/udp/225.54.223.202:5000
+#EXTINF:-1,Мульт
+http://92.127.217.138:1234/udp/225.54.23.91:5000
+#EXTINF:-1,Наука 2.0
+http://92.127.217.138:1234/udp/225.54.23.65:5000
+#EXTINF:-1,Ностальгия
+http://92.127.217.138:1234/udp/225.54.23.85:5000
+#EXTINF:-1,НСТ
+http://92.127.217.138:1234/udp/225.54.23.29:5000
+#EXTINF:-1,НТВ
+http://92.127.217.138:1234/udp/239.1.128.35:5000
+#EXTINF:-1,НТВ+ Баскетбол
+http://92.127.217.138:1234/udp/225.54.23.147:5000
+#EXTINF:-1,НТВ Кино Плюс
+http://92.127.217.138:1234/udp/225.54.23.40:5000
+#EXTINF:-1,НТВ Кино Союз
+http://92.127.217.138:1234/udp/225.54.23.41:5000
+#EXTINF:-1,НТВ Наше Кино
+http://92.127.217.138:1234/udp/225.54.23.42:5000
+#EXTINF:-1,НТВ Новое Кино
+http://92.127.217.138:1234/udp/225.54.23.43:5000
+#EXTINF:-1,НТВ Спорт Плюс
+http://92.127.217.138:1234/udp/225.54.23.141:5000
+#EXTINF:-1,НТВ+ Футбол
+http://92.127.217.138:1234/udp/226.0.7.2:12345
+#EXTINF:-1,НТВ+ Футбол 2
+http://92.127.217.138:1234/udp/226.0.7.26:12345
+#EXTINF:-1,НТВ Футбол 3
+http://92.127.217.138:1234/udp/226.0.7.27:12345
+#EXTINF:-1,Оружие
+http://92.127.217.138:1234/udp/225.54.23.88:5000
+#EXTINF:-1,ОТР
+http://92.127.217.138:1234/udp/225.54.223.181:5000
+#EXTINF:-1,ОТС
+http://92.127.217.138:1234/udp/239.1.128.52:5000
+#EXTINF:-1,Охота и рыбалка
+http://92.127.217.138:1234/udp/225.54.23.67:5000
+#EXTINF:-1,Парк развлечений
+http://92.127.217.138:1234/udp/225.54.23.87:5000
+#EXTINF:-1,Первый Образовательный
+http://92.127.217.138:1234/udp/225.54.23.73:5000
+#EXTINF:-1,Первый канал
+http://92.127.217.138:1234/udp/239.1.128.33:5000
+#EXTINF:-1,ПИК ТВ
+http://92.127.217.138:1234/udp/225.54.23.113:5000
+#EXTINF:-1,Просвещение
+http://92.127.217.138:1234/udp/225.54.23.79:5000
+#EXTINF:-1,Пятница
+http://92.127.217.138:1234/udp/225.54.223.191:5000
+#EXTINF:-1,Пятница
+http://92.127.217.138:1234/udp/225.54.223.192:5000
+#EXTINF:-1,Пятница
+http://92.127.217.138:1234/udp/225.54.223.193:5000
+#EXTINF:-1,Пятница
+http://92.127.217.138:1234/udp/239.1.128.54:5000
+#EXTINF:-1,Пятый канал
+http://92.127.217.138:1234/udp/225.54.223.41:5000
+#EXTINF:-1,Пятый канал
+http://92.127.217.138:1234/udp/239.1.128.37:5000
+#EXTINF:-1,Радость моя
+http://92.127.217.138:1234/udp/225.54.23.93:5000
+#EXTINF:-1,РБК
+http://92.127.217.138:1234/udp/225.54.23.9:5000
+#EXTINF:-1,РБК
+http://92.127.217.138:1234/udp/239.1.128.55:4000
+#EXTINF:-1,РЕН ТВ
+http://92.127.217.138:1234/udp/225.54.223.91:5000
+#EXTINF:-1,РЕН ТВ
+http://92.127.217.138:1234/udp/239.1.128.46:4000
+#EXTINF:-1,Ретро ТВ
+http://92.127.217.138:1234/udp/225.54.23.48:5000
+#EXTINF:-1,Россия 1
+http://92.127.217.138:1234/udp/239.1.128.34:5000
+#EXTINF:-1,Россия 24
+http://92.127.217.138:1234/udp/225.54.223.61:5000
+#EXTINF:-1,Россия 24
+http://92.127.217.138:1234/udp/239.1.128.36:5000
+#EXTINF:-1,Россия Культура
+http://92.127.217.138:1234/udp/225.54.223.51:5000
+#EXTINF:-1,Россия Культура
+http://92.127.217.138:1234/udp/239.1.128.38:5000
+#EXTINF:-1,Русский Бестселлер
+http://92.127.217.138:1234/udp/225.54.23.50:5000
+#EXTINF:-1,Русский Детектив
+http://92.127.217.138:1234/udp/225.54.23.51:5000
+#EXTINF:-1,Русский Иллюзион
+http://92.127.217.138:1234/udp/225.54.23.23:5000
+#EXTINF:-1,Русский роман
+http://92.127.217.138:1234/udp/225.54.23.49:5000
+#EXTINF:-1,Русский ЭКСТРИМ
+http://92.127.217.138:1234/udp/225.54.23.136:5000
+#EXTINF:-1,Сарафан
+http://92.127.217.138:1234/udp/225.54.23.107:5000
+#EXTINF:-1,Союз
+http://92.127.217.138:1234/udp/225.54.23.151:5000
+#EXTINF:-1,Спас
+http://92.127.217.138:1234/udp/225.54.223.101:5000
+#EXTINF:-1,Спорт
+http://92.127.217.138:1234/udp/225.54.23.145:5000
+#EXTINF:-1,Спорт 1
+http://92.127.217.138:1234/udp/225.54.23.134:5000
+#EXTINF:-1,Страна
+http://92.127.217.138:1234/udp/225.54.23.76:5000
+#EXTINF:-1,СТС
+http://92.127.217.138:1234/udp/225.54.223.111:5000
+#EXTINF:-1,СТС
+http://92.127.217.138:1234/udp/225.54.223.112:5000
+#EXTINF:-1,СТС Love
+http://92.127.217.138:1234/udp/225.54.23.20:5000
+#EXTINF:-1,СТС Мир
+http://92.127.217.138:1234/udp/239.1.128.45:5000
+#EXTINF:-1,ТВ3
+http://92.127.217.138:1234/udp/225.54.223.131:5000
+#EXTINF:-1,ТВ3
+http://92.127.217.138:1234/udp/239.1.128.43:5000
+#EXTINF:-1,ТВЦ
+http://92.127.217.138:1234/udp/225.54.223.81:5000
+#EXTINF:-1,ТВЦ
+http://92.127.217.138:1234/udp/239.1.128.42:5000
+#EXTINF:-1,ТНТ
+http://92.127.217.138:1234/udp/225.54.223.171:5000
+#EXTINF:-1,ТНТ
+http://92.127.217.138:1234/udp/239.1.128.44:5000
+#EXTINF:-1,ТНТ
+http://92.127.217.138:1234/udp/225.54.223.172:5000
+#EXTINF:-1,ТНТ Comedy
+http://92.127.217.138:1234/udp/239.255.1.59:1234
+#EXTINF:-1,ТРО
+http://92.127.217.138:1234/udp/225.54.23.153:5000
+#EXTINF:-1,Усадьба
+http://92.127.217.138:1234/udp/225.54.23.68:5000
+#EXTINF:-1,Успех
+http://92.127.217.138:1234/udp/225.54.23.14:5000
+#EXTINF:-1,Феникс Кино
+http://92.127.217.138:1234/udp/225.54.23.32:5000
+#EXTINF:-1,Футбол
+http://92.127.217.138:1234/udp/225.54.23.138:5000
+#EXTINF:-1,Че
+http://92.127.217.138:1234/udp/225.54.223.211:5000
+#EXTINF:-1,Че
+http://92.127.217.138:1234/udp/225.54.223.212:5000
+#EXTINF:-1,Ю
+http://92.127.217.138:1234/udp/225.54.223.221:5000
+#EXTINF:-1,Ю
+http://92.127.217.138:1234/udp/225.54.223.222:5000
+#EXTINF:-1,Ю
+http://92.127.217.138:1234/udp/239.1.128.47:5000
+#EXTINF:-1,Юмор BOX
+http://92.127.217.138:1234/udp/225.54.23.108:5000
+
+#EXTINF:-1,PRVA
+http://93.87.64.244:4080/udp/227.1.1.8:1000
+#EXTINF:-1,TV B92
+http://93.87.64.244:4080/udp/227.1.1.10:1000
+#EXTINF:-1,Happy TV
+http://93.87.64.244:4080/udp/227.1.1.11:1000
+#EXTINF:-1,Discovery Serbia
+http://93.87.64.244:4080/udp/227.1.1.13:1000
+#EXTINF:-1,RTV1
+http://93.87.64.244:4080/udp/227.1.1.16:1000
+#EXTINF:-1,AMC
+http://93.87.64.244:4080/udp/227.1.1.24:1000
+#EXTINF:-1,Comedy Central
+http://93.87.64.244:4080/udp/227.1.1.27:1000
+#EXTINF:-1,Ekids
+http://93.87.64.244:4080/udp/227.1.1.25:1000
+#EXTINF:-1,ID Xtra
+http://93.87.64.244:4080/udp/227.1.1.29:1000
+#EXTINF:-1,MagicTV
+http://93.87.64.244:4080/udp/227.1.1.30:1000
+#EXTINF:-1,Cinemax
+http://93.87.64.244:4080/udp/227.1.1.31:1000
+#EXTINF:-1,KinoNova
+http://93.87.64.244:4080/udp/227.1.2.5:1000
+#EXTINF:-1,F Plus
+http://93.87.64.244:4080/udp/227.1.2.8:1000
+#EXTINF:-1,TV Plus
+http://93.87.64.244:4080/udp/227.1.2.7:1000
+#EXTINF:-1,The Voice
+http://93.87.64.244:4080/udp/227.1.2.12:1000
+#EXTINF:-1,Planeta TV
+http://93.87.64.244:4080/udp/227.1.2.6:1000
+#EXTINF:-1,Hobby TV
+http://93.87.64.244:4080/udp/227.1.2.11:1000
+#EXTINF:-1,CN
+http://93.87.64.244:4080/udp/227.1.3.1:1000
+#EXTINF:-1,Viasat Explorer
+http://93.87.64.244:4080/udp/227.1.3.2:1000
+#EXTINF:-1,Disney Channel
+http://93.87.64.244:4080/udp/227.1.3.3:1000
+#EXTINF:-1,FAN TV
+http://93.87.64.244:4080/udp/227.1.3.4:1000
+#EXTINF:-1,NG WILD
+http://93.87.64.244:4080/udp/227.1.3.5:1000
+#EXTINF:-1,Balkanika
+http://93.87.64.244:4080/udp/227.1.3.7:1000
+#EXTINF:-1,DM Sat
+http://93.87.64.244:4080/udp/227.1.3.9:1000
+#EXTINF:-1,Folklor TV
+http://93.87.64.244:4080/udp/227.1.3.8:1000
+#EXTINF:-1,FOX
+http://93.87.64.244:4080/udp/227.1.3.12:1000
+#EXTINF:-1,bTV Lady
+http://93.87.64.244:4080/udp/227.1.3.15:1000
+#EXTINF:-1,Planeta Folk TV
+http://93.87.64.244:4080/udp/227.1.3.13:1000
+#EXTINF:-1,Brazzers TV
+http://93.87.64.244:4080/udp/227.1.3.17:1000
+#EXTINF:-1,Destination BG
+http://93.87.64.244:4080/udp/227.1.4.1:1000
+#EXTINF:-1,Hobby lov
+http://93.87.64.244:4080/udp/227.1.4.2:1000
+#EXTINF:-1,Animal Planet
+http://93.87.64.244:4080/udp/227.1.4.3:1000
+#EXTINF:-1,24 Kitchen
+http://93.87.64.244:4080/udp/227.1.4.5:1000
+#EXTINF:-1,Eurosport
+http://93.87.64.244:4080/udp/227.1.4.7:1000
+#EXTINF:-1,MTV Hits
+http://93.87.64.244:4080/udp/227.1.4.8:1000
+#EXTINF:-1,History Channel
+http://93.87.64.244:4080/udp/227.1.4.6:1000
+#EXTINF:-1,Bulgaria on Air
+http://93.87.64.244:4080/udp/227.1.4.10:1000
+#EXTINF:-1,Fine Living
+http://93.87.64.244:4080/udp/227.1.4.9:1000
+#EXTINF:-1,Tiankov TV
+http://93.87.64.244:4080/udp/227.1.4.11:1000
+#EXTINF:-1,Film Plus
+http://93.87.64.244:4080/udp/227.1.4.14:1000
+#EXTINF:-1,Disney Junior
+http://93.87.64.244:4080/udp/227.1.4.12:1000
+#EXTINF:-1,Penthouse
+http://93.87.64.244:4080/udp/227.1.4.16:1000
+#EXTINF:-1,TV Evropa
+http://93.87.64.244:4080/udp/227.1.4.15:1000
+#EXTINF:-1,Hustler TV
+http://93.87.64.244:4080/udp/227.1.5.1:1000
+#EXTINF:-1,Discovery World
+http://93.87.64.244:4080/udp/227.1.5.2:1000
+#EXTINF:-1,Discovery Science
+http://93.87.64.244:4080/udp/227.1.5.3:1000
+#EXTINF:-1,VH 1 Classic
+http://93.87.64.244:4080/udp/227.1.5.7:1000
+#EXTINF:-1,Baby TV
+http://93.87.64.244:4080/udp/227.1.5.9:1000
+#EXTINF:-1,National Geographic
+http://93.87.64.244:4080/udp/227.1.6.2:1000
+#EXTINF:-1,bTV Cinema
+http://93.87.64.244:4080/udp/227.1.6.3:1000
+#EXTINF:-1,NOVAsport
+http://93.87.64.244:4080/udp/227.1.6.5:1000
+#EXTINF:-1,BNT 2
+http://93.87.64.244:4080/udp/227.1.6.4:1000
+#EXTINF:-1,TV 7
+http://93.87.64.244:4080/udp/227.1.6.8:1000
+#EXTINF:-1,bTV Action
+http://93.87.64.244:4080/udp/227.1.6.9:1000
+#EXTINF:-1,AXN
+http://93.87.64.244:4080/udp/227.1.6.10:1000
+#EXTINF:-1,FOX Life
+http://93.87.64.244:4080/udp/227.1.6.13:1000
+#EXTINF:-1,BG TOP MUSIC
+http://93.87.64.244:4080/udp/227.1.6.11:1000
+#EXTINF:-1,bTV Comedy
+http://93.87.64.244:4080/udp/227.1.6.7:1000
+#EXTINF:-1,FOX Crime
+http://93.87.64.244:4080/udp/227.1.6.14:1000
+#EXTINF:-1,TLC
+http://93.87.64.244:4080/udp/227.1.6.16:1000
+#EXTINF:-1,TV Bujanovac
+http://93.87.64.244:4080/udp/227.1.7.2:1000
+#EXTINF:-1,TV Ritam
+http://93.87.64.244:4080/udp/227.1.7.3:1000
+#EXTINF:-1,RTS 1
+http://93.87.64.244:4080/udp/227.1.7.4:1000
+#EXTINF:-1,RTS 2
+http://93.87.64.244:4080/udp/227.1.7.5:1000
+#EXTINF:-1,B92
+http://93.87.64.244:4080/udp/227.1.7.7:1000
+#EXTINF:-1,PINK
+http://93.87.64.244:4080/udp/227.1.7.6:1000
+#EXTINF:-1,PRVA
+http://93.87.64.244:4080/udp/227.1.7.8:1000
+#EXTINF:-1,ARENA1*
+http://62.210.162.88:80/live/ARENA82/1635276012016/1515.ts
+#EXTINF:-1,ARENA2*
+http://62.210.162.88:80/live/ARENA82/1635276012016/1516.ts
+#EXTINF:-1,ARENA3*
+http://62.210.162.88:80/live/ARENA82/1635276012016/1517.ts
+#EXTINF:-1,ARENA4*
+http://62.210.162.88:80/live/ARENA82/1635276012016/1518.ts
+#EXTINF:-1,RU : FUTBOL 1*
+http://62.210.162.88:80/live/ARENA82/1635276012016/1778.ts
+#EXTINF:-1,RU : NTV SPORT 2*
+http://62.210.162.88:80/live/ARENA82/1635276012016/1777.ts
+#EXTINF:-1,RU : SPORT 1*
+
+0
