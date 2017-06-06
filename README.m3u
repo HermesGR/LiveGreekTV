@@ -1,167 +1,47 @@
-#Extm3u
-
 #EXTM3U
-#EXTINF:-1,ANT1 CYPRUS
-http://154.57.7.251:8000/ant1
-#EXTINF:-1,BLUE SKY
-http://154.57.7.251:8000/blusky
-#EXTINF:-1,ERT1
-http://154.57.7.251:8000/ert1
-#EXTINF:-1,ERT2
-http://154.57.7.251:8000/ert2
-#EXTINF:-1,ERT3
-http://154.57.7.251:8000/ert3
-#EXTINF:-1,EXTRA CHANNEL
-http://154.57.7.251:8000/extra
-#EXTINF:-1,KONTRA
-http://154.57.7.251:8000/kontra
-#EXTINF:-1,M.TV
-http://154.57.7.251:8000/mtv
-#EXTINF:-1,MAD TV
-http://154.57.7.251:8000/mad
-#EXTINF:-1,MEGA
-http://154.57.7.251:8000/mega
-#EXTINF:-1,RIK SAT
-http://154.57.7.251:8000/rik
-#EXTINF:-1,Skai Greece
-http://154.57.7.251:8000/skai
-#EXTINF:-1,ALPHA
-http://154.57.7.251:8000/alph
-#EXTINF:-1,SBC
-http://154.57.7.251:8000/sbc
-#EXTINF:-1,STAR GR
-http://154.57.7.251:8000/star
-#EXTINF:-1,Action 24
-http://154.57.7.251:8000/action24
-#EXTINF:-1,BBC World News
-http://154.57.7.251:8000/bbcnews
-#EXTINF:-1,TV5 Monde
-http://154.57.7.251:8000/tv5europe
-#EXTINF:-1,AB Channel
-http://154.57.7.251:8000/abchannel
-#EXTINF:-1,Channel9
-http://154.57.7.251:8000/ch9
-#EXTINF:-1,Attica
-http://154.57.7.251:8000/attica
-#EXTINF:-1,DS
-http://154.57.7.251:8000/ds
-#EXTINF:-1,Sunny
-http://154.57.7.251:8000/sunny
-#EXTINF:-1,Smile
-http://154.57.7.251:8000/smile
-#EXTINF:-1,Nickelodejn
-
-
-
-
-
-
-
-#EXTINF:0,GR: OTE Cinma 1
-http://ipsatpro.com:8000/live/angelo/angelo/1427.ts
-#EXTINF:0,GR: OTE Cinma 2
-http://ipsatpro.com:8000/live/angelo/angelo/1426.ts
-#EXTINF:0,GR: OTE Cinma 3
-http://ipsatpro.com:8000/live/angelo/angelo/1425.ts
-#EXTINF:0,GR: OTE Cinma 4
-http://ipsatpro.com:8000/live/angelo/angelo/1424.ts
-#EXTINF:0,GR: OTE Sport 1
-http://ipsatpro.com:8000/live/angelo/angelo/831.ts
-#EXTINF:0,GR: OTE Sport 2
-http://ipsatpro.com:8000/live/angelo/angelo/838.ts
-#EXTINF:0,GR: OTE Sport 3
-http://ipsatpro.com:8000/live/angelo/angelo/837.ts
-#EXTINF:0,GR: OTE Sport 4
-http://ipsatpro.com:8000/live/angelo/angelo/836.ts
-#EXTINF:0,GR: OTE Sport 5
-http://ipsatpro.com:8000/live/angelo/angelo/835.ts
-#EXTINF:0,GR: OTE Sport 6
-http://ipsatpro.com:8000/live/angelo/angelo/834.ts
-#EXTINF:0,GR: OTE Sport 7
-http://ipsatpro.com:8000/live/angelo/angelo/833.ts
-#EXTINF:0,GR: OTE Sport 8
-http://ipsatpro.com:8000/live/angelo/angelo/832.ts
-#EXTINF:0,GR: Astra Supersport 1
-http://ipsatpro.com:8000/live/angelo/angelo/845.ts
-#EXTINF:0,GR: Astra Supersport 2
-http://ipsatpro.com:8000/live/angelo/angelo/844.ts
-#EXTINF:0,GR: Astra Supersport 3
-http://ipsatpro.com:8000/live/angelo/angelo/843.ts
-#EXTINF:0,GR: Astra Supersport 4
-http://ipsatpro.com:8000/live/angelo/angelo/842.ts
-#EXTINF:0,GR: CTH Stadium X HD
-http://ipsatpro.com:8000/live/angelo/angelo/839.ts
-#EXTINF:0,GR: CTH Stadium 1 HD
-http://ipsatpro.com:8000/live/angelo/angelo/841.ts
-#EXTINF:0,GR: CTH Stadium 2 HD
-http://ipsatpro.com:8000/live/angelo/angelo/840.ts
-#EXTINF:0,GR: CTH Stadium 3 HD
-http://ipsatpro.com:8000/live/angelo/angelo/870.ts
-#EXTINF:0,GR: CTH Stadium 4 HD
-http://ipsatpro.com:8000/live/angelo/angelo/868.ts
-#EXTINF:0,GR: CTH Stadium 5 HD
-http://ipsatpro.com:8000/live/angelo/angelo/869.ts
-#EXTINF:0,GR: CTH Stadium 6 HD
-http://ipsatpro.com:8000/live/angelo/angelo/867.ts
-#EXTINF:0,GR: Lyxnos TV
-http://ipsatpro.com:8000/live/angelo/angelo/846.ts
-#EXTINF:0,GR: BRT 1
-http://ipsatpro.com:8000/live/angelo/angelo/878.ts
-#EXTINF:0,GR: Astra tv
-http://ipsatpro.com:8000/live/angelo/angelo/877.ts
-#EXTINF:0,GR: TV1000
-http://ipsatpro.com:8000/live/angelo/angelo/874.ts
-#EXTINF:0,GR: Nea TV
-http://ipsatpro.com:8000/live/angelo/angelo/875.ts
-#EXTINF:0,GR: Kontra Channel
-http://ipsatpro.com:8000/live/angelo/angelo/876.ts
-#EXTINF:0,GR: EXTRA
-http://ipsatpro.com:8000/live/angelo/angelo/873.ts
-#EXTINF:0,GR: bluesky
-http://ipsatpro.com:8000/live/angelo/angelo/861.ts
-#EXTINF:0,GR: Samiaki
-http://ipsatpro.com:8000/live/angelo/angelo/860.ts
-#EXTINF:0,GR: EPT HD
-http://ipsatpro.com:8000/live/angelo/angelo/872.ts
-#EXTINF:0,GR: EPT 1
-http://ipsatpro.com:8000/live/angelo/angelo/871.ts
-#EXTINF:0,GR: EPT 2
-http://ipsatpro.com:8000/live/angelo/angelo/866.ts
-#EXTINF:0,GR: EPT 3
-http://ipsatpro.com:8000/live/angelo/angelo/865.ts
-#EXTINF:0,GR: Star
-http://ipsatpro.com:8000/live/angelo/angelo/848.ts
-#EXTINF:0,GR: SAKI
-http://ipsatpro.com:8000/live/angelo/angelo/850.ts
-#EXTINF:0,GR: Ma tv
-http://ipsatpro.com:8000/live/angelo/angelo/849.ts
-#EXTINF:0,GR: Antenna
-http://ipsatpro.com:8000/live/angelo/angelo/847.ts
-#EXTINF:0,GR: Nerit HD
-http://ipsatpro.com:8000/live/angelo/angelo/853.ts
-#EXTINF:0,GR: MTV Music
-http://ipsatpro.com:8000/live/angelo/angelo/864.ts
-#EXTINF:0,GR: Mega
-http://ipsatpro.com:8000/live/angelo/angelo/863.ts
-#EXTINF:0,GR: EPIRUS TV1
-http://ipsatpro.com:8000/live/angelo/angelo/862.ts
-#EXTINF:0,GR: Alpha
-http://ipsatpro.com:8000/live/angelo/angelo/855.ts
-#EXTINF:0,GR: Euronews
-http://ipsatpro.com:8000/live/angelo/angelo/858.ts
-#EXTINF:0,GR: Alpha Sat Use
-http://ipsatpro.com:8000/live/angelo/angelo/859.ts
-#EXTINF:0,GR: Aigaio TV
-http://ipsatpro.com:8000/live/angelo/angelo/854.ts
-#EXTINF:0,GR: ANT1
-http://ipsatpro.com:8000/live/angelo/angelo/856.ts
-#EXTINF:0,GR: MAD TV
-http://ipsatpro.com:8000/live/angelo/angelo/857.ts
-#EXTINF:0,GR: KRHTH TV
-http://ipsatpro.com:8000/live/angelo/angelo/852.ts
-#EXTINF:0,GR: Nerit Plus
-http://ipsatpro.com:8000/live/angelo/angelo/851.ts
-
-
-
-
+#EXTINF:-1,GR:KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1,GR:BLUE SKY
+http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
+#EXTINF:-1,GR:THEMA TV
+http://5.196.92.57/webtv/medium.m3u8
+#EXTINF:-1,GR:JAYZEE
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:-1,GR:EXTRA CHANNEL
+http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
+#EXTINF:-1,GR:LAMPSI TV
+http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
+#EXTINF:-1,GR:ZOUGLA TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+#EXTINF:-1,GR:EPIRUS TV1
+http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,GR:ASTRA TV
+http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:-1,GR:KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1,GR:NEA TV
+http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+#EXTINF:-1,GR:CRETA 
+http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+#EXTINF:-1,GR:TV-100 
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+#EXTINF:-1,GR:TRT TV
+http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,GR:AIGAIOTV
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,GR:CAPITAL
+http://over.ddns.net:65118/
+#EXTINF:-1,GR:TV GOLD
+mms://tvgold.webcast.mediacdn.com/tvgold
+#EXTINF:-1,GR:TV FILOPOLI
+http://176.9.25.17:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1,GR:PLUS
+http://over.ddns.net:65120/
+#EXTINF:-1,GR:SBC
+http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,GR:MAD TV
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:-1,GR:SYROS TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlst.m3u8
+#EXTINF:-1,GR:SIGMA CY
+http://81.21.47.74/hls/live.m3u8
