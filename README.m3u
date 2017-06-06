@@ -1,19 +1,20 @@
-#EXTINF:-1,ote sport 1
 
-http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
+#EXTINF:-1, WORLD TV
 
-#EXTINF:-1,ote sport 2
+http://http://xc.cobra-iptv.com:25461/get.php?username=kos&password=kos&type=m3u
 
-http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
+#EXTINF:-1, WORLD TV
 
-#EXTINF:-1,ote sport 3
+http://ip.sltv.be:8000/get.php?username=hL2sVnkFI1&password=hFI0I5i4fZ&type=m3u
 
-http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
+#EXTINF:-1, WORLD TV
 
-#EXTINF:-1,ote sport 4
+http://cableking-iptv.com:8000/get.php?username=roblewis&password=roblewis&type=m3u
 
-http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
+#EXTINF:-1, SPORT TV
 
-#EXTINF:-1,ote sport 5
+http://46.99.168.127:9981/playlist
 
-http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
+#EXTINF:-1, SPORT TV
+
+http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
