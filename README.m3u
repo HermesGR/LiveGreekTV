@@ -1,112 +1,30 @@
-#EXTINF:0,AIGAIO
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,ALPHA
-http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:0,Alpha
-rtsp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
-#EXTINF:0,ANT1
-http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
-#EXTINF:0,ANT1
-rtsp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
-#EXTINF:0,ANT1 CY
-http://46.21.53.171:1935/iwohttporigin/mp4:livestream/playlist.m3u8
-#EXTINF:0,ANT1 Focus
-http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0,BEST
-http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0,BHMA TV
-http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
-#EXTINF:0,BLUE SKY
-http://88.198.238.44:1935/live/bluesky/playlist.m3u8
-#EXTINF:0,CORFU TV
-http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
-#EXTINF:0,CRETA WEB TV
-http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
-#EXTINF:0,DIKTYO TV
-http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-#EXTINF:0,DR
-http://xdrtvhellasx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,E TV
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0,EBS
-http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
-#EXTINF:0,EBS PLUS
-http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-#EXTINF:0,EPILOGES
-http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:0,EPIRUS TV1
-http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,ERT1
-rtsp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
-#EXTINF:0,ERT3
-http://live2.ertopen.com/live2/e600/playlist.m3u8
-#EXTINF:0,EURONEWS
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINF:0,EUROPE 1
-http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
-#EXTINF:0,EXTRA
-http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
-#EXTINF:0,FLASH TV
-http://iphone-streaming.ustream.tv/uhls/18477664/streams/live/iphone/playlist.m3u8
-#EXTINF:0,HELLAS TV
-http://176.9.123.140:1935/leveltgp/leveltgp/playlist.m3u8
-#EXTINF:0,KANALI 6
-http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
-#EXTINF:0,KIVOTOS KISAMOS
-rtmp://streaming3.syzefxis.gov.gr/kisamos/live.stream
-#EXTINF:0,KONTRA
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0,KRHTH TV
-rtmp://live.cretetv.gr/cretetv/myStream
-#EXTINF:0,KYDON TV
-http://iphone-streaming.ustream.tv/uhls/9461248/streams/live/iphone/playlist.m3u8
-#EXTINF:0,LYXNOC
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:0,MAD CY
-http://144.76.2.213:1935/live/livestream/playlist.m3u8
-#EXTINF:0,makedonia
-http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0,MEGA
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-#EXTINF:0,Mega Channel
-rtsp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
-#EXTINF:0,NATURA CINEMA
-http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,OMEGA
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0,R CHANNEL
-http://xrodopi_tvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,SBC
-http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,SIGMA CY
-http://81.21.47.74/hls/live.m3u8
-#EXTINF:0,Skai
-rtsp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
-#EXTINF:0,Star
-http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:0,Star
-rtsp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
-#EXTINF:0,STAR LAMIAS
-http://4.31.30.145:9080
-#EXTINF:0,SUPER B
-http://iphone-streaming.ustream.tv/uhls/20468277/streams/live/iphone/playlist.m3u8
-#EXTINF:0,THLESPORT
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-#EXTINF:0,TOP CHANNEL
-http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
-#EXTINF:0,TRT
-http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,TV EPILOGES
-http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:0,TV THESALONIKI
-http://xthessalonikitelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,TV-100
-http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0,VOULI
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0,WEST
-http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
-#EXTINF:0,WZRA
-http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
-#EXTINF:0,ZOUGLA
-http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
+#EXTINF:-1,
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7239.m3u8
+#EXTINF:-1,GR: MAD TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5574.m3u8
+#EXTINF:-1,GR: MAD CY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7246.m3u8
+#EXTINF:-1,GR: Vouli
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1729.m3u8
+#EXTINF:-1,GR: Star
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1730.m3u8
+#EXTINF:-1,GR: SKAI
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1731.m3u8
+#EXTINF:-1,GR: Mega
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1732.m3u8
+#EXTINF:-1,GR: Makedonia
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1733.m3u8
+#EXTINF:-1,GR: ERT HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1734.m3u8
+#EXTINF:-1,GR: ERT 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1735.m3u8
+#EXTINF:-1,GR: ERT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1736.m3u8
+#EXTINF:-1,GR: Epsilon TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1738.m3u8
+#EXTINF:-1,GR: Art TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1739.m3u8
+#EXTINF:-1,GR: Ant1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1740.m3u8
+#EXTINF:-1,GR: Alpha TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1741.m3u8
