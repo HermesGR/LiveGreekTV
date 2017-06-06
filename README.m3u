@@ -1,30 +1,41 @@
-#EXTINF:-1,
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7239.m3u8
-#EXTINF:-1,GR: MAD TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5574.m3u8
-#EXTINF:-1,GR: MAD CY
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7246.m3u8
-#EXTINF:-1,GR: Vouli
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1729.m3u8
-#EXTINF:-1,GR: Star
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1730.m3u8
-#EXTINF:-1,GR: SKAI
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1731.m3u8
-#EXTINF:-1,GR: Mega
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1732.m3u8
-#EXTINF:-1,GR: Makedonia
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1733.m3u8
-#EXTINF:-1,GR: ERT HD
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1734.m3u8
-#EXTINF:-1,GR: ERT 3
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1735.m3u8
-#EXTINF:-1,GR: ERT 2
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1736.m3u8
-#EXTINF:-1,GR: Epsilon TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1738.m3u8
-#EXTINF:-1,GR: Art TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1739.m3u8
-#EXTINF:-1,GR: Ant1
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1740.m3u8
-#EXTINF:-1,GR: Alpha TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1741.m3u8
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:-1,ALPHA
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:-1,ANT1
+http://wow.ant1.gr:1935/live/smil:mavani.smil/hasbahca.m3u
+#EXTINF:-1,EXTRA 3
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:-1,ET3
+rtmp://live2.ertopen.com/live2/e600
+#EXTINF:-1,MAD TV
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:-1,Makedonia TV
+rtmp://213.16.167.55/livepkgr/livestream
+#‎EXTINF‬:-1,Skai
+mmsh://magictvbox.us:200/skai
+#EXTINF:-1,EpsilonTV – E Channel
+rtmp://213.16.167.187:1935/live/mpegts_256.stream
+#EXTINF:-1,Acheloos TV
+rtmp://srv1.viiideo.gr/videon/axeloostv
+#EXTINF:-1,Delta Tv
+mms://ams01.egihosting.com/989630
+#EXTINF:-1,Astra TV
+http://www.astratv.gr:8090/hls/livestream/index.m3u8
+#EXTINF:-1,KRHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1,Greek Music Hits mmsh
+mmsh://wpso.com:200/music
+#EXTINF:-1,IRIDA RODOS mms
+mms://212.251.44.111:27030
+#EXTINF:-1,KONTRA
+rtmp://flashcloud.mediacdn.com:1935/live/kontratv
+#EXTINF:-1,SUPER B GR
+rtmp://37.220.27.70/live/livestream
+#EXTINF:-1,TILESPORT
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:-1,VOULI mms
+mms://media19.internet.gr/ParliamentTV-HQ
+#EXTINF:-1,4E
+rtmp://82.192.84.30:1935/live/myStream.sdp
+#EXTINF:-1,NEA TV
+rtmp://srv1.viiideo.gr/hellasonmedia/neatv
