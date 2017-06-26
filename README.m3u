@@ -11,3 +11,6 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:0,MAD TV Music Cyprus
 http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
 #EXTINF:0,Mega Cosmos (Gr)
+http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8
+#EXTINF:0,Nickelodeon (Gr)
+http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
