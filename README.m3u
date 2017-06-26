@@ -1,59 +1,170 @@
-#EXTM3U
-#EXTINF:-1, EBS  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3500.ts
-#EXTINF:-1, KONTRA  IPTVultra.com [720x400]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3504.ts
-#EXTINF:-1, TV 1  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3511.ts
-#EXTINF:-1, ASTRA TV  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3494.ts
-#EXTINF:-1, 4E m3u8  IPTVultra.com [640x480]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3492.ts
-#EXTINF:-1, VOULI  IPTVultra.com [960x544]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3512.ts
-#EXTINF:-1, KRHTH TV rtmp  IPTVultra.com [864x480]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3506.ts
-#EXTINF:-1, RIK SAT  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3510.ts
-#EXTINF:-1, OTE SPORT 1  IPTVultra.com [854x480]
-http://149.202.93.187:8000/live/T95DQqdfr5/agRJzJiXfT/46.ts
-#EXTINF:-1, ANT1  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3493.ts
-#EXTINF:-1, ZOUGLA  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3514.ts
-#EXTINF:-1, EBS PLUS  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3501.ts
-#EXTINF:-1, MAD CY  IPTVultra.com [608x480]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3508.ts
-#EXTINF:-1, WZRA  IPTVultra.com [432x288]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3513.ts
-#EXTINF:-1, AXELWOS TV  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3496.ts
-#EXTINF:-1, KRITI TV rtmp  IPTVultra.com [864x480]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3507.ts
-#EXTINF:-1, KRHTH TV GR  IPTVultra.com [864x480]
-http://192.99.149.20:8080/live/grspan/sxlk2slkx/3505.ts
-#EXTINF:-1,TGRT EU  IPTVultra.com [854x480]
-http://51.255.95.9:8080/live/koray/koray123/1242.ts
-#EXTINF:-1,(GR) ERT 2  IPTVultra.com [720x576]
-http://51.255.95.9:8080/live/koray/koray123/2193.ts
-#EXTINF:-1, OTE SPORT 2  IPTVultra.com [854x480]
-http://149.202.93.187:8000/live/T95DQqdfr5/agRJzJiXfT/47.ts
-#EXTINF:-1,(GR) ERT World Europe  IPTVultra.com [854x480]
-http://51.255.95.9:8080/live/koray/koray123/1636.ts
-#EXTINF:-1,(GR) ERT 1  IPTVultra.com [720x576]
-http://51.255.95.9:8080/live/koray/koray123/2192.ts
-#EXTINF:-1,TGRT HABER  IPTVultra.com [854x480]
-http://51.255.95.9:8080/live/koray/koray123/536.ts
-#EXTINF:-1,(GR) ERT  IPTVultra.com [854x480]
-http://51.255.95.9:8080/live/koray/koray123/1459.ts
-#EXTINF:-1,(GR) Vouli TV  IPTVultra.com [720x576]
-http://51.255.95.9:8080/live/koray/koray123/2196.ts
-#EXTINF:-1,TGRT BELGESEL  IPTVultra.com [854x480]
-http://51.255.95.9:8080/live/koray/koray123/1241.ts
-#EXTINF:-1,(GR) ERT 3  IPTVultra.com [720x576]
-http://51.255.95.9:8080/live/koray/koray123/2194.ts
-#EXTINF:-1,TGRT EU  IPTVultra.com [854x480]
-http://51.255.95.9:8080/live/koray/koray123/42.ts
-#EXTINF:-1,(GR) ERT HD  IPTVultra.com [1920x1088]
-http://51.255.95.9:8080/live/koray/koray123/2195.ts
+#EXTINF:-1,GR: ERT 1
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/188.ts
+
+#EXTINF:-1,GR: ERT 2
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/187.ts
+
+#EXTINF:-1,GR: ERT 3
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/186.ts
+
+#EXTINF:-1,GR: Ant1
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/184.ts
+
+#EXTINF:-1,GR: Mega
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/185.ts
+
+#EXTINF:-1,GR: Star
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/182.ts
+
+#EXTINF:-1,GR: Alpha
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/183.ts
+
+#EXTINF:-1,GR: Skai
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/181.ts
+
+#EXTINF:-1,GR: E TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/179.ts
+
+#EXTINF:-1,GR: ERT HD
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/180.ts
+
+#EXTINF:-1,GR VIP: Ant1 HD
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/311.ts
+
+#EXTINF:-1,GR VIP: Star HD
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/306.ts
+
+#EXTINF:-1,GR VIP: Alpha HD
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/307.ts
+
+#EXTINF:-1,GR VIP: Skai HD
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/308.ts
+
+#EXTINF:-1,GR: Makedonia
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/457.ts
+
+#EXTINF:-1,GR : Mad Greece
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/737.ts
+
+#EXTINF:-1,GR: Attica
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/733.ts
+
+#EXTINF:-1,GR: Art
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/178.ts
+
+#EXTINF:-1,GR: Rise
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/731.ts
+
+#EXTINF:-1,GR: EXTRA
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/444.ts
+
+#EXTINF:-1,GR: High
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/732.ts
+
+#EXTINF:-1,GR: AB Channel
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/734.ts
+
+#EXTINF:-1,GR: Nickelodeon
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/177.ts
+
+#EXTINF:-1,GR: Smile
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/730.ts
+
+#EXTINF:-1,GR: Channel 9
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/430.ts
+
+#EXTINF:-1,GR: BLUE SKY
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/445.ts
+
+#EXTINF:-1,GR: ACTION 24
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/458.ts
+
+#EXTINF:-1,GR : TV Mytilini
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/854.ts
+
+#EXTINF:-1,GR: 4E
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/437.ts
+
+#EXTINF:-1,GR: AIGAIO TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/442.ts
+
+#EXTINF:-1,GR: Alert TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/431.ts
+
+#EXTINF:-1,GR: Astra
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/427.ts
+
+#EXTINF:-1,GR: Axeloos TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/423.ts
+
+#EXTINF:-1,GR: Best
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/985.ts
+
+#EXTINF:-1,GR: Cannali Music Channel
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/449.ts
+
+#EXTINF:-1,GR: DIAVATA TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/855.ts
+
+#EXTINF:-1,GR: Ellinikosfm TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/422.ts
+
+#EXTINF:-1,GR: Ionian
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/981.ts
+
+#EXTINF:-1,GR: KONTRA TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/450.ts
+
+#EXTINF:-1,GR: KRITI TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/424.ts
+
+#EXTINF:-1,GR: MESSINIA TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/425.ts
+
+#EXTINF:-1,GR: NEA
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/426.ts
+
+#EXTINF:-1,GR: Hpeiros Tv
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/439.ts
+
+#EXTINF:-1,GR: OMEGA
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/433.ts
+
+#EXTINF:-1,GR: SAMIAKI
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/441.ts
+
+#EXTINF:-1,GR: SBC
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/429.ts
+
+#EXTINF:-1,GR: Start TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/448.ts
+
+#EXTINF:-1,GR: Star Kentrikis Elladas
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/1016.ts
+
+#EXTINF:-1,GR: TRT Thessalias
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/1055.ts
+
+#EXTINF:-1,GR: TILESPORT
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/428.ts
+
+#EXTINF:-1,GR: Tv Creta
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/984.ts
+
+#EXTINF:-1,GR: TV Gold
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/451.ts
+
+#EXTINF:-1,GR: TV1 Siros
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/434.ts
+
+#EXTINF:-1,GR: Thraki TV
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/435.ts
+
+#EXTINF:-1,GR: Tv100
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/446.ts
+
+#EXTINF:-1,GR: VOULI
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/438.ts
+
+#EXTINF:-1,GR: ZOUGL@
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/447.ts
