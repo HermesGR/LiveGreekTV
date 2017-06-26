@@ -1,4 +1,61 @@
 
+#EXTM3U
+#EXTINF:-1,GR:ERT1
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT1.m3u8
+#EXTINF:-1,GR:ERT2
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT2.m3u8
+#EXTINF:-1,GR:ERT3
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT3.m3u8
+#EXTINF:-1,GR:MEGA
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.GR.m3u8
+#EXTINF:-1,GR:MEGA-COSMOS
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.COSMOS.m3u8
+#EXTINF:-1,GR:ANT1
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ANT1.GR.m3u8
+#EXTINF:-1,GR:STAR
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/STAR.m3u8
+#EXTINF:-1,GR:ALPHA
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.GR..m3u8
+#EXTINF:-1,GR:ALPHA-SAT
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.SAT.m3u8
+#EXTINF:-1,GR:SKAI
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SKAI.m3u8
+#EXTINF:-1,GR:ETV
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ETV.m3u8
+#EXTINF:-1,GR:MACEDONIA TV
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MAKEDONIA.m3u8
+#EXTINF:-1,GR:ART
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ART.m3u8
+#EXTINF:-1,GR:KONTRA
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/KONTRA.m3u8
+#EXTINF:-1,GR:EXTRA CHANNEL
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:-1,GR:DELTA TV
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/DELTA.m3u8
+#EXTINF:-1,GR:OMEGA
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/OMEGA.m3u8
+#EXTINF:-1,GR:AIGAIO TV
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/AIGAIO.m3u8
+#EXTINF:-1,GR:ASTRA TV
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ASTRA.m3u8
+#EXTINF:-1,GR:KONTRA
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/KONTRA.m3u8
+#EXTINF:-1,CY:RIK1
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik1.m3u8
+#EXTINF:-1,CY:RIK2
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik2.m3u8
+#EXTINF:-1,CY:MEGA.CY
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/Mega.cy.m3u8
+#EXTINF:-1,CY:ANT1.CY
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ANT1.CY.m3u8
+#EXTINF:-1,CY:SIGMA.CY
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SIGMA.m3u8
+#EXTINF:-1,CY:CAPITAL.CY
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/CAPITAL.m3u8
+#EXTINF:-1,CY:EXTRA.CY
+http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EXTRA..m3u8
+
+
 #EXTINF:-1, WORLD TV
 
 http://http://xc.cobra-iptv.com:25461/get.php?username=kos&password=kos&type=m3u
