@@ -1,15 +1,28 @@
-#EXTM3U
-#EXTINF:-1,ERT 1
-http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
-#EXTINF:-1,ERT 2
-http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
-#EXTINF:-1,ERT 3
-http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
-#EXTINF:-1,ALPHA
-http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:-1,ANT1
-http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:-1,MEGA
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-#EXTINF:-1,STAR
-http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:-1,****GREEK******
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2428.ts
+#EXTINF:-1,GR:Zougla
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2415.ts
+#EXTINF:-1,GR: ERT 2
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2416.ts
+#EXTINF:-1,GR: ERT 1
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2417.ts
+#EXTINF:-1,GR: TV-100
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2418.ts
+#EXTINF:-1,GR: SIGMA CY
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2419.ts
+#EXTINF:-1,GR: RIK SAT2
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2420.ts
+#EXTINF:-1,GR: OMEGA
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2421.ts
+#EXTINF:-1,GR: MAD CY
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2422.ts
+#EXTINF:-1,GR: KRHTH TV
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2423.ts
+#EXTINF:-1,GR: EBS+
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2424.ts
+#EXTINF:-1,GR: CRETA TV
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2425.ts
+#EXTINF:-1,GR: ERT 3
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2426.ts
+#EXTINF:-1,GR: 4e
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2427.ts
