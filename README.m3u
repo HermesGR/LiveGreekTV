@@ -54,24 +54,3 @@ http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SIGMA.m3
 http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/CAPITAL.m3u8
 #EXTINF:-1,CY:EXTRA.CY
 http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EXTRA..m3u8
-
-
-#EXTINF:-1, WORLD TV
-
-http://http://xc.cobra-iptv.com:25461/get.php?username=kos&password=kos&type=m3u
-
-#EXTINF:-1, WORLD TV
-
-http://ip.sltv.be:8000/get.php?username=hL2sVnkFI1&password=hFI0I5i4fZ&type=m3u
-
-#EXTINF:-1, WORLD TV
-
-http://cableking-iptv.com:8000/get.php?username=roblewis&password=roblewis&type=m3u
-
-#EXTINF:-1, SPORT TV
-
-http://46.99.168.127:9981/playlist
-
-#EXTINF:-1, SPORT TV
-
-http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
