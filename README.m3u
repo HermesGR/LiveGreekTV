@@ -1,56 +1,239 @@
-
 #EXTM3U
-#EXTINF:-1,GR:ERT1
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT1.m3u8
-#EXTINF:-1,GR:ERT2
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT2.m3u8
-#EXTINF:-1,GR:ERT3
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT3.m3u8
-#EXTINF:-1,GR:MEGA
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.GR.m3u8
-#EXTINF:-1,GR:MEGA-COSMOS
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.COSMOS.m3u8
-#EXTINF:-1,GR:ANT1
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ANT1.GR.m3u8
-#EXTINF:-1,GR:STAR
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/STAR.m3u8
-#EXTINF:-1,GR:ALPHA
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.GR..m3u8
-#EXTINF:-1,GR:ALPHA-SAT
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.SAT.m3u8
-#EXTINF:-1,GR:SKAI
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SKAI.m3u8
-#EXTINF:-1,GR:ETV
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ETV.m3u8
-#EXTINF:-1,GR:MACEDONIA TV
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MAKEDONIA.m3u8
-#EXTINF:-1,GR:ART
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ART.m3u8
-#EXTINF:-1,GR:KONTRA
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/KONTRA.m3u8
-#EXTINF:-1,GR:EXTRA CHANNEL
-rtmp://213.16.167.186:1935/live/mpegts_256.stream
-#EXTINF:-1,GR:DELTA TV
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/DELTA.m3u8
-#EXTINF:-1,GR:OMEGA
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/OMEGA.m3u8
-#EXTINF:-1,GR:AIGAIO TV
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/AIGAIO.m3u8
-#EXTINF:-1,GR:ASTRA TV
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ASTRA.m3u8
-#EXTINF:-1,GR:KONTRA
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/KONTRA.m3u8
-#EXTINF:-1,CY:RIK1
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik1.m3u8
-#EXTINF:-1,CY:RIK2
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik2.m3u8
-#EXTINF:-1,CY:MEGA.CY
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/Mega.cy.m3u8
-#EXTINF:-1,CY:ANT1.CY
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ANT1.CY.m3u8
-#EXTINF:-1,CY:SIGMA.CY
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SIGMA.m3u8
-#EXTINF:-1,CY:CAPITAL.CY
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/CAPITAL.m3u8
-#EXTINF:-1,CY:EXTRA.CY
-http://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EXTRA..m3u8
+#EXTINF:0,Alpha Sat
+http://s2.greekelitetv.com:1935/alpha_sat/alpha_sat.stream/playlist.m3u8
+#EXTINF:0,MEGA Cosmos
+http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8
+#EXTINF:0,RIK SAT
+http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
+#EXTINF:0,ERT HD
+http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
+#EXTINF:0,AB
+http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8
+#EXTINF:0,ACTION24
+http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8
+#EXTINF:0,Attica
+http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8
+#EXTINF:0,E -7hrs
+http://s2.greekelitetv.com:1935/epsilon-7/epsilon-7.stream/playlist.m3u8
+#EXTINF:0,E -10hrs
+http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8
+#EXTINF:0,Alpha -7hrs
+http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8
+#EXTINF:0,Alpha -10hrs
+http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8
+#EXTINF:0,SMILE
+http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
+#EXTINF:0,EuroNews Greece
+http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8
+#EXTINF:0,STAR -7hrs
+http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8
+#EXTINF:0,STAR -10hrs
+http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8
+#EXTINF:0,SKAI -7hrs
+http://s2.greekelitetv.com:1935/skai-7/skai-7.stream/playlist.m3u8
+#EXTINF:0,EXTRA
+http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8
+#EXTINF:0,SKAI -10hrs
+http://s2.greekelitetv.com:1935/skai-10/skai-10.stream/playlist.m3u8
+#EXTINF:0,BlueSky
+http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
+#EXTINF:0,nickelodeon
+http://38.99.163.117/nickelodeon/nickelodeon/playlist.m3u8
+#EXTINF:0,EuroSport 2
+http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8
+#EXTINF:0,EuroSport 1
+http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8
+#EXTINF:0,Ant1 Κύπρος
+http://38.99.163.117/nimble_live/ant1CY_low/playlist.m3u8
+#EXTINF:0,CINEMA3
+http://38.99.163.117/nimble_live/SORTS12_low/playlist.m3u8
+#EXTINF:0,CINEMA2
+http://38.99.163.117/nimble_live/SPORTS11_LOW/playlist.m3u8
+#EXTINF:0,CINEMA1
+http://38.99.163.117/nimble_live/SPORTS10_low/playlist.m3u8
+#EXTINF:0,ANT1 Sat
+http://38.99.163.117/antsat/main/playlist.m3u8
+#EXTINF:0,Alpha
+http://38.99.163.117/nimble_live/Alpha_low/playlist.m3u8
+#EXTINF:0,ANT1
+http://38.99.163.117/nimble_live/ant1_low/playlist.m3u8
+#EXTINF:0,MEGA
+http://38.99.163.117/nimble_live/mega_low/playlist.m3u8
+#EXTINF:0,MEGA Κύπρος
+http://38.99.163.117/nimble_live/megaCY_low/playlist.m3u8
+#EXTINF:0,ERT1
+http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8
+#EXTINF:0,ERT 2
+http://38.99.163.117/nimble_live/ert2_low/playlist.m3u8
+#EXTINF:0,ERT 3
+http://38.99.163.117/nimble_live/et3_low/playlist.m3u8
+#EXTINF:0,SIGMA
+http://38.99.163.117/nimble_live/sigma/playlist.m3u8
+#EXTINF:0,Capital
+http://38.99.163.117/nimble_live/capital_low/playlist.m3u8
+#EXTINF:0,RIK 1
+http://38.99.163.117/nimble_live/rik1_low/playlist.m3u8
+#EXTINF:0,RIK2
+http://38.99.163.117/nimble_live/rik2_low/playlist.m3u8
+#EXTINF:0,E
+http://38.99.163.117/nimble_live/epsilon_low/playlist.m3u8
+#EXTINF:0,SKAI
+http://38.99.163.117/nimble_live/skai_low/playlist.m3u8
+#EXTINF:0,ART_low
+http://38.99.163.117/nimble_live/art_low/playlist.m3u8
+#EXTINF:0,EXTRA_low
+http://38.99.163.117/nimble_live/extra_low/playlist.m3u8
+#EXTINF:0,MAKEDONIA
+http://38.99.163.117/nimble_live/macedonia/playlist.m3u8
+#EXTINF:0,MAD Κύπρος
+http://38.99.163.117/nimble_live/mad_low/playlist.m3u8
+#EXTINF:0,Discovery GR
+http://38.99.163.117/nimble_live/discovery_low/playlist.m3u8
+#EXTINF:0,Science GR
+http://38.99.163.117/nimble_live/science_low/playlist.m3u8
+#EXTINF:0,Animal Ch GR
+http://38.99.163.117/nimble_live/animal_low/playlist.m3u8
+#EXTINF:0,Greek Voice FL
+http://38.99.163.117/wpso/wpso/playlist.m3u8
+#EXTINF:0,ANT1 Κύπρος -7hrs
+http://38.99.163.117/nimble_live/ant1CY_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,STAR
+http://38.99.163.117/nimble_live/star_low/playlist.m3u8
+#EXTINF:0,WZRA Kids
+http://38.99.163.117/wzrakids/wzrakids/playlist.m3u8
+#EXTINF:0,Extra Sport 2
+http://38.99.163.117/extra2/extra2/playlist.m3u8
+#EXTINF:0,Extra Sport 1
+http://38.99.163.117/extra1/extra1/playlist.m3u8
+#EXTINF:0,SIGMA -7hrs
+http://38.99.163.117/nimble_live/sigma/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,ANT1 -7hrs
+http://38.99.163.117/nimble_live/ant1_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,Plus
+http://38.99.163.117/nimble_live/plus_low/playlist.m3u8
+#EXTINF:0,ArenaSport 1
+http://38.99.163.117/nimble_live/Sports1/playlist.m3u8
+#EXTINF:0,Arena Sport 2
+http://38.99.163.117/nimble_live/sports2_low/playlist.m3u8
+#EXTINF:0,ArenaSport 3
+http://38.99.163.117/nimble_live/Sport3/playlist.m3u8
+#EXTINF:0,ArenaSport 4
+http://38.99.163.117/nimble_live/Sport4/playlist.m3u8
+#EXTINF:0,SPORT5_low
+http://38.99.163.117/nimble_live/SPORTS5_low/playlist.m3u8
+#EXTINF:0,SPORT6_low
+http://38.99.163.117/nimble_live/SPORT6_low/playlist.m3u8
+#EXTINF:0,IDxtra GR
+http://38.99.163.117/nimble_live/idx_low/playlist.m3u8
+#EXTINF:0,SCIENCE_GR -7HR
+http://38.99.163.117/nimble_live/science_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,ALPHA Κύπρος -7hrs
+http://38.99.163.117/nimble_live/alphaCY_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,Alpha Κύπρος
+http://38.99.163.117/nimble_live/alphaCY_low/playlist.m3u8
+#EXTINF:0,Capital -7hrs
+http://38.99.163.117/nimble_live/capital_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,sports8
+http://38.99.163.117/sport8/sports8/playlist.m3u8
+#EXTINF:0,ERT2 -7hrs
+http://38.99.163.117/nimble_live/ert2_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,ERT3 -7hrs
+http://38.99.163.117/nimble_live/et3_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,MEGA -7hrs
+http://38.99.163.117/nimble_live/mega_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,Spicy
+http://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek/playlist.m3u8
+#EXTINF:0,MEGA Κύπρος -7hrs
+http://38.99.163.117/nimble_live/megaCY_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,ΡΙΚ1 -7hrs
+http://38.99.163.117/nimble_live/rik1_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,RIK2 -7hrs
+http://38.99.163.117/nimble_live/rik2_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,AnimalchGR -7hrs
+http://38.99.163.117/nimble_live/animal_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,CINEMA
+http://38.99.163.117/nimble_live/sports9_low/playlist.m3u8
+#EXTINF:0,KRHTH
+http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w2135212658.m3u8
+#EXTINF:0,Makedonia -7hrs
+http://38.99.163.117/nimble_live/macedonia/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,Nickolodeon -7hrs
+http://38.99.163.117/nickelodeon/nickelodeon/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,Plus -7hrs
+http://38.99.163.117/nimble_live/plus_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,DISCOVERYGR -7hrs
+http://38.99.163.117/nimble_live/discovery_low/playlist_dvr_timeshift-25200.m3u8
+#EXTINF:0,SAMIAKI TV
+http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:0,START TV
+http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:0,MagicTV
+http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
+#EXTINF:0,XalastraTV
+http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:0,EllasRadioTV
+http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
+#EXTINF:0,ΤΗΛΕΜΟΥΣΙΚΗ HD
+http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
+#EXTINF:0,GREEK CINEMA
+http://stream.ssh101.com:1935/live/NATURATV/playlist.m3u8
+#EXTINF:-1,FOXTV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1,NGRadio
+http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
+#EXTINF:-1,CANALI
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1,Lampsi TV
+http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
+#EXTINF:-1,HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:0,CINEFIL GR
+http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
+#EXTINF:0,cartoonTV
+http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
+#EXTINF:0,CINEMANIA
+http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
+#EXTINF:0,ALPHA MUSIC
+http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8
+#EXTINF:0,SuperStar
+http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
+#EXTINF:0,Palmos
+http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
+#EXTINF:0,CORFUTV
+http://iphone-streaming.ustream.tv/uhls/22608117/streams/live/iphone/playlist.m3u8
+#EXTINF:0,EPIRUS TV
+http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
+#EXTINF:0,ITV
+http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+#EXTINF:0,RELOAD
+http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
+#EXTINF:0,DNA TV
+http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8
+#EXTINF:0,CRETA
+http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+#EXTINF:0,NEA TV
+http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+#EXTINF:0,EllinikosFM
+http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+#EXTINF:0,ZouglaTV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+#EXTINF:0,4ETV
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:0,NETV TORONTO
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:0,MAD CY
+http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
+#EXTINF:0,IONIAN
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:0,SBC
+http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,TEST ET1
+http://gatoni.ddns.net:65101
+#EXTINF:0,Astra TV
+http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:0,ELLASTV
+http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+#EXTINF:0,VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0,ERT1 -7hrs
+http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8
