@@ -1,13 +1,13 @@
 
-#EXTINF:0,ALPHA (GR)
-http://ok0.se:8000/live/kami/kami/4076.ts
-#EXTINF:0,ANT1 (GR)
+#EXTINF:-1,ALPHA (GR)
+http://8000/live/kami/kami/4076.ts
+#EXTINF:-1,ANT1 (GR)
 http://ok1.se:8000/live/kami/kami/4077.ts
-#EXTINF:0,EPSILON (GR)
+#EXTINF:-1,EPSILON (GR)
 http://ok1.se:8000/live/kami/kami/4078.ts
-#EXTINF:1,ERT1 (GR)
+#EXTINF:-1,ERT1 (GR)
 http://ok1.se:8000/live/kami/kami/4079.ts
-#EXTINF:1,ERT2 (GR)
+#EXTINF:-1,ERT2 (GR)
 http://ok1.se:8000/live/kami/kami/4080.ts
 #EXTINF:-1,MEGA(GR)
 http://ok1.se:8000/live/kami/kami/4081.ts
