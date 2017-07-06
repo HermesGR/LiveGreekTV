@@ -5,9 +5,9 @@ http://ok1.se:8000/live/kami/kami/4076.ts
 http://ok1.se:8000/live/kami/kami/4077.ts
 #EXTINF:0,EPSILON (GR)
 http://ok1.se:8000/live/kami/kami/4078.ts
-#EXTINF:-1,ERT1 (GR)
+#EXTINF:1,ERT1 (GR)
 http://ok1.se:8000/live/kami/kami/4079.ts
-#EXTINF:-1,ERT2 (GR)
+#EXTINF:1,ERT2 (GR)
 http://ok1.se:8000/live/kami/kami/4080.ts
 #EXTINF:-1,MEGA(GR)
 http://ok1.se:8000/live/kami/kami/4081.ts
