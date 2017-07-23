@@ -1,7 +1,11 @@
 
 
-#EXTINF:1, Greece vs Israel U-20 Live
+#EXTINF:1, SPAIN vs FRANCE U-20 LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=5oO4DEayD0I
+
+#EXTINF:1, GREECE vs ISRAEL U-20 LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=U9HnoxmG5i8
+
 #EXTM3U url-tvg="http://tv.x-mad.com/EPG/rytecxmltv-Greece.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 http://bit.ly/2rn77rc
