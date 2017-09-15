@@ -1,9 +1,5 @@
 
 
-#EXTINF:-1 url=http%3A%2F%2Fechootv.org%2Flive%2Fshowsat_RQkyhZ%2FbiUj5Gs2%2F9418.ts
-
-
-
 #EXTM3U url-tvg="http://tv.x-mad.com/EPG/rytecxmltv-Greece.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 http://bit.ly/2rn77rc
