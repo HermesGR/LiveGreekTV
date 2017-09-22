@@ -1,545 +1,161 @@
 
-#EXTM3U
 
 
-#EXTINF:-1,GR:Nat Geo HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9324.ts
-
-#EXTINF:-1,GR:Nat Geo Wild
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9322.ts
-
-#EXTINF:-1,GR:Nat Geo Wild HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9323.ts
-
-#EXTINF:-1,GR:Discovery Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9330.ts
-
-#EXTINF:-1,GR:Discovery History
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9325.ts
-
-#EXTINF:-1,GR:Discovery ID
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9328.ts
-
-#EXTINF:-1,GR:Discovery IDX
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9327.ts
-
-#EXTINF:-1,GR:Discovery Science
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9326.ts
-
-#EXTINF:-1,GR:Discovery ShowCase HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9329.ts
-
-#EXTINF:-1,GR:Travel Channel HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9316.ts
-
-#EXTINF:-1,GR:Viasat History
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9317.ts
-
-#EXTINF:-1,GR:Animal Planet
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9320.ts
-
-#EXTINF:-1,GR:Animal Planet HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9321.ts
-
-#EXTINF:-1,GR:History HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9319.ts
-
-#EXTINF:-1,GR:Cosmote Sport 1 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9418.ts
-
-#EXTINF:-1,GR:Cosmote Sport 2 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9417.ts
-
-#EXTINF:-1,GR:Cosmote Sport 3 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9416.ts
-
-#EXTINF:-1,GR:Cosmote Sport 4 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9415.ts
-
-#EXTINF:-1,GR:Cosmote Sport 5 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9414.ts
-
-#EXTINF:-1,GR:Cosmote Sport 6 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9413.ts
-
-#EXTINF:-1,GR:Cosmote Sport 7 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9412.ts
-
-#EXTINF:-1,GR:Cosmote Sport 8 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9411.ts
-
-#EXTINF:-1,GR:EuroSport 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9410.ts
-
-#EXTINF:-1,GR:Fishing Ellinika
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9314.ts
-
-#EXTINF:-1,GR:Hunting Ellinika
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9313.ts
-
-#EXTINF:-1,GR:TileSport TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9409.ts
-
-#EXTINF:-1,GR:Village
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9333.ts
-
-#EXTINF:-1,GR:Village HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9334.ts
-
-#EXTINF:-1,GR:Sundance
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9335.ts
-
-#EXTINF:-1,GR:Sundance HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9336.ts
-
-#EXTINF:-1,GR:TLC
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9315.ts
-
-#EXTINF:-1,GR:Best Movies 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9351.ts
-
-#EXTINF:-1,GR:Best Movies 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9350.ts
-
-#EXTINF:-1,GR:Best Movies 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9349.ts
-
-#EXTINF:-1,GR:Best Movies 4
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9348.ts
-
-#EXTINF:-1,GR:Best Movies 5
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9347.ts
-
-#EXTINF:-1,GR:Best Movies 6
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9346.ts
-
-#EXTINF:-1,GR:Capital Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9381.ts
-
-#EXTINF:-1,GR:CHANNEL 9
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9380.ts
-
-#EXTINF:-1,GR:Cinema Greek 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9353.ts
-
-#EXTINF:-1,GR:Cinema Greek 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9352.ts
-
-#EXTINF:-1,GR:Greek Cinema 80s 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9345.ts
-
-#EXTINF:-1,GR:Greek Cinema 80s 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9344.ts
-
-#EXTINF:-1,GR:Greek Cinema 80s 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9343.ts
-
-#EXTINF:-1,GR:Greek Mix
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9342.ts
-
-#EXTINF:-1,GR:Greek Old Movies 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9341.ts
-
-#EXTINF:-1,GR:Greek Old Movies 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9340.ts
-
-#EXTINF:-1,GR:Greek Old Movies 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9339.ts
-
-#EXTINF:-1,GR:Greek Series 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9338.ts
-
-#EXTINF:-1,GR:Greek Series 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9337.ts
-
-#EXTINF:-1,GR:Nickelodeon
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9312.ts
-
-#EXTINF:-1,GR:Disney Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9311.ts
-
-#EXTINF:-1,GR:Disney Junior
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9310.ts
-
-#EXTINF:-1,GR:Disney XD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9309.ts
-
-#EXTINF:-1,GR:DS
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9378.ts
-
-#EXTINF:-1,GR:Baby TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9307.ts
-
-#EXTINF:-1,GR:SMILE
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9359.ts
-
-#EXTINF:-1,GR:Zouzounia
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9308.ts
-
-#EXTINF:-1,GR:Kids 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9305.ts
-
-#EXTINF:-1,GR:Kids 10
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9297.ts
-
-#EXTINF:-1,GR:Kids 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9304.ts
-
-#EXTINF:-1,GR:Kids 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9303.ts
-
-#EXTINF:-1,GR:Kids 4
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9302.ts
-
-#EXTINF:-1,GR:Kids 5
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9301.ts
-
-#EXTINF:-1,GR:Kids 6
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9300.ts
-
-#EXTINF:-1,GR:Kids 7
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9299.ts
-
-#EXTINF:-1,GR:Kids 9
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9298.ts
-
-#EXTINF:-1,GR:ERT HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9408.ts
-
-#EXTINF:-1,GR:ERT 1
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9407.ts
-
-#EXTINF:-1,GR:ERT 2
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9406.ts
-
-#EXTINF:-1,GR:ERT 3
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9405.ts
-
-#EXTINF:-1,GR:ERT Web TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9404.ts
-
-#EXTINF:-1,GR:ANT1 HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9383.ts
-
-#EXTINF:-1,GR:Alpha HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9385.ts
-
-#EXTINF:-1,GR:SKAI
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9360.ts
-
-#EXTINF:-1,GR:Skai HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9361.ts
-
-#EXTINF:-1,GR:STAR
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9392.ts
-
-#EXTINF:-1,GR:Star HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9393.ts
-
-#EXTINF:-1,GR:ART Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9382.ts
-
-#EXTINF:-1,GR:E!
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9331.ts
-
-#EXTINF:-1,GR:MAKEDONIA TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9400.ts
-
-#EXTINF:-1,GR:Makedonia TV HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9401.ts
-
-#EXTINF:-1,GR:Mega
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9399.ts
-
-#EXTINF:-1,GR:Epirus TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9332.ts
-
-#EXTINF:-1,GR:EPSILON
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9402.ts
-
-#EXTINF:-1,GR:Epsilon HD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9403.ts
-
-#EXTINF:-1,GR:EuroNews
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9306.ts
-
-#EXTINF:-1,GR:Creta Web TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9379.ts
-
-#EXTINF:-1,GR:4E Star
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9388.ts
-
-#EXTINF:-1,GR:AB Channel
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9389.ts
-
-#EXTINF:-1,GR:Acheloos TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9387.ts
-
-#EXTINF:-1,GR:ACTION 24
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9386.ts
-
-#EXTINF:-1,GR:Alpha Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9384.ts
-
-#EXTINF:-1,GR:EXTRA
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9377.ts
-
-#EXTINF:-1,GR:Ioannina TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9375.ts
-
-#EXTINF:-1,GR:KONTRA TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9376.ts
-
-#EXTINF:-1,GR:Krhth Tv
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9374.ts
-
-#EXTINF:-1,GR:Kriti TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9373.ts
-
-#EXTINF:-1,GR:MAD
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9372.ts
-
-#EXTINF:-1,GR:MAD TV Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9371.ts
-
-#EXTINF:-1,GR:MegaOne Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9398.ts
-
-#EXTINF:-1,GR:MESSINIA TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9370.ts
-
-#EXTINF:-1,GR:Nea TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9397.ts
-
-#EXTINF:-1,GR:Net TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9396.ts
-
-#EXTINF:-1,GR:Nova
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9394.ts
-
-#EXTINF:-1,GR:Omega TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9395.ts
-
-#EXTINF:-1,GR:OTE History
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9318.ts
-
-#EXTINF:-1,GR:Plus Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9366.ts
-
-#EXTINF:-1,GR:RIK 1 Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9368.ts
-
-#EXTINF:-1,GR:RIK 2 Cyprus
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9367.ts
-
-#EXTINF:-1,GR:RIK SAT
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9369.ts
-
-#EXTINF:-1,GR:RISE
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9365.ts
-
-#EXTINF:-1,GR:Samiaki
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9364.ts
-
-#EXTINF:-1,GR:SBC
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9363.ts
-
-#EXTINF:-1,GR:Sigma
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9362.ts
-
-#EXTINF:-1,GR:Toronto TV
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9358.ts
-
-#EXTINF:-1,GR:Vouli
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9391.ts
-
-#EXTINF:-1,GR:Zougla
-http://echootv.org/live/showsat_tRcUsb/Vyg7j8IW/9390.ts
-
-
-
-
-
-
-
-#EXTM3U url-tvg="http://tv.x-mad.com/EPG/rytecxmltv-Greece.gz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA 
-http://bit.ly/2rn77rc
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
-http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
-http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
-http://bit.ly/2s4dHUK
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
-https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
-http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
-http://bit.ly/2rp95bt
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
-http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
-http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
-http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jOgysNe.png",THINGS GREEN
-http://bit.ly/2qdaBMj
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/eWjOYtW.jpg",4 WHEELS
-http://bit.ly/2qsbeSp
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
-http://bit.ly/2pI4k89
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
-http://bit.ly/2rvaV7Q
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/rGzK4Hz.jpg",SQUEL TV
-http://bit.ly/2ty8O4B
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/wcodbFA.png",LIFE 
-rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="htt
-mmsh://wpso.com:200/kids
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/MvMLxy0.png",DONALD DUCK
-https://www.youtube.com/watch?v=1-BKq4JoFR8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/ioFUOYb.jpg",TOM
-https://www.youtube.com/watch?v=kNq8KWsEu3s
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
-http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="euronews.nws" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
-https://www.youtube.com/watch?v=TNeFuPi_9AE
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
-http://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/a_eq473601t9w8.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/sZo0B5L.png",ALPHA CY
-http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
-http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY 
-http://50.7.124.18/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=603151&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDE3IDk6MDk6MzQgQU0maGFzaF92YWx1ZT1EZ0d3M3UzRkpUUXB4ZmVsV3FYZUR3PT0mdmFsaWRtaW51dGVzPTY2MA==
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
-http://stream-12.dc3.dailymotion.com/07/dm/1/x5j0ses/live.isml/live.m3u8?e=1500274730&st=OOCiQvR1bIC8xg8C9ccQGA#cell=lvty&hls_liveSyncDuration=24
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=knhVhKw2B3o
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
-http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4E.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV CY
-http://144.76.2.213:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV
-http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
-http://77.92.76.135:1935/jayzee/livestream/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
-http://bit.ly/2qVSex3
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/100uuWA.png",PLAY TV
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
-http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",XALASTRA TV
-http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
-http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
-mmsh://wpso.com:200/music
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
-http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV
-mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-http://4.31.30.145:9080
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E. BUP
-http://stream-03.ix7.dailymotion.com/48/dm/1/xqjey2/live.isml/live.m3u8?e=1500274895&st=RwCTMSWDNOhuOaoFgeKZzw#cell=lvty&hls_liveSyncDuration=24
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT TV
-http://hls.ssh101.com/live/TRTGREECE/index.m3u8 
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xAKXNn1.png",FLASH TV
-http://stream-06.dc3.dailymotion.com/38/dm/1/x5d9lwu/live.isml/live.m3u8?e=1500274943&st=7dBRAssKJqWAdoyyHlGj1w#cell=lvty&hls_liveSyncDuration=24
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
-http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="KritiTV.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png",NEA TV
-http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",TV CRETA
-http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
-https://www.youtube.com/watch?v=hUyGJIr26xg
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET
-rtmp://hls.onestreaming.com:1935/live/thrakinettv
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
-http://s.bizr.gr:8080/hls/best.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52996478/ASTRA_TV.png",ASTRA TV
-http://www.astratv.gr:8090/hls/livestream.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
-http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254400/ACHAIA.PNG",ACHAIA CHANNEL
-http://78.129.184.15:23319/streaming/stream/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jH6tcnu.png",HLEKTRA TV
-http://bit.ly/2raK7bX
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
-http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54759558/OMEGA_TELEVISION.png",OMEGA TV
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52572892/TVM.png",TV MYTILINI
-rtmp://cp77174.live.edgefcs.net/live/123456@19937
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
-https://www.youtube.com/watch?v=pGCUb7uAMg4
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/br722T6.jpg",ORASI TV
-https://www.youtube.com/watch?v=hRdKXm-1aVY
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/BfXL16K.jpg",ESTIA TV
-https://www.youtube.com/watch?v=YjLVtVUK5kk
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png",HORSE RACES
-http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 
-http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
-mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/hqVVNSd.jpg",ELL TV
-http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
-http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
-http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
-http://78.47.151.114:1935/tilesport/movie1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0sxH2T0.png",CRETA TV
-http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS ON AIR TV
-http://smooth2.istoikona.net:1935/farosonair/farosonair/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL TV
-http://138.197.136.102:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2hU849d.jpg",TV DIPSO
-http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
-http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/AZteACJ.jpgE",RADIO EPISTROFI
-http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS FM
-http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
-http://wpc.68fc.edgecastcdn.net/2468FC/promo/video.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://cdn-radiotime-logos.tunein.com/s227580q.png",GREEK RADIO TV
-http://str103.setplex.net:1935/228/greeradio/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/8WPWCi1.png",RYTHMOS RADIO TV
-rtmp://rythmoscam.dyndns.org:1935/live/myStream
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
-http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/n907AGO.png",EBS PLUS
-http://ott.ec.streamcloud.be/live/di
+#EXTINF:-1,=======>   Greece   <=======
+http://iptv.new4tec.com:8080/live/carlos/carlos/22061.ts
+#EXTINF:-1,GR : TV Mytilini
+http://iptv.new4tec.com:8080/live/carlos/carlos/21985.ts
+#EXTINF:-1,GR: 4E
+http://iptv.new4tec.com:8080/live/carlos/carlos/21986.ts
+#EXTINF:-1,GR: 4E Star
+http://iptv.new4tec.com:8080/live/carlos/carlos/21987.ts
+#EXTINF:-1,GR: AB Channel
+http://iptv.new4tec.com:8080/live/carlos/carlos/21988.ts
+#EXTINF:-1,GR: ACTION 24
+http://iptv.new4tec.com:8080/live/carlos/carlos/21989.ts
+#EXTINF:-1,GR: AIGAIO TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/21990.ts
+#EXTINF:-1,GR: Alpha
+http://iptv.new4tec.com:8080/live/carlos/carlos/21991.ts
+#EXTINF:-1,GR: ANT1
+http://iptv.new4tec.com:8080/live/carlos/carlos/21992.ts
+#EXTINF:-1,GR: Ant1 Cyprus
+http://iptv.new4tec.com:8080/live/carlos/carlos/21310.ts
+#EXTINF:-1,GR: Ant1 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/21993.ts
+#EXTINF:-1,GR: Apeiro TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/21994.ts
+#EXTINF:-1,GR: APT
+http://iptv.new4tec.com:8080/live/carlos/carlos/21995.ts
+#EXTINF:-1,GR: Art
+http://iptv.new4tec.com:8080/live/carlos/carlos/21996.ts
+#EXTINF:-1,GR: Astra
+http://iptv.new4tec.com:8080/live/carlos/carlos/21997.ts
+#EXTINF:-1,GR: Axeloos TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/21998.ts
+#EXTINF:-1,GR: BLUE SKY
+http://iptv.new4tec.com:8080/live/carlos/carlos/21999.ts
+#EXTINF:-1,GR: Boyah
+http://iptv.new4tec.com:8080/live/carlos/carlos/22000.ts
+#EXTINF:-1,GR: Channel 9
+http://iptv.new4tec.com:8080/live/carlos/carlos/22001.ts
+#EXTINF:-1,GR: DIAVATA TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22002.ts
+#EXTINF:-1,GR: DIKTYO
+http://iptv.new4tec.com:8080/live/carlos/carlos/22003.ts
+#EXTINF:-1,GR: E
+http://iptv.new4tec.com:8080/live/carlos/carlos/22004.ts
+#EXTINF:-1,GR: Ellinikosfm TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22005.ts
+#EXTINF:-1,GR: EPIRUS TV1
+http://iptv.new4tec.com:8080/live/carlos/carlos/21311.ts
+#EXTINF:-1,GR: Ept 1
+http://iptv.new4tec.com:8080/live/carlos/carlos/22006.ts
+#EXTINF:-1,GR: Ept 2
+http://iptv.new4tec.com:8080/live/carlos/carlos/22007.ts
+#EXTINF:-1,GR: ERT 1
+http://iptv.new4tec.com:8080/live/carlos/carlos/22008.ts
+#EXTINF:-1,GR: Ert HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22009.ts
+#EXTINF:-1,GR: ERT2
+http://iptv.new4tec.com:8080/live/carlos/carlos/22010.ts
+#EXTINF:-1,GR: Euronews
+http://iptv.new4tec.com:8080/live/carlos/carlos/22011.ts
+#EXTINF:-1,GR: Eurosport 1
+http://iptv.new4tec.com:8080/live/carlos/carlos/22012.ts
+#EXTINF:-1,GR: Eurosport 2
+http://iptv.new4tec.com:8080/live/carlos/carlos/22013.ts
+#EXTINF:-1,GR: EXTRA
+http://iptv.new4tec.com:8080/live/carlos/carlos/22014.ts
+#EXTINF:-1,GR: Extra Channel
+http://iptv.new4tec.com:8080/live/carlos/carlos/22015.ts
+#EXTINF:-1,GR: High TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22016.ts
+#EXTINF:-1,GR: Hpeiros TV1
+http://iptv.new4tec.com:8080/live/carlos/carlos/22017.ts
+#EXTINF:-1,GR: JAYZEE
+http://iptv.new4tec.com:8080/live/carlos/carlos/22018.ts
+#EXTINF:-1,GR: Kontra Channel
+http://iptv.new4tec.com:8080/live/carlos/carlos/22019.ts
+#EXTINF:-1,GR: KONTRA TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22020.ts
+#EXTINF:-1,GR: Krhth TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22021.ts
+#EXTINF:-1,GR: KRITI TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22022.ts
+#EXTINF:-1,GR: Lepanto
+http://iptv.new4tec.com:8080/live/carlos/carlos/22023.ts
+#EXTINF:-1,GR: Mad TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22024.ts
+#EXTINF:-1,GR: Makedonia
+http://iptv.new4tec.com:8080/live/carlos/carlos/22025.ts
+#EXTINF:-1,GR: Makedonia TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22026.ts
+#EXTINF:-1,GR: Makedonia TV Delay
+http://iptv.new4tec.com:8080/live/carlos/carlos/22027.ts
+#EXTINF:-1,GR: Makeleio Web Tv
+http://iptv.new4tec.com:8080/live/carlos/carlos/22028.ts
+#EXTINF:-1,GR: Mega
+http://iptv.new4tec.com:8080/live/carlos/carlos/22029.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22030.ts
+#EXTINF:-1,GR: MTVeece
+http://iptv.new4tec.com:8080/live/carlos/carlos/22031.ts
+#EXTINF:-1,GR: Nat Geo
+http://iptv.new4tec.com:8080/live/carlos/carlos/22032.ts
+#EXTINF:-1,GR: NEA
+http://iptv.new4tec.com:8080/live/carlos/carlos/22033.ts
+#EXTINF:-1,GR: Nea Tv
+http://iptv.new4tec.com:8080/live/carlos/carlos/22034.ts
+#EXTINF:-1,GR: New TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22035.ts
+#EXTINF:-1,GR: Nickelodeon
+http://iptv.new4tec.com:8080/live/carlos/carlos/22036.ts
+#EXTINF:-1,GR: NOVA
+http://iptv.new4tec.com:8080/live/carlos/carlos/22037.ts
+#EXTINF:-1,GR: OMEGA
+http://iptv.new4tec.com:8080/live/carlos/carlos/22038.ts
+#EXTINF:-1,GR: Omega TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22039.ts
+#EXTINF:-1,GR: Rik
+http://iptv.new4tec.com:8080/live/carlos/carlos/22040.ts
+#EXTINF:-1,GR: SAMIAKI
+http://iptv.new4tec.com:8080/live/carlos/carlos/22041.ts
+#EXTINF:-1,GR: SBC
+http://iptv.new4tec.com:8080/live/carlos/carlos/22042.ts
+#EXTINF:-1,GR: Sigma
+http://iptv.new4tec.com:8080/live/carlos/carlos/22043.ts
+#EXTINF:-1,GR: Skai
+http://iptv.new4tec.com:8080/live/carlos/carlos/22044.ts
+#EXTINF:-1,GR: Smile
+http://iptv.new4tec.com:8080/live/carlos/carlos/22045.ts
+#EXTINF:-1,GR: Star
+http://iptv.new4tec.com:8080/live/carlos/carlos/22046.ts
+#EXTINF:-1,GR: Star TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22047.ts
+#EXTINF:-1,GR: Start TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22048.ts
+#EXTINF:-1,GR: Thema TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22049.ts
+#EXTINF:-1,GR: Thraki TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22050.ts
+#EXTINF:-1,GR: TILESPORT
+http://iptv.new4tec.com:8080/live/carlos/carlos/22051.ts
+#EXTINF:-1,GR: TRT
+http://iptv.new4tec.com:8080/live/carlos/carlos/22052.ts
+#EXTINF:-1,GR: TV 1000
+http://iptv.new4tec.com:8080/live/carlos/carlos/22053.ts
+#EXTINF:-1,GR: TV Gold
+http://iptv.new4tec.com:8080/live/carlos/carlos/22054.ts
+#EXTINF:-1,GR: TV1 Siros
+http://iptv.new4tec.com:8080/live/carlos/carlos/22055.ts
+#EXTINF:-1,GR: Tv100
+http://iptv.new4tec.com:8080/live/carlos/carlos/22056.ts
+#EXTINF:-1,GR: Vergina TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22057.ts
+#EXTINF:-1,GR: VOULI
+http://iptv.new4tec.com:8080/live/carlos/carlos/22058.ts
+#EXTINF:-1,GR: Vouli TV
+http://iptv.new4tec.com:8080/live/carlos/carlos/22059.ts
+#EXTINF:-1,GR: ZOUGL@
+http://iptv.new4tec.com:8080/live/carlos/carlos/22060.ts
