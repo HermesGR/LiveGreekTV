@@ -17,6 +17,10 @@ http://46.166.148.101/live/demo/demo/4723.ts
 http://46.166.148.101/live/demo/demo/4722.ts
 #EXTINF:-1,E! (GR)
 http://46.166.148.101/live/demo/demo/4721.ts
+#EXTINF:-1,NOVA SPORTS 1 HD (GR) 
+http://46.166.148.201:8000/live/Lawrence/Lawrence/6447.ts
+#EXTINF:-1,NOVA SPORTS 2 HD (GR) 
+http://46.166.148.201:8000/live/Lawrence/Lawrence/6448.ts
 #EXTINF:-1,NOVA SPORTS 1 HD (GR)
 http://46.166.148.101/live/demo/demo/6447.ts
 #EXTINF:-1,NOVA SPORTS 2 HD (GR)
