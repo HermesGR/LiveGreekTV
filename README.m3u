@@ -1,60 +1,190 @@
 #EXTM3U
-
-#EXTINF:-1,♣♣♣♣♣Greek♣♣♣♣♣
-http://link.softclientarea.com:9100/live/baumann/baumann/7447.ts
-#EXTINF:-1,GR|TILESPORT TV
-http://link.softclientarea.com:9100/live/baumann/baumann/31813.ts
-#EXTINF:-1,GR 4E
-http://link.softclientarea.com:9100/live/baumann/baumann/31798.ts
-#EXTINF:-1,GR Action 24
-http://link.softclientarea.com:9100/live/baumann/baumann/31805.ts
-#EXTINF:-1,GR E
-http://link.softclientarea.com:9100/live/baumann/baumann/31806.ts
-#EXTINF:-1,GR ERT1
-http://link.softclientarea.com:9100/live/baumann/baumann/31807.ts
-#EXTINF:-1,GR ERT2
-http://link.softclientarea.com:9100/live/baumann/baumann/31808.ts
-#EXTINF:-1,GR EXTRA
-http://link.softclientarea.com:9100/live/baumann/baumann/31809.ts
-#EXTINF:-1,GR KONTRA
-http://link.softclientarea.com:9100/live/baumann/baumann/31810.ts
-#EXTINF:-1,GR NEA TV
-http://link.softclientarea.com:9100/live/baumann/baumann/31811.ts
-#EXTINF:-1,GR SBC
-http://link.softclientarea.com:9100/live/baumann/baumann/31812.ts
-#EXTINF:-1,GR Skai
-http://link.softclientarea.com:9100/live/baumann/baumann/31814.ts
-#EXTINF:-1,GR Star
-http://link.softclientarea.com:9100/live/baumann/baumann/31816.ts
-#EXTINF:-1,GR| Alpha
-http://link.softclientarea.com:9100/live/baumann/baumann/31817.ts
-#EXTINF:-1,GR| Ant1
-http://link.softclientarea.com:9100/live/baumann/baumann/31818.ts
-#EXTINF:-1,GR| Antena 1
+#EXTINF:-1,GR| Antena 1  
 http://link.softclientarea.com:9100/live/baumann/baumann/31819.ts
-#EXTINF:-1,GR| Eurosport 1
-http://link.softclientarea.com:9100/live/baumann/baumann/31799.ts
-#EXTINF:-1,GR| KONTRA
-http://link.softclientarea.com:9100/live/baumann/baumann/31820.ts
-#EXTINF:-1,GR| KRITI TV
-http://link.softclientarea.com:9100/live/baumann/baumann/31800.ts
-#EXTINF:-1,GR| Makedonia
-http://link.softclientarea.com:9100/live/baumann/baumann/31821.ts
-#EXTINF:-1,GR| Mega
-http://link.softclientarea.com:9100/live/baumann/baumann/31822.ts
-#EXTINF:-1,GR| MESSINIA TV
-http://link.softclientarea.com:9100/live/baumann/baumann/31801.ts
-#EXTINF:-1,GR| NOVA
-http://link.softclientarea.com:9100/live/baumann/baumann/31802.ts
-#EXTINF:-1,GR| Omega TV
+#EXTINF:-1,GR| Omega TV  
 http://link.softclientarea.com:9100/live/baumann/baumann/31803.ts
-#EXTINF:-1,GR| SAMIAKI
-http://link.softclientarea.com:9100/live/baumann/baumann/31804.ts
-#EXTINF:-1,GR| Sigma Cy
-http://link.softclientarea.com:9100/live/baumann/baumann/31823.ts
-#EXTINF:-1,GR| SIGMA TV
+#EXTINF:-1,GR| Alpha  
+http://link.softclientarea.com:9100/live/baumann/baumann/31817.ts
+#EXTINF:-1,GR| Mega  
+http://link.softclientarea.com:9100/live/baumann/baumann/31822.ts
+#EXTINF:-1, ERT1  CY IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4536.ts
+#EXTINF:-1,GR| Ant1  
+http://link.softclientarea.com:9100/live/baumann/baumann/31818.ts
+#EXTINF:-1,TGRT Haber HD TR  
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4473.ts
+#EXTINF:-1,GR| Eurosport 1  
+http://link.softclientarea.com:9100/live/baumann/baumann/31799.ts
+#EXTINF:-1, ERT1 IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2318.ts
+#EXTINF:-1,GR| SIGMA TV  
 http://link.softclientarea.com:9100/live/baumann/baumann/31824.ts
-#EXTINF:-1,GR| Vouli
+#EXTINF:-1, ERT1 (+7) IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4534.ts
+#EXTINF:-1, ERT2 IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2317.ts
+#EXTINF:-1, ERT2  CY IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4537.ts
+#EXTINF:-1,GR| SAMIAKI  
+http://link.softclientarea.com:9100/live/baumann/baumann/31804.ts
+#EXTINF:-1, Agio Nicolaos IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4479.ts
+#EXTINF:-1, RIK Sat IPTVultra.com [640x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3728.ts
+#EXTINF:-1, NG TV IPTVultra.com [640x368]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3738.ts
+#EXTINF:-1, ERT1 (+10) IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4535.ts
+#EXTINF:-1, MEGA COSMOS IPTVultra.com [720x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4495.ts
+#EXTINF:-1, ERT HD IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4539.ts
+#EXTINF:-1, ERT3  CY IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4538.ts
+#EXTINF:-1, New generation TV IPTVultra.com [640x368]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4555.ts
+#EXTINF:-1, ERT WORLD IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4494.ts
+#EXTINF:-1, CRETA TV IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4478.ts
+#EXTINF:-1, Astra TV IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4488.ts
+#EXTINF:-1, MESSINIA TV IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2308.ts
+#EXTINF:-1, Mega IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2309.ts
+#EXTINF:-1, HLEKTRA TV IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4485.ts
+#EXTINF:-1, Ant1 HD IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3731.ts
+#EXTINF:-1, Tile Mousiki 2 IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4522.ts
+#EXTINF:-1, Start TV IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2313.ts
+#EXTINF:-1, XALASTRA TV IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4553.ts
+#EXTINF:-1, ATTICA IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2328.ts
+#EXTINF:-1, FarosOnAir IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4565.ts
+#EXTINF:-1, SBC IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2304.ts
+#EXTINF:-1, Bakalo Tv IPTVultra.com [960x544]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3737.ts
+#EXTINF:-1, ANT1 IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2326.ts
+#EXTINF:-1, VOULI IPTVultra.com [960x544]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2297.ts
+#EXTINF:-1,GR| Vouli  
 http://link.softclientarea.com:9100/live/baumann/baumann/31815.ts
-#EXTINF:-1,GR*********FILM VOD Klasika Erga*********
-http://link.softclientarea.com:9100/live/baumann/baumann/13607.ts
+#EXTINF:-1, Axelwos TV IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2323.ts
+#EXTINF:-1, Life HD IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4571.ts
+#EXTINF:-1, Reload Bizz IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4544.ts
+#EXTINF:-1, M.TV HD IPTVultra.com [1920x1088]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4569.ts
+#EXTINF:-1, NetTV Toronto IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3732.ts
+#EXTINF:-1, IONIAN TV IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4493.ts
+#EXTINF:-1, Epsilon TV Cy IPTVultra.com [1024x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2322.ts
+#EXTINF:-1, Skai IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2303.ts
+#EXTINF:-1, Cannali Musiki IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3733.ts
+#EXTINF:-1, Discovery Channel IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/1645.ts
+#EXTINF:-1, RADIO EPISTROFI IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4546.ts
+#EXTINF:-1, SPICY bizz IPTVultra.com [864x480]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4550.ts
+#EXTINF:-1, OTE SPORT 2 IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3407.ts
+#EXTINF:-1, Sigma IPTVultra.com [784x448]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/1646.ts
+#EXTINF:-1, Euronews Gr IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3734.ts
+#EXTINF:-1, Eurosport 1 IPTVultra.com [1280x720]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2316.ts
+#EXTINF:-1, Macedonia TV HD IPTVultra.com [1920x1088]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4594.ts
+#EXTINF:-1, SAMIAKI IPTVultra.com [320x240]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2305.ts
+#EXTINF:-1, Eurosport 2 IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/2315.ts
+#EXTINF:-1, OTE SPORT 1 IPTVultra.com [960x544]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3406.ts
+#EXTINF:-1, Animal Planet IPTVultra.com [1920x1088]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/6284.ts
+#EXTINF:-1, Star K.E IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/4595.ts
+#EXTINF:-1, Nickelodeon IPTVultra.com [720x576]
+http://iptv.bighd.us:1557/live/Mitro/Mitro123/3725.ts
+#EXTINF:-1, Action24  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3067.ts
+#EXTINF:-1, AB Channel  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3066.ts
+#EXTINF:-1, ART  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3071.ts
+#EXTINF:-1, Channel 9  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3074.ts
+#EXTINF:-1, ERT2  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3079.ts
+#EXTINF:-1, M.tv  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3086.ts
+#EXTINF:-1, 4E  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3065.ts
+#EXTINF:-1, HIGH TV  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3082.ts
+#EXTINF:-1, ERT1  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3078.ts
+#EXTINF:-1, Mega TV  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3090.ts
+#EXTINF:-1, EXTRA  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3081.ts
+#EXTINF:-1, Alpha TV  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3068.ts
+#EXTINF:-1, MAD CY  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3087.ts
+#EXTINF:-1, ZOUGLA  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3103.ts
+#EXTINF:-1, RISE  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3095.ts
+#EXTINF:-1, SBC  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3096.ts
+#EXTINF:-1, SKAI  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3097.ts
+#EXTINF:-1, STAR  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3099.ts
+#EXTINF:-1, KRHTH TV  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3085.ts
+#EXTINF:-1, ERT HD  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3077.ts
+#EXTINF:-1, ANT1 CY  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3070.ts
+#EXTINF:-1, ATTICA TV  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3072.ts
+#EXTINF:-1, MAKELEIO  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3089.ts
+#EXTINF:-1, Jazee  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3083.ts
+#EXTINF:-1, Ant1  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3069.ts
+#EXTINF:-1, SYGMA CY  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3101.ts
+#EXTINF:-1, SMILE  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3098.ts
+#EXTINF:-1, RIK  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3094.ts
+#EXTINF:-1, MPAXALO TV  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3091.ts
+#EXTINF:-1, VOULI  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3102.ts
+#EXTINF:-1, ERT3  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3080.ts
+#EXTINF:-1, SUNNY CHANNEL  
+http://s1.finoip.com:20000/live/v18yZzNkaD/efJSzHSQQY/3100.ts
+
