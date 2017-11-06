@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:1, NATIONAL GEO
-plugin://plugin.video.bonanza/?url=http%3A%2F%2Fp3panel.com%3A8080%2Flive%2Fturgay1%2Fturgay1%2F8659.ts&amp;mode=3&amp;name=DE+%7C+NATIONAL+GEOGRAPHIC%0D+%5BCOLOR+green%5Donline%5B%2FCOLOR%5D&quot;
+PlayMedia(&quot;plugin://plugin.video.bonanza/?url=http%3A%2F%2Fp3panel.com%3A8080%2Flive%2Fturgay1%2Fturgay1%2F8659.ts&amp;mode=3&amp;name=DE+%7C+NATIONAL+GEOGRAPHIC%0D+%5BCOLOR+green%5Donline%5B%2FCOLOR%5D&quot;)
