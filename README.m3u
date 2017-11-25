@@ -20,114 +20,114 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/1477
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) MAKEDONIA TV" tvg-logo="" group-title="GREEK",(GR) MAKEDONIA TV
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14771.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) MEGA TV" tvg-logo="" group-title="GREEK",(GR) MEGA TV
-http://s1.iptv-pla.net:7040/live/66/66/14770.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14770.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) NEA TV" tvg-logo="" group-title="GREEK",(GR) NEA TV
-http://s1.iptv-pla.net:7040/live/66/66/14769.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14769.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) SIGMA TV" tvg-logo="" group-title="GREEK",(GR) SIGMA TV
-http://s1.iptv-pla.net:7040/live/66/66/14768.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14768.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) SKAI" tvg-logo="" group-title="GREEK",(GR) SKAI
-http://s1.iptv-pla.net:7040/live/66/66/14767.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14767.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) STAR" tvg-logo="" group-title="GREEK",(GR) STAR
-http://s1.iptv-pla.net:7040/live/66/66/14766.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14766.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) THRAKI TV" tvg-logo="" group-title="GREEK",(GR) THRAKI TV
-http://s1.iptv-pla.net:7040/live/66/66/14765.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14765.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) ZOUGLA TV" tvg-logo="" group-title="GREEK",(GR) ZOUGLA TV
-http://s1.iptv-pla.net:7040/live/66/66/14764.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/14764.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_4E_Star" tvg-logo="" group-title="GREEK",GR_4E_Star
-http://s1.iptv-pla.net:7040/live/66/66/15211.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15211.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_AITGO" tvg-logo="" group-title="GREEK",GR_AITGO
-http://s1.iptv-pla.net:7040/live/66/66/15193.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15193.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Art" tvg-logo="" group-title="GREEK",GR_Art
-http://s1.iptv-pla.net:7040/live/66/66/15208.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15208.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Axeloos" tvg-logo="" group-title="GREEK",GR_Axeloos
-http://s1.iptv-pla.net:7040/live/66/66/15212.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15212.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Blue_Sky" tvg-logo="" group-title="GREEK",GR_Blue_Sky
-http://s1.iptv-pla.net:7040/live/66/66/15207.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15207.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_E" tvg-logo="" group-title="GREEK",GR_E
-http://s1.iptv-pla.net:7040/live/66/66/15206.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15206.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_EPT" tvg-logo="" group-title="GREEK",GR_EPT
-http://s1.iptv-pla.net:7040/live/66/66/15194.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15194.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_EPT2" tvg-logo="" group-title="GREEK",GR_EPT2
-http://s1.iptv-pla.net:7040/live/66/66/15195.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15195.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Eurosport_1" tvg-logo="" group-title="GREEK",GR_Eurosport_1
-http://s1.iptv-pla.net:7040/live/66/66/15205.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15205.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Eurosport_2" tvg-logo="" group-title="GREEK",GR_Eurosport_2
-http://s1.iptv-pla.net:7040/live/66/66/15204.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15204.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Extra" tvg-logo="" group-title="GREEK",GR_Extra
-http://s1.iptv-pla.net:7040/live/66/66/15196.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15196.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_kontra" tvg-logo="" group-title="GREEK",GR_kontra
-http://s1.iptv-pla.net:7040/live/66/66/15197.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15197.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_KPHTH_TV" tvg-logo="" group-title="GREEK",GR_KPHTH_TV
-http://s1.iptv-pla.net:7040/live/66/66/15190.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15190.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Lepanto" tvg-logo="" group-title="GREEK",GR_Lepanto
-http://s1.iptv-pla.net:7040/live/66/66/15203.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15203.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Makedonia" tvg-logo="" group-title="GREEK",GR_Makedonia
-http://s1.iptv-pla.net:7040/live/66/66/15213.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15213.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_MESSINIA_TV" tvg-logo="" group-title="GREEK",GR_MESSINIA_TV
-http://s1.iptv-pla.net:7040/live/66/66/15202.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15202.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_NEA_TV" tvg-logo="" group-title="GREEK",GR_NEA_TV
-http://s1.iptv-pla.net:7040/live/66/66/15191.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15191.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_omega" tvg-logo="" group-title="GREEK",GR_omega
-http://s1.iptv-pla.net:7040/live/66/66/15198.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15198.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Parliament_TV" tvg-logo="" group-title="GREEK",GR_Parliament_TV
-http://s1.iptv-pla.net:7040/live/66/66/15210.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15210.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_SAMIAKI" tvg-logo="" group-title="GREEK",GR_SAMIAKI
-http://s1.iptv-pla.net:7040/live/66/66/15201.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15201.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_SBC" tvg-logo="" group-title="GREEK",GR_SBC
-http://s1.iptv-pla.net:7040/live/66/66/15209.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15209.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_Thraki_TV" tvg-logo="" group-title="GREEK",GR_Thraki_TV
-http://s1.iptv-pla.net:7040/live/66/66/15200.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15200.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_TILESPORT" tvg-logo="" group-title="GREEK",GR_TILESPORT
-http://s1.iptv-pla.net:7040/live/66/66/15192.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15192.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR_tv1" tvg-logo="" group-title="GREEK",GR_tv1
-http://s1.iptv-pla.net:7040/live/66/66/15199.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15199.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :4E" tvg-logo="" group-title="GREEK",GR :4E
-http://s1.iptv-pla.net:7040/live/66/66/15786.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15786.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :AIGAIO" tvg-logo="" group-title="GREEK",GR :AIGAIO
-http://s1.iptv-pla.net:7040/live/66/66/15787.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15787.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :ANT 1" tvg-logo="" group-title="GREEK",GR :ANT 1
-http://s1.iptv-pla.net:7040/live/66/66/15785.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15785.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :ASTRA TV" tvg-logo="" group-title="GREEK",GR :ASTRA TV
-http://s1.iptv-pla.net:7040/live/66/66/15788.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15788.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :AXELWOS TV" tvg-logo="" group-title="GREEK",GR :AXELWOS TV
-http://s1.iptv-pla.net:7040/live/66/66/15789.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15789.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :EBS" tvg-logo="" group-title="GREEK",GR :EBS
-http://s1.iptv-pla.net:7040/live/66/66/15790.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15790.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :EBS PLUS" tvg-logo="" group-title="GREEK",GR :EBS PLUS
-http://s1.iptv-pla.net:7040/live/66/66/15791.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15791.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :ERT 2" tvg-logo="" group-title="GREEK",GR :ERT 2
-http://s1.iptv-pla.net:7040/live/66/66/15808.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15808.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :ERT 3" tvg-logo="" group-title="GREEK",GR :ERT 3
-http://s1.iptv-pla.net:7040/live/66/66/15807.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15807.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :ERT HD" tvg-logo="" group-title="GREEK",GR :ERT HD
-http://s1.iptv-pla.net:7040/live/66/66/15809.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15809.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :EURONEWS" tvg-logo="" group-title="GREEK",GR :EURONEWS
-http://s1.iptv-pla.net:7040/live/66/66/15792.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15792.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :HELLAS TV" tvg-logo="" group-title="GREEK",GR :HELLAS TV
-http://s1.iptv-pla.net:7040/live/66/66/15793.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15793.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :KONTRA" tvg-logo="" group-title="GREEK",GR :KONTRA
-http://s1.iptv-pla.net:7040/live/66/66/15794.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15794.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :KRHTH TV" tvg-logo="" group-title="GREEK",GR :KRHTH TV
-http://s1.iptv-pla.net:7040/live/66/66/15795.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15795.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :MAD TV" tvg-logo="" group-title="GREEK",GR :MAD TV
-http://s1.iptv-pla.net:7040/live/66/66/15796.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15796.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :MESSINIA" tvg-logo="" group-title="GREEK",GR :MESSINIA
-http://s1.iptv-pla.net:7040/live/66/66/15797.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15797.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :NEA TV" tvg-logo="" group-title="GREEK",GR :NEA TV
-http://s1.iptv-pla.net:7040/live/66/66/15798.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15798.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :OMEGA" tvg-logo="" group-title="GREEK",GR :OMEGA
-http://s1.iptv-pla.net:7040/live/66/66/15799.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15799.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :SAMIAKI TV" tvg-logo="" group-title="GREEK",GR :SAMIAKI TV
-http://s1.iptv-pla.net:7040/live/66/66/15800.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15800.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :START TV" tvg-logo="" group-title="GREEK",GR :START TV
-http://s1.iptv-pla.net:7040/live/66/66/15801.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15801.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :THRAKI NET" tvg-logo="" group-title="GREEK",GR :THRAKI NET
-http://s1.iptv-pla.net:7040/live/66/66/15802.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15802.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :TILESPORT" tvg-logo="" group-title="GREEK",GR :TILESPORT
-http://s1.iptv-pla.net:7040/live/66/66/15803.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15803.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :TV 1" tvg-logo="" group-title="GREEK",GR :TV 1
-http://s1.iptv-pla.net:7040/live/66/66/15804.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15804.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :VOULI" tvg-logo="" group-title="GREEK",GR :VOULI
-http://s1.iptv-pla.net:7040/live/66/66/15805.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15805.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-ID="" tvg-name="GR :WZRA KIDS" tvg-logo="" group-title="GREEK",GR :WZRA KIDS
-http://s1.iptv-pla.net:7040/live/66/66/15806.ts
+plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/66/66/15806.ts
