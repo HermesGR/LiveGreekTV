@@ -1,98 +1,53 @@
-
 #EXTM3U
-#EXTINF:-1,ΕΡΤ1 GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9979.ts
-#EXTINF:-1,EPT2 GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9977.ts
-#EXTINF:-1,EPT3 GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9975.ts
-#EXTINF:-1,EPT HD GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9973.ts
-#EXTINF:-1,Ant1 GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9990.ts
-#EXTINF:-1,Alpha GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9994.ts
-#EXTINF:-1,Epsilon TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9981.ts
-#EXTINF:-1,Skai GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9953.ts
-#EXTINF:-1,Star GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9950.ts
-#EXTINF:-1,ΜΑΚΕΔΟΝΙΑ TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9966.ts
-#EXTINF:-1,MEGA GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9964.ts
-#EXTINF:-1,Sigma TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9954.ts
-#EXTINF:-1,Nickelodeon GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9958.ts
-#EXTINF:-1,Smile GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9951.ts
-#EXTINF:-1,4E GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9998.ts
-#EXTINF:-1,AB Channel GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9997.ts
-#EXTINF:-1,APT GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9978.ts
-#EXTINF:-1,Action 24 GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9996.ts
-#EXTINF:-1,Alert GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/6371.ts
-#EXTINF:-1,Alpha Delay GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9993.ts
-#EXTINF:-1,Ant1 Cyprus GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9989.ts
-#EXTINF:-1,AstraTV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1602.ts
-#EXTINF:-1,Attica TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9985.ts
-#EXTINF:-1,Acheloos TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1604.ts
-#EXTINF:-1,Blue Sky GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9984.ts
-#EXTINF:-1,CNN GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9982.ts
-#EXTINF:-1,Channel 9 GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9983.ts
-#EXTINF:-1,E! GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/6356.ts
-#EXTINF:-1,EBS GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9995.ts
-#EXTINF:-1,Epsilon Delay GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9980.ts
-#EXTINF:-1,Euronews GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1606.ts
-#EXTINF:-1,Extra TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9971.ts
-#EXTINF:-1,KONTRA CHANNEL GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9969.ts
-#EXTINF:-1,ΚρήτηTV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9968.ts
-#EXTINF:-1,ΔΙΚΤΥΟ TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9949.ts
-#EXTINF:-1,RISE TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9960.ts
-#EXTINF:-1,Mad TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9967.ts
-#EXTINF:-1,MEGA Cosmos GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9963.ts
-#EXTINF:-1,MEGA Delay GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9961.ts
-#EXTINF:-1,MegaOne TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/6370.ts
-#EXTINF:-1,Nea TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9959.ts
-#EXTINF:-1,Omega GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9974.ts
-#EXTINF:-1,RIK GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9957.ts
-#EXTINF:-1,RIK Sat GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9956.ts
-#EXTINF:-1,SBC TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9955.ts
-#EXTINF:-1,Tile Mousik GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/6389.ts
-#EXTINF:-1,ΒΟΥΛΗ TV GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9946.ts
-#EXTINF:-1,Zougla GR
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/6411.ts
+#EXTINF:-1,GR 4E
+http://orbit-iptv.com:2500/live/carlos/carlos/2359.ts
+#EXTINF:-1,GR Action 24
+http://orbit-iptv.com:2500/live/carlos/carlos/2358.ts
+#EXTINF:-1,GR E
+http://orbit-iptv.com:2500/live/carlos/carlos/2356.ts
+#EXTINF:-1,GR ERT1
+http://orbit-iptv.com:2500/live/carlos/carlos/2354.ts
+#EXTINF:-1,GR ERT2
+http://orbit-iptv.com:2500/live/carlos/carlos/2353.ts
+#EXTINF:-1,GR EXTRA
+http://orbit-iptv.com:2500/live/carlos/carlos/2351.ts
+#EXTINF:-1,GR KONTRA
+http://orbit-iptv.com:2500/live/carlos/carlos/2350.ts
+#EXTINF:-1,GR NEA TV
+http://orbit-iptv.com:2500/live/carlos/carlos/2349.ts
+#EXTINF:-1,GR SBC
+http://orbit-iptv.com:2500/live/carlos/carlos/2346.ts
+#EXTINF:-1,GR Skai
+http://orbit-iptv.com:2500/live/carlos/carlos/2345.ts
+#EXTINF:-1,GR Star
+http://orbit-iptv.com:2500/live/carlos/carlos/2344.ts
+#EXTINF:-1,GR: Alpha
+http://orbit-iptv.com:2500/live/carlos/carlos/2371.ts
+#EXTINF:-1,GR: Ant1
+http://orbit-iptv.com:2500/live/carlos/carlos/2370.ts
+#EXTINF:-1,GR: Antena 1
+http://orbit-iptv.com:2500/live/carlos/carlos/2368.ts
+#EXTINF:-1,GR: Eurosport 1
+http://orbit-iptv.com:2500/live/carlos/carlos/5260.ts
+#EXTINF:-1,GR: KONTRA
+http://orbit-iptv.com:2500/live/carlos/carlos/2366.ts
+#EXTINF:-1,GR: KRITI TV
+http://orbit-iptv.com:2500/live/carlos/carlos/5262.ts
+#EXTINF:-1,GR: Makedonia
+http://orbit-iptv.com:2500/live/carlos/carlos/2363.ts
+#EXTINF:-1,GR: Mega
+http://orbit-iptv.com:2500/live/carlos/carlos/2362.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://orbit-iptv.com:2500/live/carlos/carlos/5257.ts
+#EXTINF:-1,GR: NOVA
+http://orbit-iptv.com:2500/live/carlos/carlos/5261.ts
+#EXTINF:-1,GR: Omega TV
+http://orbit-iptv.com:2500/live/carlos/carlos/5258.ts
+#EXTINF:-1,GR: SAMIAKI
+http://orbit-iptv.com:2500/live/carlos/carlos/5255.ts
+#EXTINF:-1,GR: Sigma Cy
+http://orbit-iptv.com:2500/live/carlos/carlos/2361.ts
+#EXTINF:-1,GR: SIGMA TV
+http://orbit-iptv.com:2500/live/carlos/carlos/2367.ts
+#EXTINF:-1,GR: Vouli
+http://orbit-iptv.com:2500/live/carlos/carlos/3207.ts
