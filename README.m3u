@@ -1,53 +1,153 @@
 #EXTM3U
-#EXTINF:-1,GR 4E
-http://orbit-iptv.com:2500/live/carlos/carlos/2359.ts
-#EXTINF:-1,GR Action 24
-http://orbit-iptv.com:2500/live/carlos/carlos/2358.ts
-#EXTINF:-1,GR E
-http://orbit-iptv.com:2500/live/carlos/carlos/2356.ts
-#EXTINF:-1,GR ERT1
-http://orbit-iptv.com:2500/live/carlos/carlos/2354.ts
-#EXTINF:-1,GR ERT2
-http://orbit-iptv.com:2500/live/carlos/carlos/2353.ts
-#EXTINF:-1,GR EXTRA
-http://orbit-iptv.com:2500/live/carlos/carlos/2351.ts
-#EXTINF:-1,GR KONTRA
-http://orbit-iptv.com:2500/live/carlos/carlos/2350.ts
-#EXTINF:-1,GR NEA TV
-http://orbit-iptv.com:2500/live/carlos/carlos/2349.ts
-#EXTINF:-1,GR SBC
-http://orbit-iptv.com:2500/live/carlos/carlos/2346.ts
-#EXTINF:-1,GR Skai
-http://orbit-iptv.com:2500/live/carlos/carlos/2345.ts
-#EXTINF:-1,GR Star
-http://orbit-iptv.com:2500/live/carlos/carlos/2344.ts
-#EXTINF:-1,GR: Alpha
-http://orbit-iptv.com:2500/live/carlos/carlos/2371.ts
-#EXTINF:-1,GR: Ant1
-http://orbit-iptv.com:2500/live/carlos/carlos/2370.ts
-#EXTINF:-1,GR: Antena 1
-http://orbit-iptv.com:2500/live/carlos/carlos/2368.ts
-#EXTINF:-1,GR: Eurosport 1
-http://orbit-iptv.com:2500/live/carlos/carlos/5260.ts
-#EXTINF:-1,GR: KONTRA
-http://orbit-iptv.com:2500/live/carlos/carlos/2366.ts
-#EXTINF:-1,GR: KRITI TV
-http://orbit-iptv.com:2500/live/carlos/carlos/5262.ts
-#EXTINF:-1,GR: Makedonia
-http://orbit-iptv.com:2500/live/carlos/carlos/2363.ts
-#EXTINF:-1,GR: Mega
-http://orbit-iptv.com:2500/live/carlos/carlos/2362.ts
-#EXTINF:-1,GR: MESSINIA TV
-http://orbit-iptv.com:2500/live/carlos/carlos/5257.ts
-#EXTINF:-1,GR: NOVA
-http://orbit-iptv.com:2500/live/carlos/carlos/5261.ts
-#EXTINF:-1,GR: Omega TV
-http://orbit-iptv.com:2500/live/carlos/carlos/5258.ts
-#EXTINF:-1,GR: SAMIAKI
-http://orbit-iptv.com:2500/live/carlos/carlos/5255.ts
-#EXTINF:-1,GR: Sigma Cy
-http://orbit-iptv.com:2500/live/carlos/carlos/2361.ts
-#EXTINF:-1,GR: SIGMA TV
-http://orbit-iptv.com:2500/live/carlos/carlos/2367.ts
-#EXTINF:-1,GR: Vouli
-http://orbit-iptv.com:2500/live/carlos/carlos/3207.ts
+#EXTINF:-1,Ant1 Cyprus GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91562.ts
+#EXTINF:-1,EPIRUS TV1 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91563.ts
+#EXTINF:-1,TV Mytilini GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91564.ts
+#EXTINF:-1,4E GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91565.ts
+#EXTINF:-1,4E Star GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91566.ts
+#EXTINF:-1,AB Channel GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91567.ts
+#EXTINF:-1,ACTION 24 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91568.ts
+#EXTINF:-1,AIGAIO TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91569.ts
+#EXTINF:-1,Alpha GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91570.ts
+#EXTINF:-1,ANT1 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91571.ts
+#EXTINF:-1,Apeiro TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91572.ts
+#EXTINF:-1,APT GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91573.ts
+#EXTINF:-1,Art GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91574.ts
+#EXTINF:-1,Astra GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91575.ts
+#EXTINF:-1,Axeloos TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91576.ts
+#EXTINF:-1,Blue Sky GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91577.ts
+#EXTINF:-1,Boyah GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91578.ts
+#EXTINF:-1,Channel 9 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91579.ts
+#EXTINF:-1,DIAVATA TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91580.ts
+#EXTINF:-1,DIKTYO GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91581.ts
+#EXTINF:-1,E GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91582.ts
+#EXTINF:-1,Ellinikosfm TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91583.ts
+#EXTINF:-1,Ept 1 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91584.ts
+#EXTINF:-1,Ept 2 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91585.ts
+#EXTINF:-1,ERT 1 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91586.ts
+#EXTINF:-1,Ert GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91587.ts
+#EXTINF:-1,ERT2 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91588.ts
+#EXTINF:-1,Euronews GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91589.ts
+#EXTINF:-1,Eurosport 1 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91590.ts
+#EXTINF:-1,Eurosport 2 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91591.ts
+#EXTINF:-1,Extra GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91592.ts
+#EXTINF:-1,Extra Channel GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91593.ts
+#EXTINF:-1,High TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91594.ts
+#EXTINF:-1,Hpeiros TV1 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91595.ts
+#EXTINF:-1,JAYZEE GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91596.ts
+#EXTINF:-1,Kontra Channel GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91597.ts
+#EXTINF:-1,KONTRA TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91598.ts
+#EXTINF:-1,Krhth TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91599.ts
+#EXTINF:-1,KRITI TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91600.ts
+#EXTINF:-1,Lepanto GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91601.ts
+#EXTINF:-1,Mad TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91602.ts
+#EXTINF:-1,Makedonia GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91603.ts
+#EXTINF:-1,Makedonia TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91604.ts
+#EXTINF:-1,Makeleio Web Tv GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91606.ts
+#EXTINF:-1,Mega GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91607.ts
+#EXTINF:-1,MESSINIA TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91608.ts
+#EXTINF:-1,MTVeece GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91609.ts
+#EXTINF:-1,Nat Geo GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91610.ts
+#EXTINF:-1,NEA GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91611.ts
+#EXTINF:-1,Nea Tv GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91612.ts
+#EXTINF:-1,New TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91613.ts
+#EXTINF:-1,Nickelodeon GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91614.ts
+#EXTINF:-1,NOVA GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91615.ts
+#EXTINF:-1,OMEGA GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91616.ts
+#EXTINF:-1,Omega TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91617.ts
+#EXTINF:-1,Rik GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91618.ts
+#EXTINF:-1,SAMIAKI GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91619.ts
+#EXTINF:-1,SBC GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91620.ts
+#EXTINF:-1,Sigma GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91621.ts
+#EXTINF:-1,Skai GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91622.ts
+#EXTINF:-1,Smile GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91623.ts
+#EXTINF:-1,Star GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91624.ts
+#EXTINF:-1,Star TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91625.ts
+#EXTINF:-1,Start TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91626.ts
+#EXTINF:-1,Thema TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91627.ts
+#EXTINF:-1,Thraki TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91628.ts
+#EXTINF:-1,TILESPORT GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91629.ts
+#EXTINF:-1,TRT GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91630.ts
+#EXTINF:-1,TV 1000 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91631.ts
+#EXTINF:-1,TV Gold GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91632.ts
+#EXTINF:-1,TV1 Siros GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91633.ts
+#EXTINF:-1,TV100 GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91634.ts
+#EXTINF:-1,Vergina TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91635.ts
+#EXTINF:-1,VOULI GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91636.ts
+#EXTINF:-1,Vouli TV GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91637.ts
+#EXTINF:-1,ZOUGL@ GR
+http://iptvhosting.org.uk:83/live/etienne/etienne/91638.ts
