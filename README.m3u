@@ -1,153 +1,99 @@
 #EXTM3U
-#EXTINF:-1,Ant1 Cyprus GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91562.ts
-#EXTINF:-1,EPIRUS TV1 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91563.ts
-#EXTINF:-1,TV Mytilini GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91564.ts
 #EXTINF:-1,4E GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91565.ts
-#EXTINF:-1,4E Star GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91566.ts
+http://clientportal.link:8080/live/nadia/aidan/9998.ts
 #EXTINF:-1,AB Channel GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91567.ts
-#EXTINF:-1,ACTION 24 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91568.ts
-#EXTINF:-1,AIGAIO TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91569.ts
-#EXTINF:-1,Alpha GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91570.ts
-#EXTINF:-1,ANT1 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91571.ts
-#EXTINF:-1,Apeiro TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91572.ts
+http://clientportal.link:8080/live/nadia/aidan/9997.ts
 #EXTINF:-1,APT GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91573.ts
-#EXTINF:-1,Art GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91574.ts
-#EXTINF:-1,Astra GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91575.ts
-#EXTINF:-1,Axeloos TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91576.ts
+http://clientportal.link:8080/live/nadia/aidan/9978.ts
+#EXTINF:-1,Action 24 GR
+http://clientportal.link:8080/live/nadia/aidan/9996.ts
+#EXTINF:-1,Alert GR
+http://clientportal.link:8080/live/nadia/aidan/6371.ts
+#EXTINF:-1,Alpha Delay GR
+http://clientportal.link:8080/live/nadia/aidan/9993.ts
+#EXTINF:-1,Alpha GR
+http://clientportal.link:8080/live/nadia/aidan/9994.ts
+#EXTINF:-1,Ant1 Cyprus GR
+http://clientportal.link:8080/live/nadia/aidan/9989.ts
+#EXTINF:-1,Ant1 GR
+http://clientportal.link:8080/live/nadia/aidan/9990.ts
+#EXTINF:-1,AstraTV GR
+http://clientportal.link:8080/live/nadia/aidan/1602.ts
+#EXTINF:-1,Attica TV GR
+http://clientportal.link:8080/live/nadia/aidan/9985.ts
+#EXTINF:-1,Acheloos TV GR
+http://clientportal.link:8080/live/nadia/aidan/1604.ts
 #EXTINF:-1,Blue Sky GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91577.ts
-#EXTINF:-1,Boyah GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91578.ts
+http://clientportal.link:8080/live/nadia/aidan/9984.ts
+#EXTINF:-1,CNN GR
+http://clientportal.link:8080/live/nadia/aidan/9982.ts
 #EXTINF:-1,Channel 9 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91579.ts
-#EXTINF:-1,DIAVATA TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91580.ts
-#EXTINF:-1,DIKTYO GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91581.ts
-#EXTINF:-1,E GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91582.ts
-#EXTINF:-1,Ellinikosfm TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91583.ts
-#EXTINF:-1,Ept 1 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91584.ts
-#EXTINF:-1,Ept 2 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91585.ts
-#EXTINF:-1,ERT 1 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91586.ts
-#EXTINF:-1,Ert GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91587.ts
-#EXTINF:-1,ERT2 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91588.ts
+http://clientportal.link:8080/live/nadia/aidan/9983.ts
+#EXTINF:-1,Discovery Channel GR
+http://clientportal.link:8080/live/nadia/aidan/9976.ts
+#EXTINF:-1,E! GR
+http://clientportal.link:8080/live/nadia/aidan/6356.ts
+#EXTINF:-1,EBS GR
+http://clientportal.link:8080/live/nadia/aidan/9995.ts
+#EXTINF:-1,Epsilon Delay GR
+http://clientportal.link:8080/live/nadia/aidan/9980.ts
+#EXTINF:-1,Epsilon TV GR
+http://clientportal.link:8080/live/nadia/aidan/9981.ts
+#EXTINF:-1,ΕΡΤ1 GR
+http://clientportal.link:8080/live/nadia/aidan/9979.ts
+#EXTINF:-1,EPT2 GR
+http://clientportal.link:8080/live/nadia/aidan/9977.ts
+#EXTINF:-1,EPT3 GR
+http://clientportal.link:8080/live/nadia/aidan/9975.ts
+#EXTINF:-1,EPT HD GR
+http://clientportal.link:8080/live/nadia/aidan/9973.ts
 #EXTINF:-1,Euronews GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91589.ts
-#EXTINF:-1,Eurosport 1 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91590.ts
-#EXTINF:-1,Eurosport 2 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91591.ts
-#EXTINF:-1,Extra GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91592.ts
-#EXTINF:-1,Extra Channel GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91593.ts
-#EXTINF:-1,High TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91594.ts
-#EXTINF:-1,Hpeiros TV1 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91595.ts
-#EXTINF:-1,JAYZEE GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91596.ts
-#EXTINF:-1,Kontra Channel GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91597.ts
-#EXTINF:-1,KONTRA TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91598.ts
-#EXTINF:-1,Krhth TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91599.ts
-#EXTINF:-1,KRITI TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91600.ts
-#EXTINF:-1,Lepanto GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91601.ts
+http://clientportal.link:8080/live/nadia/aidan/1606.ts
+#EXTINF:-1,Extra TV GR
+http://clientportal.link:8080/live/nadia/aidan/9971.ts
+#EXTINF:-1,KONTRA CHANNEL GR
+http://clientportal.link:8080/live/nadia/aidan/9969.ts
+#EXTINF:-1,ΚρήτηTV GR
+http://clientportal.link:8080/live/nadia/aidan/9968.ts
+#EXTINF:-1,ΔΙΚΤΥΟ TV GR
+http://clientportal.link:8080/live/nadia/aidan/9949.ts
+#EXTINF:-1,RISE TV GR
+http://clientportal.link:8080/live/nadia/aidan/9960.ts
 #EXTINF:-1,Mad TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91602.ts
-#EXTINF:-1,Makedonia GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91603.ts
-#EXTINF:-1,Makedonia TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91604.ts
-#EXTINF:-1,Makeleio Web Tv GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91606.ts
-#EXTINF:-1,Mega GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91607.ts
-#EXTINF:-1,MESSINIA TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91608.ts
-#EXTINF:-1,MTVeece GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91609.ts
-#EXTINF:-1,Nat Geo GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91610.ts
-#EXTINF:-1,NEA GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91611.ts
-#EXTINF:-1,Nea Tv GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91612.ts
-#EXTINF:-1,New TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91613.ts
+http://clientportal.link:8080/live/nadia/aidan/9967.ts
+#EXTINF:-1,ΜΑΚΕΔΟΝΙΑ TV GR
+http://clientportal.link:8080/live/nadia/aidan/9966.ts
+#EXTINF:-1,MEGA Cosmos GR
+http://clientportal.link:8080/live/nadia/aidan/9963.ts
+#EXTINF:-1,MEGA Delay GR
+http://clientportal.link:8080/live/nadia/aidan/9961.ts
+#EXTINF:-1,MEGA GR
+http://clientportal.link:8080/live/nadia/aidan/9964.ts
+#EXTINF:-1,MegaOne TV GR
+http://clientportal.link:8080/live/nadia/aidan/6370.ts
+#EXTINF:-1,Nea TV GR
+http://clientportal.link:8080/live/nadia/aidan/9959.ts
 #EXTINF:-1,Nickelodeon GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91614.ts
-#EXTINF:-1,NOVA GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91615.ts
-#EXTINF:-1,OMEGA GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91616.ts
-#EXTINF:-1,Omega TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91617.ts
-#EXTINF:-1,Rik GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91618.ts
-#EXTINF:-1,SAMIAKI GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91619.ts
-#EXTINF:-1,SBC GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91620.ts
-#EXTINF:-1,Sigma GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91621.ts
+http://clientportal.link:8080/live/nadia/aidan/9958.ts
+#EXTINF:-1,Omega GR
+http://clientportal.link:8080/live/nadia/aidan/9974.ts
+#EXTINF:-1,RIK GR
+http://clientportal.link:8080/live/nadia/aidan/9957.ts
+#EXTINF:-1,RIK Sat GR
+http://clientportal.link:8080/live/nadia/aidan/9956.ts
+#EXTINF:-1,SBC TV GR
+http://clientportal.link:8080/live/nadia/aidan/9955.ts
+#EXTINF:-1,Sigma TV GR
+http://clientportal.link:8080/live/nadia/aidan/9954.ts
 #EXTINF:-1,Skai GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91622.ts
+http://clientportal.link:8080/live/nadia/aidan/9953.ts
 #EXTINF:-1,Smile GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91623.ts
+http://clientportal.link:8080/live/nadia/aidan/9951.ts
 #EXTINF:-1,Star GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91624.ts
-#EXTINF:-1,Star TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91625.ts
-#EXTINF:-1,Start TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91626.ts
-#EXTINF:-1,Thema TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91627.ts
-#EXTINF:-1,Thraki TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91628.ts
-#EXTINF:-1,TILESPORT GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91629.ts
-#EXTINF:-1,TRT GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91630.ts
-#EXTINF:-1,TV 1000 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91631.ts
-#EXTINF:-1,TV Gold GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91632.ts
-#EXTINF:-1,TV1 Siros GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91633.ts
-#EXTINF:-1,TV100 GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91634.ts
-#EXTINF:-1,Vergina TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91635.ts
-#EXTINF:-1,VOULI GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91636.ts
-#EXTINF:-1,Vouli TV GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91637.ts
-#EXTINF:-1,ZOUGL@ GR
-http://iptvhosting.org.uk:83/live/etienne/etienne/91638.ts
+http://clientportal.link:8080/live/nadia/aidan/9950.ts
+#EXTINF:-1,Tile Mousik GR
+http://clientportal.link:8080/live/nadia/aidan/6389.ts
+#EXTINF:-1,ΒΟΥΛΗ TV GR
+http://clientportal.link:8080/live/nadia/aidan/9946.ts
+#EXTINF:-1,Zougla GR
+http://clientportal.link:8080/live/nadia/aidan/6411.ts
