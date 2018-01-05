@@ -1,1 +1,103 @@
 #EXTM3U
+#EXTINF:-1,ERT 1 GR
+http://portal.geniptv.com:8080/live/amber/amber/2215.ts
+#EXTINF:-1,ERT 2 GR
+http://portal.geniptv.com:8080/live/amber/amber/2214.ts
+#EXTINF:-1,ERT 3 GR
+http://portal.geniptv.com:8080/live/amber/amber/2213.ts
+#EXTINF:-1,ERT HD GR
+http://portal.geniptv.com:8080/live/amber/amber/5836.ts
+#EXTINF:-1,ERT TV HD GR
+http://portal.geniptv.com:8080/live/amber/amber/5835.ts
+#EXTINF:-1,Epsilon GR
+http://portal.geniptv.com:8080/live/amber/amber/5829.ts
+#EXTINF:-1,Epsilon HD GR
+http://portal.geniptv.com:8080/live/amber/amber/5828.ts
+#EXTINF:-1,EuroNews GR
+http://portal.geniptv.com:8080/live/amber/amber/2230.ts
+#EXTINF:-1,Extra GR
+http://portal.geniptv.com:8080/live/amber/amber/2229.ts
+#EXTINF:-1,Fishing Ellinika GR
+http://portal.geniptv.com:8080/live/amber/amber/5854.ts
+#EXTINF:-1,Hunting Ellinika GR
+http://portal.geniptv.com:8080/live/amber/amber/5855.ts
+#EXTINF:-1,Ionian TV GR
+http://portal.geniptv.com:8080/live/amber/amber/5823.ts
+#EXTINF:-1,Kontra GR
+http://portal.geniptv.com:8080/live/amber/amber/2210.ts
+#EXTINF:-1,Kriti TV GR
+http://portal.geniptv.com:8080/live/amber/amber/2209.ts
+#EXTINF:-1,Luxe TV FHD GR
+http://portal.geniptv.com:8080/live/amber/amber/5824.ts
+#EXTINF:-1,MAD TV Cyprus GR
+http://portal.geniptv.com:8080/live/amber/amber/5814.ts
+#EXTINF:-1,MAD TV GR
+http://portal.geniptv.com:8080/live/amber/amber/5839.ts
+#EXTINF:-1,Makedonia GR
+http://portal.geniptv.com:8080/live/amber/amber/2208.ts
+#EXTINF:-1,Makedonia TV HD GR
+http://portal.geniptv.com:8080/live/amber/amber/5830.ts
+#EXTINF:-1,Mega GR
+http://portal.geniptv.com:8080/live/amber/amber/2235.ts
+#EXTINF:-1,MegaOne Cyprus GR
+http://portal.geniptv.com:8080/live/amber/amber/5817.ts
+#EXTINF:-1,4E GR
+http://portal.geniptv.com:8080/live/amber/amber/2221.ts
+#EXTINF:-1,4E Star GR
+http://portal.geniptv.com:8080/live/amber/amber/2238.ts
+#EXTINF:-1,AB GR
+http://portal.geniptv.com:8080/live/amber/amber/5827.ts
+#EXTINF:-1,ANT1 HD GR
+http://portal.geniptv.com:8080/live/amber/amber/5834.ts
+#EXTINF:-1,ART Channel GR
+http://portal.geniptv.com:8080/live/amber/amber/5822.ts
+#EXTINF:-1,Acheloos TV GR
+http://portal.geniptv.com:8080/live/amber/amber/5821.ts
+#EXTINF:-1,Action24 GR
+http://portal.geniptv.com:8080/live/amber/amber/2220.ts
+#EXTINF:-1,Alpha Cyprus GR
+http://portal.geniptv.com:8080/live/amber/amber/5818.ts
+#EXTINF:-1,Alpha GR
+http://portal.geniptv.com:8080/live/amber/amber/2219.ts
+#EXTINF:-1,Alpha HD GR
+http://portal.geniptv.com:8080/live/amber/amber/5833.ts
+#EXTINF:-1,Ant 1 GR
+http://portal.geniptv.com:8080/live/amber/amber/2239.ts
+#EXTINF:-1,Antena 1 GR
+http://portal.geniptv.com:8080/live/amber/amber/2218.ts
+#EXTINF:-1,Antenna Sat USA (Nova USA) FHD GR
+http://portal.geniptv.com:8080/live/amber/amber/7066.ts
+#EXTINF:-1,Baby TV GR
+http://portal.geniptv.com:8080/live/amber/amber/5850.ts
+#EXTINF:-1,Blue Sky GR
+http://portal.geniptv.com:8080/live/amber/amber/2217.ts
+#EXTINF:-1,Capital Cyprus GR
+http://portal.geniptv.com:8080/live/amber/amber/5815.ts
+#EXTINF:-1,Messinia TV GR
+http://portal.geniptv.com:8080/live/amber/amber/2207.ts
+#EXTINF:-1,Nea TV GR
+http://portal.geniptv.com:8080/live/amber/amber/2206.ts
+#EXTINF:-1,Net TV GR
+http://portal.geniptv.com:8080/live/amber/amber/2205.ts
+#EXTINF:-1,Omega TV GR
+http://portal.geniptv.com:8080/live/amber/amber/2203.ts
+#EXTINF:-1,Plus Cyprus GR
+http://portal.geniptv.com:8080/live/amber/amber/5816.ts
+#EXTINF:-1,RIK 1 Cyprus GR
+http://portal.geniptv.com:8080/live/amber/amber/5820.ts
+#EXTINF:-1,RIK 2 Cyprus GR
+http://portal.geniptv.com:8080/live/amber/amber/5819.ts
+#EXTINF:-1,SBC HD GR
+http://portal.geniptv.com:8080/live/amber/amber/2228.ts
+#EXTINF:-1,Samiaki GR
+http://portal.geniptv.com:8080/live/amber/amber/2202.ts
+#EXTINF:-1,Sigma GR
+http://portal.geniptv.com:8080/live/amber/amber/2231.ts
+#EXTINF:-1,Smile GR
+http://portal.geniptv.com:8080/live/amber/amber/2200.ts
+#EXTINF:-1,Toronto TV GR
+http://portal.geniptv.com:8080/live/amber/amber/5826.ts
+#EXTINF:-1,Zougla GR
+http://portal.geniptv.com:8080/live/amber/amber/2226.ts
+#EXTINF:-1,Zouzounia GR
+http://portal.geniptv.com:8080/live/amber/amber/5842.ts
