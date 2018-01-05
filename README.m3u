@@ -1,103 +1,153 @@
 #EXTM3U
-#EXTINF:-1,ERT 1 GR
-http://portal.geniptv.com:8080/live/amber/amber/2215.ts
-#EXTINF:-1,ERT 2 GR
-http://portal.geniptv.com:8080/live/amber/amber/2214.ts
-#EXTINF:-1,ERT 3 GR
-http://portal.geniptv.com:8080/live/amber/amber/2213.ts
-#EXTINF:-1,ERT HD GR
-http://portal.geniptv.com:8080/live/amber/amber/5836.ts
-#EXTINF:-1,ERT TV HD GR
-http://portal.geniptv.com:8080/live/amber/amber/5835.ts
-#EXTINF:-1,Epsilon GR
-http://portal.geniptv.com:8080/live/amber/amber/5829.ts
-#EXTINF:-1,Epsilon HD GR
-http://portal.geniptv.com:8080/live/amber/amber/5828.ts
-#EXTINF:-1,EuroNews GR
-http://portal.geniptv.com:8080/live/amber/amber/2230.ts
-#EXTINF:-1,Extra GR
-http://portal.geniptv.com:8080/live/amber/amber/2229.ts
-#EXTINF:-1,Fishing Ellinika GR
-http://portal.geniptv.com:8080/live/amber/amber/5854.ts
-#EXTINF:-1,Hunting Ellinika GR
-http://portal.geniptv.com:8080/live/amber/amber/5855.ts
-#EXTINF:-1,Ionian TV GR
-http://portal.geniptv.com:8080/live/amber/amber/5823.ts
-#EXTINF:-1,Kontra GR
-http://portal.geniptv.com:8080/live/amber/amber/2210.ts
-#EXTINF:-1,Kriti TV GR
-http://portal.geniptv.com:8080/live/amber/amber/2209.ts
-#EXTINF:-1,Luxe TV FHD GR
-http://portal.geniptv.com:8080/live/amber/amber/5824.ts
-#EXTINF:-1,MAD TV Cyprus GR
-http://portal.geniptv.com:8080/live/amber/amber/5814.ts
-#EXTINF:-1,MAD TV GR
-http://portal.geniptv.com:8080/live/amber/amber/5839.ts
-#EXTINF:-1,Makedonia GR
-http://portal.geniptv.com:8080/live/amber/amber/2208.ts
-#EXTINF:-1,Makedonia TV HD GR
-http://portal.geniptv.com:8080/live/amber/amber/5830.ts
-#EXTINF:-1,Mega GR
-http://portal.geniptv.com:8080/live/amber/amber/2235.ts
-#EXTINF:-1,MegaOne Cyprus GR
-http://portal.geniptv.com:8080/live/amber/amber/5817.ts
-#EXTINF:-1,4E GR
-http://portal.geniptv.com:8080/live/amber/amber/2221.ts
-#EXTINF:-1,4E Star GR
-http://portal.geniptv.com:8080/live/amber/amber/2238.ts
-#EXTINF:-1,AB GR
-http://portal.geniptv.com:8080/live/amber/amber/5827.ts
-#EXTINF:-1,ANT1 HD GR
-http://portal.geniptv.com:8080/live/amber/amber/5834.ts
-#EXTINF:-1,ART Channel GR
-http://portal.geniptv.com:8080/live/amber/amber/5822.ts
-#EXTINF:-1,Acheloos TV GR
-http://portal.geniptv.com:8080/live/amber/amber/5821.ts
-#EXTINF:-1,Action24 GR
-http://portal.geniptv.com:8080/live/amber/amber/2220.ts
-#EXTINF:-1,Alpha Cyprus GR
-http://portal.geniptv.com:8080/live/amber/amber/5818.ts
-#EXTINF:-1,Alpha GR
-http://portal.geniptv.com:8080/live/amber/amber/2219.ts
-#EXTINF:-1,Alpha HD GR
-http://portal.geniptv.com:8080/live/amber/amber/5833.ts
-#EXTINF:-1,Ant 1 GR
-http://portal.geniptv.com:8080/live/amber/amber/2239.ts
-#EXTINF:-1,Antena 1 GR
-http://portal.geniptv.com:8080/live/amber/amber/2218.ts
-#EXTINF:-1,Antenna Sat USA (Nova USA) FHD GR
-http://portal.geniptv.com:8080/live/amber/amber/7066.ts
-#EXTINF:-1,Baby TV GR
-http://portal.geniptv.com:8080/live/amber/amber/5850.ts
-#EXTINF:-1,Blue Sky GR
-http://portal.geniptv.com:8080/live/amber/amber/2217.ts
-#EXTINF:-1,Capital Cyprus GR
-http://portal.geniptv.com:8080/live/amber/amber/5815.ts
-#EXTINF:-1,Messinia TV GR
-http://portal.geniptv.com:8080/live/amber/amber/2207.ts
-#EXTINF:-1,Nea TV GR
-http://portal.geniptv.com:8080/live/amber/amber/2206.ts
-#EXTINF:-1,Net TV GR
-http://portal.geniptv.com:8080/live/amber/amber/2205.ts
-#EXTINF:-1,Omega TV GR
-http://portal.geniptv.com:8080/live/amber/amber/2203.ts
-#EXTINF:-1,Plus Cyprus GR
-http://portal.geniptv.com:8080/live/amber/amber/5816.ts
-#EXTINF:-1,RIK 1 Cyprus GR
-http://portal.geniptv.com:8080/live/amber/amber/5820.ts
-#EXTINF:-1,RIK 2 Cyprus GR
-http://portal.geniptv.com:8080/live/amber/amber/5819.ts
-#EXTINF:-1,SBC HD GR
-http://portal.geniptv.com:8080/live/amber/amber/2228.ts
-#EXTINF:-1,Samiaki GR
-http://portal.geniptv.com:8080/live/amber/amber/2202.ts
-#EXTINF:-1,Sigma GR
-http://portal.geniptv.com:8080/live/amber/amber/2231.ts
-#EXTINF:-1,Smile GR
-http://portal.geniptv.com:8080/live/amber/amber/2200.ts
-#EXTINF:-1,Toronto TV GR
-http://portal.geniptv.com:8080/live/amber/amber/5826.ts
-#EXTINF:-1,Zougla GR
-http://portal.geniptv.com:8080/live/amber/amber/2226.ts
-#EXTINF:-1,Zouzounia GR
-http://portal.geniptv.com:8080/live/amber/amber/5842.ts
+#EXTINF:-1,GR : TV Mytilini
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75446.ts
+#EXTINF:-1,GR: 4E
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75447.ts
+#EXTINF:-1,GR: 4E Star
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75448.ts
+#EXTINF:-1,GR: AB Channel
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75449.ts
+#EXTINF:-1,GR: ACTION 24
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75450.ts
+#EXTINF:-1,GR: AIGAIO TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75451.ts
+#EXTINF:-1,GR: Alpha
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75452.ts
+#EXTINF:-1,GR: ANT1
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75453.ts
+#EXTINF:-1,GR: Ant1 HD
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75454.ts
+#EXTINF:-1,GR: Apeiro TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75455.ts
+#EXTINF:-1,GR: APT
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75456.ts
+#EXTINF:-1,GR: Art
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75457.ts
+#EXTINF:-1,GR: Astra
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75458.ts
+#EXTINF:-1,GR: Axeloos TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75459.ts
+#EXTINF:-1,GR: BLUE SKY
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75460.ts
+#EXTINF:-1,GR: Boyah
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75461.ts
+#EXTINF:-1,GR: Channel 9
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75462.ts
+#EXTINF:-1,GR: DIAVATA TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75463.ts
+#EXTINF:-1,GR: DIKTYO
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75464.ts
+#EXTINF:-1,GR: E
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75465.ts
+#EXTINF:-1,GR: Ellinikosfm TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75466.ts
+#EXTINF:-1,GR: Ept 1
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75467.ts
+#EXTINF:-1,GR: Ept 2
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75468.ts
+#EXTINF:-1,GR: ERT 1
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75469.ts
+#EXTINF:-1,GR: Ert HD
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75470.ts
+#EXTINF:-1,GR: ERT2
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75471.ts
+#EXTINF:-1,GR: Euronews
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75472.ts
+#EXTINF:-1,GR: Eurosport 1
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75473.ts
+#EXTINF:-1,GR: Eurosport 2
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75474.ts
+#EXTINF:-1,GR: EXTRA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75475.ts
+#EXTINF:-1,GR: Extra Channel
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75476.ts
+#EXTINF:-1,GR: High TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75477.ts
+#EXTINF:-1,GR: Hpeiros TV1
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75478.ts
+#EXTINF:-1,GR: JAYZEE
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75479.ts
+#EXTINF:-1,GR: Kontra Channel
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75480.ts
+#EXTINF:-1,GR: KONTRA TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75481.ts
+#EXTINF:-1,GR: Krhth TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75482.ts
+#EXTINF:-1,GR: KRITI TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75483.ts
+#EXTINF:-1,GR: Lepanto
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75484.ts
+#EXTINF:-1,GR: Mad TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75485.ts
+#EXTINF:-1,GR: Makedonia
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75486.ts
+#EXTINF:-1,GR: Makedonia TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75487.ts
+#EXTINF:-1,GR: Makedonia TV Delay
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75488.ts
+#EXTINF:-1,GR: Makeleio Web Tv
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75489.ts
+#EXTINF:-1,GR: Mega
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75490.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75491.ts
+#EXTINF:-1,GR: MTVeece
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75492.ts
+#EXTINF:-1,GR: Nat Geo
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75493.ts
+#EXTINF:-1,GR: NEA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75494.ts
+#EXTINF:-1,GR: Nea Tv
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75495.ts
+#EXTINF:-1,GR: New TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75496.ts
+#EXTINF:-1,GR: Nickelodeon
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75497.ts
+#EXTINF:-1,GR: NOVA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75498.ts
+#EXTINF:-1,GR: OMEGA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75499.ts
+#EXTINF:-1,GR: Omega TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75500.ts
+#EXTINF:-1,GR: Rik
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75501.ts
+#EXTINF:-1,GR: SAMIAKI
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75502.ts
+#EXTINF:-1,GR: SBC
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75503.ts
+#EXTINF:-1,GR: Sigma
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75504.ts
+#EXTINF:-1,GR: Skai
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75505.ts
+#EXTINF:-1,GR: Smile
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75506.ts
+#EXTINF:-1,GR: Star
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75507.ts
+#EXTINF:-1,GR: Star TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75508.ts
+#EXTINF:-1,GR: Start TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75509.ts
+#EXTINF:-1,GR: Thema TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75510.ts
+#EXTINF:-1,GR: Thraki TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75511.ts
+#EXTINF:-1,GR: TILESPORT
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75512.ts
+#EXTINF:-1,GR: TRT
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75513.ts
+#EXTINF:-1,GR: TV 1000
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75514.ts
+#EXTINF:-1,GR: TV Gold
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75515.ts
+#EXTINF:-1,GR: TV1 Siros
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75516.ts
+#EXTINF:-1,GR: Tv100
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75517.ts
+#EXTINF:-1,GR: Vergina TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75518.ts
+#EXTINF:-1,GR: VOULI
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75519.ts
+#EXTINF:-1,GR: Vouli TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75520.ts
+#EXTINF:-1,GR: ZOUGLA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/75521.ts
