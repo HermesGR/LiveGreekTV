@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1
+https://viloud.tv/channel/a549dcff8d85f8a9255765219866b86d
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA
 http://master.cystreams.com:25461/live/greek/donald/43.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
