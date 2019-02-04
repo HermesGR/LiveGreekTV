@@ -1,50 +1,40 @@
-#EXTM3U Greek
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/1118
-#EXTINF:-1,GR: ERT HD
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/6854
-#EXTINF:-1,GR: ERT 1
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20079
-#EXTINF:-1,GR: ERT 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20074
-#EXTINF:-1,GR: ERT 3
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20080
-#EXTINF:-1,GR: Alpha TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20078
-#EXTINF:-1,GR: Alpha Sat
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/6856
-#EXTINF:-1,GR: ANT 1
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20081
-#EXTINF:-1,GR: Epsilon TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/6860
-#EXTINF:-1,GR: Epsilon SD
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/19692
-#EXTINF:-1,GR: Magic TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/6870
-#EXTINF:-1,GR: Makedonia
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20073
-#EXTINF:-1,GR: Makedonia SD
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/19693
-#EXTINF:-1,GR: Mega
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20077
-#EXTINF:-1,GR: Mega SD
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/19099
-#EXTINF:-1,GR: Nickoledeon
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20083
-#EXTINF:-1,GR: Rik Sat
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/6855
-#EXTINF:-1,GR: Skai
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20076
-#EXTINF:-1,GR: Star
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20075
-#EXTINF:-1,GR: Creta TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/14538
-#EXTINF:-1,GR: M TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/14537
-#EXTINF:-1,GR: Mad
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/14533
-#EXTINF:-1,GR: Nea TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/14535
-#EXTINF:-1,GR: OTE Sport 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/15009
-#EXTINF:-1,GR: Kontrata
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/19095
+#EXTINF:-1,##### GREECE #####
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31086
+#EXTINF:-1,(GR)| ANT1
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31079
+#EXTINF:-1,(GR)| ErT1
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31078
+#EXTINF:-1,(GR)| ERT2
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31077
+#EXTINF:-1,(GR)| MAD TV
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31076
+#EXTINF:-1,(GR)| MEGA TV
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31075
+#EXTINF:-1,(GR)| SKAI
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31074
+#EXTINF:-1,(GR)| STAR
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31073
+#EXTINF:-1,GR | ALPHA TV
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31072
+#EXTINF:-1,GR | EPSILON TV
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31071
+#EXTINF:-1,GR | Mega TVre
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31066
+#EXTINF:-1,GR | Nat Geo HD
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31085
+#EXTINF:-1,GR:  STAR
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31082
+#EXTINF:-1,GR: Ant1
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31070
+#EXTINF:-1,GR: Ert 2
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31069
+#EXTINF:-1,GR: Ert 3
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31068
+#EXTINF:-1,GR: Ert1 HD
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31067
+#EXTINF:-1,GR: Kontra TV
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31080
+#EXTINF:-1,GR: MESSINIA TV
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31081
+#EXTINF:-1,GR: Nickelodeon
+http://goaltivi.live:1881/ahmet34/fVP36Zdkta/31084
