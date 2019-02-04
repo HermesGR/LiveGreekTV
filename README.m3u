@@ -1,3 +1,149 @@
+#EXTM3U Greek
+#EXTINF:0, 4etv
+http://206.222.31.146/4etv
+#EXTINF:0, A KYПРОY
+http://81.171.14.113/alphacy/acy/l4/a1/chunks.m3u8
+#EXTINF:0, a3
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
+#EXTINF:0, Action 24
+https://stream-11.ix7.dailymotion.com/dm/3/x61fbhs/live-3.m3u8
+#EXTINF:0, alpha
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
+#EXTINF:0, ANDROMEDA NET RADIO Athens
+http://www.andromedanet.com/listen.m3u
+#EXTINF:0, ant1cyprus
+http://ant1cyprus-vh.akamaihd.net/didyma/didyma_1_1/720/prog_index.m3u8
+#EXTINF:0, Best TV
+https://best-tv.gr/HLS/hls/best/index.m3u8
+#EXTINF:0, EBS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
+#EXTINF:0, ERT
+http://178.202.147.209:8000/playlist.m3u8
+#EXTINF:0, ERT HD
+http://31.177.62.138:9097
+#EXTINF:0, Et1
+http://206.222.31.146/et1
+#EXTINF:0, ET2
+http://ep.ert.gr:1935/vodedge/_definst_/mp4:dvrorigingr/2017/paidikes-seires/robin-hood/20170213-robin-hood.mp4/playlist.m3u8
+#EXTINF:0, Et3
+http://206.222.31.146/et3
+#EXTINF:0, Euronews (GR)
+rtsp://fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive/gr_video750_flash_all.sdp
+#EXTINF:0, Extra 3
+rtmp://$OPT:rtmp-raw=rtmp://92.122.49.165:1935/live?_fcs_vhost=cp115021.live.edgefcs.net&akmfv=1.8 playpath=extragtnet@49573 live=1
+#EXTINF:0, Extra3
+http://206.222.31.146/extra3
+#EXTINF:0, F/OSS TEI of Western Greec
+http://62.217.127.190:8000/live
+#EXTINF:0, GR, DE
+http://newiptv.zapto.org:8500/get.php?username=4yterjfvFPr&password=cjhdgufyEX&type=m3u
+#EXTINF:0, Greece
+http://37.98.192.246:9981/playlist
+#EXTINF:0, Greece
+http://94.114.204.55:8000/playlist.m3u8
+#EXTINF:0, Greece
+http://xc.cobra-iptv.com:25461/get.php?username=Greece-v2&password=greece123!!x213bla&type=m3u
+#EXTINF:0, Greece
+http://91.138.251.109:9981/playlist
+#EXTINF:0, Greece
+http://77.49.50.126:9981/playlist
+#EXTINF:0, Greece
+http://62.74.103.136:9981/playlist
+#EXTINF:0, Greece IPTV
+http://87.126.193.172:8000/playlist.m3u8
+#EXTINF:0, Greek
+http://80.145.216.63:8000/playlist.m3u8
+#EXTINF:0, Greek
+http://213.91.128.151:9981/playlist
+#EXTINF:0, Greek Music Hits
+mmsh://wpso.com:200/music
+#EXTINF:0, Greek,mix
+http://37.98.197.98:8000/get.php?username=petros&password=petros&type=m3u
+#EXTINF:0, hdtr2
+http://176.31.232.47:8081/apkland_discoverytamil/chunks.m3u8?nimblesessionid=1186648&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE2IDM6MzY6MzkgUE0maGFzaF92YWx1ZT1RUjJWbVBhSWNBTmE5WWFjRnZFOGlnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:0, http://82.114.59.13/
+http://82.114.59.13/
+#EXTINF:0, http://www.alphatv.gr/webtv/live
+http://www.alphatv.gr/webtv/live
+#EXTINF:0, iptv
+http://163.172.6.8:8000/get.php?username=ormiT8sgNa&password=QlI30G37sY&type=m3u
+#EXTINF:0, IT, FR, UK, US, LN, GR,...
+http://163.172.6.8:8000/get.php?username=JFnmKddt37&password=0B1kBYg1fA&type=m3u
+#EXTINF:0, Kontra
+http://206.222.31.146/kontra
+#EXTINF:0, Kontra TV
+rtmp://$OPT:rtmp-raw=rtmp://flashcloud.mediacdn.com/live/ playpath=kontratv live=1
+#EXTINF:0, Kriti TV
+http://206.222.31.146/krititv
+#EXTINF:0, Mega
+http://206.222.31.146/mega
+#EXTINF:0, Mix channels
+http://217.182.195.57:8899/get.php?username=tural&password=tural&type=m3u
+#EXTINF:0, Mix World
+http://iptvtotal.bestcam.info:25461/get.php?username=carlos&password=Carlos&type=m3u
+#EXTINF:0, Mix World
+http://iptvtotal.bestcam.info:25461/get.php?username=172&password=172&type=m3u
+#EXTINF:0, nbbn
+http://tv.ultraplay.ml:8000/get.php?username=ghp&password=ghp&type=m3
+#EXTINF:0, NEA TV
+rtsp://srv.viiideo.gr:1935/neatv/live
+#EXTINF:0, Net
+http://206.222.31.146/net
+#EXTINF:0, NETV
+rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
+#EXTINF:0, NL, GR
+http://zerocube.co:8000/get.php?username=BcIC8JJD3n&password=9sG4MY7i0b&type=m3u
+#EXTINF:0, nova cinema
+http://ksportiptv.com:1557
+#EXTINF:0, Parliament TV
+rtsp://media19.internet.gr/ParliamentTV-HQ
+#EXTINF:0, Riksat
+http://206.222.31.146/riksat
+#EXTINF:0, RockFM 96.6
+http://rockfm-lh.akamaihd.net/i/live_1@324559/master.m3u8
+#EXTINF:0, SAMIAKI TV
+rtmp://$OPT:rtmp-raw=rtmp://91.121.107.131/samiaki/samiaki live=1
+#EXTINF:0, SKAÃ Tileorasi
+rtmp://$OPT:rtmp-raw=rtmp://cp76154.live.edgefcs.net/live/TV_LIVE_1@10773 live=1
+#EXTINF:0, Skai
+http://206.222.31.146/skai
+#EXTINF:0, Skai
+http://93.87.85.69/PLTV/88888888/224/3221226763
+#EXTINF:0, Skai
+http://158.69.227.79:8000
+#EXTINF:0, Skai
+http://158.69.227.79:8000
+#EXTINF:0, Skai 100.3
+http://radioskaigroup-lh.akamaihd.net/i/live_1@396383/index_96_a-p.m3u8
+#EXTINF:0, sport plus
+http://206.222.31.146/sport_plus
+#EXTINF:0, Star
+http://206.222.31.146/star
+#EXTINF:0, Star TV Dramas
+http://radiofeeds1.mediabox.gr/startv?MSWMExt=.asf
+#EXTINF:0, strar dramas
+http://206.222.31.146/star_dramas
+#EXTINF:0, thraki tv
+http://206.222.31.146/thrakitv
+#EXTINF:0, TV 100
+rtsp://eco.caststream.net/tv100/tv100
+#EXTINF:0, TV Plus
+http://wms-01.visionip.tv/hellenic-tv-plus
+#EXTINF:0, West
+http://206.222.31.146/west
+#EXTINF:0, world
+http://s1.ukhdtv.com:7860/get.php?username=ABBrLWEBQh&password=rwrsdfsdaa&type=m3u
+#EXTINF:0, World Channels
+http://217.23.1.3:6969/get.php?username=luca&password=luca&type=m3u
+#EXTINF:0, world mix
+http://hv-tv.ddns.net:88/get.php?username=Ksgazi875&password=rCg5T0kaUd&type=m3u
+#EXTINF:0, Zougla TV
+rtmp://$OPT:rtmp-raw=rtmp://cp67108.live.edgefcs.net/live/zouglaradio@15863 live=1
+#EXTINF:0, ZOUGLA TV
+http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
+
+
+
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="GREECE" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://www.youtube.com/watch?v=SbZQY3UYw_Y
