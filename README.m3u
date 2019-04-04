@@ -1,1224 +1,2795 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/coke123/coke123/21742.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/21741.ts
-#EXTINF:-1,SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/coke123/coke123/21740.ts
-#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/coke123/coke123/21739.ts
-#EXTINF:-1,SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21738.ts
-#EXTINF:-1,SKY SPORT NEWS
-http://p4.giffy.be:8080/live/coke123/coke123/21732.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://p4.giffy.be:8080/live/coke123/coke123/21728.ts
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://p4.giffy.be:8080/live/coke123/coke123/21737.ts
-#EXTINF:-1,SKY SPORTS HD ARENA
-http://p4.giffy.be:8080/live/coke123/coke123/27769.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30065.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30066.ts
-#EXTINF:-1,SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/coke123/coke123/30075.ts
-#EXTINF:-1,SKY FOOTBALL
-http://p4.giffy.be:8080/live/coke123/coke123/28297.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21736.ts
-#EXTINF:-1,BT SPORTS 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21735.ts
-#EXTINF:-1,BT SPORTS 3 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21734.ts
-#EXTINF:-1,BT SPORT ESPN
-http://p4.giffy.be:8080/live/coke123/coke123/21731.ts
-#EXTINF:-1,BT SPORT MOSAIC
-http://p4.giffy.be:8080/live/coke123/coke123/21729.ts
-#EXTINF:-1,BT SPORT EXTRA
-http://p4.giffy.be:8080/live/coke123/coke123/21730.ts
-#EXTINF:-1,UK | 4 SEVEN
-http://p4.giffy.be:8080/live/coke123/coke123/30513.ts
-#EXTINF:-1,UK | 5 STAR
-http://p4.giffy.be:8080/live/coke123/coke123/30512.ts
-#EXTINF:-1,UK | 5 USA
-http://p4.giffy.be:8080/live/coke123/coke123/30514.ts
-#EXTINF:-1,UK | ANIMAL PLANET
-http://p4.giffy.be:8080/live/coke123/coke123/30530.ts
-#EXTINF:-1,UK | BBC ALBA
-http://p4.giffy.be:8080/live/coke123/coke123/30543.ts
-#EXTINF:-1,UK | BBC ONE SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30547.ts
-#EXTINF:-1,UK | BBC ONE WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30548.ts
-#EXTINF:-1,UK | BBC PARLIEMNT
-http://p4.giffy.be:8080/live/coke123/coke123/30542.ts
-#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
-http://p4.giffy.be:8080/live/coke123/coke123/30544.ts
-#EXTINF:-1,UK | BBC TWO SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30545.ts
-#EXTINF:-1,UK | BBC TWO WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30546.ts
-#EXTINF:-1,UK | BBC1
-http://p4.giffy.be:8080/live/coke123/coke123/30549.ts
-#EXTINF:-1,UK | BBC2
-http://p4.giffy.be:8080/live/coke123/coke123/30550.ts
-#EXTINF:-1,UK | BBC3
-http://p4.giffy.be:8080/live/coke123/coke123/30551.ts
-#EXTINF:-1,UK | BBC4
-http://p4.giffy.be:8080/live/coke123/coke123/30552.ts
-#EXTINF:-1,UK | CBS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/30526.ts
-#EXTINF:-1,UK | CBS DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30525.ts
-#EXTINF:-1,UK | CBS REALITY
-http://p4.giffy.be:8080/live/coke123/coke123/30524.ts
-#EXTINF:-1,UK | CHANNEL 14
-http://p4.giffy.be:8080/live/coke123/coke123/30554.ts
-#EXTINF:-1,UK | CRIME INVESTIGATION
-http://p4.giffy.be:8080/live/coke123/coke123/30504.ts
-#EXTINF:-1,UK | DAVE
-http://p4.giffy.be:8080/live/coke123/coke123/30511.ts
-#EXTINF:-1,UK | DAVE HD
-http://p4.giffy.be:8080/live/coke123/coke123/30560.ts
-#EXTINF:-1,UK | DISCOVERY CH
-http://p4.giffy.be:8080/live/coke123/coke123/30539.ts
-#EXTINF:-1,UK | DISCOVERY HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30538.ts
-#EXTINF:-1,UK | DISCOVERY HOME & HEALTH
-http://p4.giffy.be:8080/live/coke123/coke123/30537.ts
-#EXTINF:-1,UK | DISCOVERY SCIENCE
-http://p4.giffy.be:8080/live/coke123/coke123/30536.ts
-#EXTINF:-1,UK | DISCOVERY SHED
-http://p4.giffy.be:8080/live/coke123/coke123/30535.ts
-#EXTINF:-1,UK | DISCOVERY TURBO
-http://p4.giffy.be:8080/live/coke123/coke123/30534.ts
-#EXTINF:-1,UK | E4
-http://p4.giffy.be:8080/live/coke123/coke123/30522.ts
-#EXTINF:-1,UK | FOOD NETWORK
-http://p4.giffy.be:8080/live/coke123/coke123/30521.ts
-#EXTINF:-1,UK | FOX VOD
-http://p4.giffy.be:8080/live/coke123/coke123/30520.ts
-#EXTINF:-1,UK | HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30528.ts
-#EXTINF:-1,UK | HISTORY 1
-http://p4.giffy.be:8080/live/coke123/coke123/30523.ts
-#EXTINF:-1,UK | HOME
-http://p4.giffy.be:8080/live/coke123/coke123/30527.ts
-#EXTINF:-1,UK | INVESTIGATION DISCOVERY
-http://p4.giffy.be:8080/live/coke123/coke123/30533.ts
-#EXTINF:-1,UK | ITV BE
-http://p4.giffy.be:8080/live/coke123/coke123/30519.ts
-#EXTINF:-1,UK | ITV ENCORE
-http://p4.giffy.be:8080/live/coke123/coke123/30555.ts
-#EXTINF:-1,UK | ITV LONDON
-http://p4.giffy.be:8080/live/coke123/coke123/30518.ts
-#EXTINF:-1,UK | ITV1
-http://p4.giffy.be:8080/live/coke123/coke123/30556.ts
-#EXTINF:-1,UK | ITV2
-http://p4.giffy.be:8080/live/coke123/coke123/30557.ts
-#EXTINF:-1,UK | ITV3
-http://p4.giffy.be:8080/live/coke123/coke123/30558.ts
-#EXTINF:-1,UK | ITV4
-http://p4.giffy.be:8080/live/coke123/coke123/30559.ts
-#EXTINF:-1,UK | KIX ENG
-http://p4.giffy.be:8080/live/coke123/coke123/30505.ts
-#EXTINF:-1,UK | LIFETIME
-http://p4.giffy.be:8080/live/coke123/coke123/30506.ts
-#EXTINF:-1,UK | MTV DANCE
-http://p4.giffy.be:8080/live/coke123/coke123/30563.ts
-#EXTINF:-1,UK | MTV HITS
-http://p4.giffy.be:8080/live/coke123/coke123/30562.ts
-#EXTINF:-1,UK | MTV MUSIC
-http://p4.giffy.be:8080/live/coke123/coke123/30561.ts
-#EXTINF:-1,UK | NAT GEO
-http://p4.giffy.be:8080/live/coke123/coke123/30531.ts
-#EXTINF:-1,UK | NAT GEO WILD
-http://p4.giffy.be:8080/live/coke123/coke123/30532.ts
-#EXTINF:-1,UK | NATGEO
-http://p4.giffy.be:8080/live/coke123/coke123/30540.ts
-#EXTINF:-1,UK | PICK
-http://p4.giffy.be:8080/live/coke123/coke123/30517.ts
-#EXTINF:-1,UK | QUEST
-http://p4.giffy.be:8080/live/coke123/coke123/30507.ts
-#EXTINF:-1,UK | RTE
-http://p4.giffy.be:8080/live/coke123/coke123/30516.ts
-#EXTINF:-1,UK | S4C
-http://p4.giffy.be:8080/live/coke123/coke123/30541.ts
-#EXTINF:-1,UK | SKY ARTS 1
-http://p4.giffy.be:8080/live/coke123/coke123/30503.ts
-#EXTINF:-1,UK | SKY ATLANTIC
-http://p4.giffy.be:8080/live/coke123/coke123/30502.ts
-#EXTINF:-1,UK | SKY LIVING
-http://p4.giffy.be:8080/live/coke123/coke123/30489.ts
-#EXTINF:-1,UK | SKY MOVIES ACTION & ADVENTURE
-http://p4.giffy.be:8080/live/coke123/coke123/30501.ts
-#EXTINF:-1,UK | SKY MOVIES COMEDY
-http://p4.giffy.be:8080/live/coke123/coke123/30500.ts
-#EXTINF:-1,UK | SKY MOVIES CRIMES & THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30499.ts
-#EXTINF:-1,UK | SKY MOVIES DISNEY
-http://p4.giffy.be:8080/live/coke123/coke123/30498.ts
-#EXTINF:-1,UK | SKY MOVIES DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30497.ts
-#EXTINF:-1,UK | SKY MOVIES FAMILY
-http://p4.giffy.be:8080/live/coke123/coke123/30496.ts
-#EXTINF:-1,UK | SKY MOVIES MODERN GREATS
-http://p4.giffy.be:8080/live/coke123/coke123/30495.ts
-#EXTINF:-1,UK | SKY MOVIES PREMIERE
-http://p4.giffy.be:8080/live/coke123/coke123/30494.ts
-#EXTINF:-1,UK | SKY MOVIES SCI-FI
-http://p4.giffy.be:8080/live/coke123/coke123/30493.ts
-#EXTINF:-1,UK | SKY MOVIES SELECT HD
-http://p4.giffy.be:8080/live/coke123/coke123/30492.ts
-#EXTINF:-1,UK | SKY MOVIES SHOWCASE
-http://p4.giffy.be:8080/live/coke123/coke123/30491.ts
-#EXTINF:-1,UK | SKY MOVIES THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30490.ts
-#EXTINF:-1,UK | TLC
-http://p4.giffy.be:8080/live/coke123/coke123/30510.ts
-#EXTINF:-1,UK | TRAVEL
-http://p4.giffy.be:8080/live/coke123/coke123/30529.ts
-#EXTINF:-1,UK | TRAVEL CH HD
-http://p4.giffy.be:8080/live/coke123/coke123/30553.ts
-#EXTINF:-1,UK | TV5
-http://p4.giffy.be:8080/live/coke123/coke123/30508.ts
-#EXTINF:-1,UK |  UNIVERSAL
-http://p4.giffy.be:8080/live/coke123/coke123/30564.ts
-#EXTINF:-1,UK | VIVA
-http://p4.giffy.be:8080/live/coke123/coke123/30509.ts
 
-#EXTINF:-1,UK: Racing UK
-http://87.120.36.166:80/live/test2017/test2017/8933.ts
-#EXTINF:-1,UK: RTE ONE
-http://87.120.36.166:80/live/test2017/test2017/8934.ts
-#EXTINF:-1,UK: RTE TWO
-http://87.120.36.166:80/live/test2017/test2017/8935.ts
-#EXTINF:-1,UK: 5 Star
-http://87.120.36.166:80/live/test2017/test2017/3718.ts
-#EXTINF:-1,UK: 5 USA
-http://87.120.36.166:80/live/test2017/test2017/3719.ts
-#EXTINF:-1,UK: Alibi
-http://87.120.36.166:80/live/test2017/test2017/3746.ts
-#EXTINF:-1,UK: Animal Planet
-http://87.120.36.166:80/live/test2017/test2017/1800.ts
-#EXTINF:-1,UK: Baby TV
-http://87.120.36.166:80/live/test2017/test2017/3735.ts
-#EXTINF:-1,UK: BBC News
-http://87.120.36.166:80/live/test2017/test2017/3715.ts
-#EXTINF:-1,UK: BBC Parliament
-http://87.120.36.166:80/live/test2017/test2017/3716.ts
-#EXTINF:-1,UK: BT Sport 3
-http://87.120.36.166:80/live/test2017/test2017/3734.ts
-#EXTINF:-1,UK: BT Sports 1
-http://87.120.36.166:80/live/test2017/test2017/1795.ts
-#EXTINF:-1,UK: BT Sports 2
-http://87.120.36.166:80/live/test2017/test2017/1796.ts
-#EXTINF:-1,UK: Cartoon Network
-http://87.120.36.166:80/live/test2017/test2017/3737.ts
-#EXTINF:-1,UK: CBC Reality
-http://87.120.36.166:80/live/test2017/test2017/3747.ts
-#EXTINF:-1,UK: CCTV 9 Documentary
-http://87.120.36.166:80/live/test2017/test2017/3730.ts
-#EXTINF:-1,UK: CCTV News
-http://87.120.36.166:80/live/test2017/test2017/3723.ts
-#EXTINF:-1,UK: Channel 4
-http://87.120.36.166:80/live/test2017/test2017/3720.ts
-#EXTINF:-1,UK: Channel 5
-http://87.120.36.166:80/live/test2017/test2017/3721.ts
-#EXTINF:-1,UK: Channel Aka
-http://87.120.36.166:80/live/test2017/test2017/3749.ts
-#EXTINF:-1,UK: Discovery
-http://87.120.36.166:80/live/test2017/test2017/2376.ts
-#EXTINF:-1,UK: Discovery Science
-http://87.120.36.166:80/live/test2017/test2017/3729.ts
-#EXTINF:-1,UK: Disney Channel
-http://87.120.36.166:80/live/test2017/test2017/2835.ts
-#EXTINF:-1,UK: Disney Junior
-http://87.120.36.166:80/live/test2017/test2017/2834.ts
-#EXTINF:-1,UK: Disney XD
-http://87.120.36.166:80/live/test2017/test2017/2826.ts
-#EXTINF:-1,UK: E Entertainment
-http://87.120.36.166:80/live/test2017/test2017/3726.ts
-#EXTINF:-1,UK: ESPN
-http://87.120.36.166:80/live/test2017/test2017/2782.ts
-#EXTINF:-1,UK: Film 4
-http://87.120.36.166:80/live/test2017/test2017/3727.ts
-#EXTINF:-1,UK: Food Network
-http://87.120.36.166:80/live/test2017/test2017/3739.ts
-#EXTINF:-1,UK: History
-http://87.120.36.166:80/live/test2017/test2017/2375.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://87.120.36.166:80/live/test2017/test2017/3712.ts
-#EXTINF:-1,UK: ITV
-http://87.120.36.166:80/live/test2017/test2017/2620.ts
-#EXTINF:-1,UK: ITV 3
-http://87.120.36.166:80/live/test2017/test2017/2622.ts
-#EXTINF:-1,UK: ITV 4
-http://87.120.36.166:80/live/test2017/test2017/2623.ts
-#EXTINF:-1,UK: ITV Be
-http://87.120.36.166:80/live/test2017/test2017/3713.ts
-#EXTINF:-1,UK: Love World
-http://87.120.36.166:80/live/test2017/test2017/3750.ts
-#EXTINF:-1,UK: MTV
-http://87.120.36.166:80/live/test2017/test2017/3740.ts
-#EXTINF:-1,UK: MTV Hits
-http://87.120.36.166:80/live/test2017/test2017/3741.ts
-#EXTINF:-1,UK: National Geographic
-http://87.120.36.166:80/live/test2017/test2017/2010.ts
-#EXTINF:-1,UK: National Geographic wild
-http://87.120.36.166:80/live/test2017/test2017/2373.ts
-#EXTINF:-1,UK: Nickelodeon
-http://87.120.36.166:80/live/test2017/test2017/3736.ts
-#EXTINF:-1,UK: Press TV
-http://87.120.36.166:80/live/test2017/test2017/3722.ts
-#EXTINF:-1,UK: Setanta Sports 1
-http://87.120.36.166:80/live/test2017/test2017/3733.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://87.120.36.166:80/live/test2017/test2017/2831.ts
-#EXTINF:-1,UK: Sky Movies Crime
-http://87.120.36.166:80/live/test2017/test2017/2374.ts
-#EXTINF:-1,UK: SKY Movies Disney
-http://87.120.36.166:80/live/test2017/test2017/2832.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://87.120.36.166:80/live/test2017/test2017/1799.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://87.120.36.166:80/live/test2017/test2017/1798.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi
-http://87.120.36.166:80/live/test2017/test2017/2830.ts
-#EXTINF:-1,UK: Sky Sport F1
-http://87.120.36.166:80/live/test2017/test2017/2502.ts
-#EXTINF:-1,UK: Sky Sport News
-http://87.120.36.166:80/live/test2017/test2017/3711.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://87.120.36.166:80/live/test2017/test2017/2006.ts
-#EXTINF:-1,UK: SKY SPORT MAIN EVENT HD
-http://87.120.36.166:80/live/test2017/test2017/3193.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://87.120.36.166:80/live/test2017/test2017/8314.ts
-#EXTINF:-1,UK: SKY SPORT CRICKET HD
-http://87.120.36.166:80/live/test2017/test2017/3194.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://87.120.36.166:80/live/test2017/test2017/8313.ts
-#EXTINF:-1,UK:  SKY SPORT ACTION HD
-http://87.120.36.166:80/live/test2017/test2017/3195.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://87.120.36.166:80/live/test2017/test2017/2012.ts
-#EXTINF:-1,UK: SKY SPORT GOLF HD
-http://87.120.36.166:80/live/test2017/test2017/3196.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://87.120.36.166:80/live/test2017/test2017/2451.ts
-#EXTINF:-1,UK: SKY SPORT MIX HD
-http://87.120.36.166:80/live/test2017/test2017/3197.ts
-#EXTINF:-1,UK: STV
-http://87.120.36.166:80/live/test2017/test2017/3714.ts
-#EXTINF:-1,UK: TLC
-http://87.120.36.166:80/live/test2017/test2017/3725.ts
-#EXTINF:-1,UK: True Movies 1
-http://87.120.36.166:80/live/test2017/test2017/2827.ts
-#EXTINF:-1,UK: True Movies 2
-http://87.120.36.166:80/live/test2017/test2017/2828.ts
-#EXTINF:-1,UK: VH1
-http://87.120.36.166:80/live/test2017/test2017/3742.ts
-#EXTINF:-1,UK: Viva
-http://87.120.36.166:80/live/test2017/test2017/3743.ts
-#EXTINF:-1,UK: Yesterday
-http://87.120.36.166:80/live/test2017/test2017/3745.ts
-#EXTINF:-1,UK: Eurosport 1
-http://87.120.36.166:80/live/test2017/test2017/8692.ts
-#EXTINF:-1,UK: Gold
-http://87.120.36.166:80/live/test2017/test2017/3744.ts
-#EXTINF:-1,UK: SKY BOX OFFICE
-http://87.120.36.166:80/live/test2017/test2017/8693.ts
-#EXTINF:-1,UK: SKY BOX OFFICE1
-http://87.120.36.166:80/live/test2017/test2017/8694.ts
-#EXTINF:-1,UK: SKY BOX OFFICE2
-http://87.120.36.166:80/live/test2017/test2017/8695.ts
-#EXTINF:-1,UK: SKY BOX OFFICE3
-http://87.120.36.166:80/live/test2017/test2017/8696.ts
-#EXTINF:-1,UK: SKY BOX OFFICE4
-http://87.120.36.166:80/live/test2017/test2017/8697.ts
-#EXTINF:-1,UK: SKY SPORT FOOTBALL
-http://87.120.36.166:80/live/test2017/test2017/8698.ts
-#EXTINF:-1,UK: SKY SPORT GOLF
-http://87.120.36.166:80/live/test2017/test2017/8699.ts
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
 
-#EXTINF:-1,UK:Sports_Football
-http://178.33.239.88:9000/live/2018/2018/8067.ts
-#EXTINF:-1,UK:Sky Premier Sport
-http://178.33.239.88:9000/live/2018/2018/12943.ts
-#EXTINF:-1,UK:Sky Sport Premier League
-http://178.33.239.88:9000/live/2018/2018/12947.ts
-#EXTINF:-1,UK:Sky Sport Premier League (b)
-http://178.33.239.88:9000/live/2018/2018/12946.ts
-#EXTINF:-1,UK:Sky Sports Premier league
-http://178.33.239.88:9000/live/2018/2018/12948.ts
-#EXTINF:-1,UK:SKY_PREMIER
-http://178.33.239.88:9000/live/2018/2018/12945.ts
-#EXTINF:-1,UK:BT_SPORT_1
-http://178.33.239.88:9000/live/2018/2018/10521.ts
-#EXTINF:-1,UK:BT_SPORT_2
-http://178.33.239.88:9000/live/2018/2018/10522.ts
-#EXTINF:-1,UK:BT_SPORT_3
-http://178.33.239.88:9000/live/2018/2018/9260.ts
-#EXTINF:-1,UK:BT_Sports_ESPN
-http://178.33.239.88:9000/live/2018/2018/8069.ts
-#EXTINF:-1,UK:Sky_Sport
-http://178.33.239.88:9000/live/2018/2018/7860.ts
-#EXTINF:-1,UK:Sky_Sports_1
-http://178.33.239.88:9000/live/2018/2018/8092.ts
-#EXTINF:-1,UK:Sky_Sports 2
-http://178.33.239.88:9000/live/2018/2018/8091.ts
-#EXTINF:-1,UK:Sky_Sports_3
-http://178.33.239.88:9000/live/2018/2018/8090.ts
-#EXTINF:-1,UK:Sky_Sports_5
-http://178.33.239.88:9000/live/2018/2018/8088.ts
-#EXTINF:-1,UK:Sky_Sports_4
-http://178.33.239.88:9000/live/2018/2018/8089.ts
-#EXTINF:-1,UK:Sky Sport MIX
-http://178.33.239.88:9000/live/2018/2018/12938.ts
-#EXTINF:-1,UK:Sky_Sports BT
-http://178.33.239.88:9000/live/2018/2018/12941.ts
-#EXTINF:-1,UK:Sky Sports
-http://178.33.239.88:9000/live/2018/2018/12942.ts
-#EXTINF:-1,Uk: Sky Sports Box
-http://178.33.239.88:9000/live/2018/2018/12937.ts
-#EXTINF:-1,UK:Premier_Sport
-http://178.33.239.88:9000/live/2018/2018/10869.ts
-#EXTINF:-1,UK:Sky_Sports_News
-http://178.33.239.88:9000/live/2018/2018/10870.ts
-#EXTINF:-1,UK:Sky_Sport_Racing
-http://178.33.239.88:9000/live/2018/2018/7858.ts
-#EXTINF:-1,UK:Sky_Sports F1
-http://178.33.239.88:9000/live/2018/2018/8087.ts
-#EXTINF:-1,UK:Setanta_Sports_1
-http://178.33.239.88:9000/live/2018/2018/10524.ts
-#EXTINF:-1,UK:EuroSport_1
-http://178.33.239.88:9000/live/2018/2018/10525.ts
-#EXTINF:-1,UK:EuroSport_2
-http://178.33.239.88:9000/live/2018/2018/10526.ts
-#EXTINF:-1,UK:True_Movies
-http://178.33.239.88:9000/live/2018/2018/8055.ts
-#EXTINF:-1,UK:Sky-Cienma_Disney
-http://178.33.239.88:9000/live/2018/2018/9270.ts
-#EXTINF:-1,UK:Sky-Cinema_Comedy
-http://178.33.239.88:9000/live/2018/2018/9269.ts
-#EXTINF:-1,UK:Sky-Movies_Premiere
-http://178.33.239.88:9000/live/2018/2018/9262.ts
-#EXTINF:-1,UK:SKY_ACTION_HD
-http://178.33.239.88:9000/live/2018/2018/10889.ts
-#EXTINF:-1,UK:CBS_ACTION
-http://178.33.239.88:9000/live/2018/2018/10867.ts
-#EXTINF:-1,UK:CBS_DRAMA
-http://178.33.239.88:9000/live/2018/2018/10866.ts
-#EXTINF:-1,UK:CBS_REALITY
-http://178.33.239.88:9000/live/2018/2018/10865.ts
-#EXTINF:-1,UK:DRAMA
-http://178.33.239.88:9000/live/2018/2018/10864.ts
-#EXTINF:-1,UK:Film_4
-http://178.33.239.88:9000/live/2018/2018/10868.ts
-#EXTINF:-1,UK:Comedy_HD
-http://178.33.239.88:9000/live/2018/2018/10874.ts
-#EXTINF:-1,UK:HORROR_CHANNEL
-http://178.33.239.88:9000/live/2018/2018/10863.ts
-#EXTINF:-1,UK:MOVIES_4_MEN
-http://178.33.239.88:9000/live/2018/2018/10862.ts
-#EXTINF:-1,UK:SKY_CINEMA_DISNEY
-http://178.33.239.88:9000/live/2018/2018/10882.ts
-#EXTINF:-1,UK:SKY_CINEMA_DRAMA_ROMANCE
-http://178.33.239.88:9000/live/2018/2018/10881.ts
-#EXTINF:-1,UK:SKY_CINEMA_Action
-http://178.33.239.88:9000/live/2018/2018/10880.ts
-#EXTINF:-1,UK:SKY_CINEMA_PREMIERE_HD
-http://178.33.239.88:9000/live/2018/2018/10884.ts
-#EXTINF:-1,UK:SKY_CINEMA_SCI-FI_HORROR_HD
-http://178.33.239.88:9000/live/2018/2018/10885.ts
-#EXTINF:-1,UK:SKY_Comedy_HD
-http://178.33.239.88:9000/live/2018/2018/10887.ts
-#EXTINF:-1,UK:SKY_Crime_Thriller
-http://178.33.239.88:9000/live/2018/2018/10879.ts
-#EXTINF:-1,UK:SKY_Movies_Family_HD
-http://178.33.239.88:9000/live/2018/2018/10886.ts
-#EXTINF:-1,UK:SKY_Greats
-http://178.33.239.88:9000/live/2018/2018/10878.ts
-#EXTINF:-1,UK:SKY_MOVIES_PREMIERE_PLUS_HD
-http://178.33.239.88:9000/live/2018/2018/10883.ts
-#EXTINF:-1,UK:SKY_SHOW
-http://178.33.239.88:9000/live/2018/2018/10876.ts
-#EXTINF:-1,UK:SKY_SELECT_HD
-http://178.33.239.88:9000/live/2018/2018/10888.ts
-#EXTINF:-1,UK:SONY_MOVIES
-http://178.33.239.88:9000/live/2018/2018/10873.ts
-#EXTINF:-1,UK:Movies_Drama
-http://178.33.239.88:9000/live/2018/2018/10871.ts
-#EXTINF:-1,UK:CNBC
-http://178.33.239.88:9000/live/2018/2018/8071.ts
-#EXTINF:-1,UK:CNN_NEW
-http://178.33.239.88:9000/live/2018/2018/8052.ts
-#EXTINF:-1,UK:Disney
-http://178.33.239.88:9000/live/2018/2018/8075.ts
-#EXTINF:-1,UK:ITV 4
-http://178.33.239.88:9000/live/2018/2018/9255.ts
-#EXTINF:-1,UK:Nat_Wild-HD
-http://178.33.239.88:9000/live/2018/2018/8056.ts
-#EXTINF:-1,UK:Dmax
-http://178.33.239.88:9000/live/2018/2018/8073.ts
-#EXTINF:-1,UK:Nick_Toons
-http://178.33.239.88:9000/live/2018/2018/8074.ts
-#EXTINF:-1,UK:ITV_2_HD
-http://178.33.239.88:9000/live/2018/2018/10528.ts
-#EXTINF:-1,UK:ITV_3_HD
-http://178.33.239.88:9000/live/2018/2018/10529.ts
-#EXTINF:-1,UK:ITV_4_HD
-http://178.33.239.88:9000/live/2018/2018/10530.ts
-#EXTINF:-1,UK:ITV_HD
-http://178.33.239.88:9000/live/2018/2018/10531.ts
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NOVA SPORTS 1 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/123940
 
-#EXTINF:-1,UK: ESPN NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/62222.ts
-#EXTINF:-1,UK: BOX OFFICE HD 1
-http://landiptv.live:8080/live/ricardo/ricardo/74550.ts
-#EXTINF:-1,UK: BoxOffice 2
-http://landiptv.live:8080/live/ricardo/ricardo/74551.ts
-#EXTINF:-1,UK: BoxOffice 4
-http://landiptv.live:8080/live/ricardo/ricardo/74552.ts
-#EXTINF:-1,UK: Liverpool FC
-http://landiptv.live:8080/live/ricardo/ricardo/64983.ts
-#EXTINF:-1,UK: ITV1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65172.ts
-#EXTINF:-1,UK: ITV2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65171.ts
-#EXTINF:-1,UK: ITV3 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65170.ts
-#EXTINF:-1,UK: ITV4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65169.ts
-#EXTINF:-1,UK: AT THE RACES
-http://landiptv.live:8080/live/ricardo/ricardo/65018.ts
-#EXTINF:-1,UK: Racing UK HD
-http://landiptv.live:8080/live/ricardo/ricardo/65019.ts
-#EXTINF:-1,UK: Chelsea TV HD
-http://landiptv.live:8080/live/ricardo/ricardo/65020.ts
-#EXTINF:-1,UK: Dave HD
-http://landiptv.live:8080/live/ricardo/ricardo/65021.ts
-#EXTINF:-1,UK: Animal Planet HD
-http://landiptv.live:8080/live/ricardo/ricardo/65023.ts
-#EXTINF:-1,UK: TRUE MOVIES 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/84953.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/84954.ts
-#EXTINF:-1,UK: Discovery Science HD
-http://landiptv.live:8080/live/ricardo/ricardo/65024.ts
-#EXTINF:-1,UK: Discovery History HD
-http://landiptv.live:8080/live/ricardo/ricardo/65025.ts
-#EXTINF:-1,UK: Discovery HD
-http://landiptv.live:8080/live/ricardo/ricardo/65029.ts
-#EXTINF:-1,UK: Home & Health
-http://landiptv.live:8080/live/ricardo/ricardo/65031.ts
-#EXTINF:-1,UK: Discovery Turbo HD
-http://landiptv.live:8080/live/ricardo/ricardo/65033.ts
-#EXTINF:-1,UK: China History Channel
-http://landiptv.live:8080/live/ricardo/ricardo/65035.ts
-#EXTINF:-1,UK: ITV BE
-http://landiptv.live:8080/live/ricardo/ricardo/65036.ts
-#EXTINF:-1,UK: Really
-http://landiptv.live:8080/live/ricardo/ricardo/65037.ts
-#EXTINF:-1,UK: Pick
-http://landiptv.live:8080/live/ricardo/ricardo/65038.ts
-#EXTINF:-1,UK: Quest
-http://landiptv.live:8080/live/ricardo/ricardo/65039.ts
-#EXTINF:-1,UK: Good Food
-http://landiptv.live:8080/live/ricardo/ricardo/65040.ts
-#EXTINF:-1,UK: Sky News HD
-http://landiptv.live:8080/live/ricardo/ricardo/65042.ts
-#EXTINF:-1,UK: TLC HD
-http://landiptv.live:8080/live/ricardo/ricardo/65043.ts
-#EXTINF:-1,UK: Yesterday HD
-http://landiptv.live:8080/live/ricardo/ricardo/65044.ts
-#EXTINF:-1,UK: Travel
-http://landiptv.live:8080/live/ricardo/ricardo/65045.ts
-#EXTINF:-1,UK: 5 USA
-http://landiptv.live:8080/live/ricardo/ricardo/65046.ts
-#EXTINF:-1,UK: Trace Africa
-http://landiptv.live:8080/live/ricardo/ricardo/65047.ts
-#EXTINF:-1,UK: Starz TV
-http://landiptv.live:8080/live/ricardo/ricardo/65048.ts
-#EXTINF:-1,UK: Scuzz
-http://landiptv.live:8080/live/ricardo/ricardo/65049.ts
-#EXTINF:-1,UK: The Vault
-http://landiptv.live:8080/live/ricardo/ricardo/65052.ts
-#EXTINF:-1,UK: Chart show Hits
-http://landiptv.live:8080/live/ricardo/ricardo/65053.ts
-#EXTINF:-1,UK: Chart Show TV
-http://landiptv.live:8080/live/ricardo/ricardo/65054.ts
-#EXTINF:-1,UK: Box Upfront
-http://landiptv.live:8080/live/ricardo/ricardo/65055.ts
-#EXTINF:-1,UK: Box Hits
-http://landiptv.live:8080/live/ricardo/ricardo/65056.ts
-#EXTINF:-1,UK: The Box
-http://landiptv.live:8080/live/ricardo/ricardo/65057.ts
-#EXTINF:-1,UK: Channel AKA
-http://landiptv.live:8080/live/ricardo/ricardo/65059.ts
-#EXTINF:-1,UK: Heart TV
-http://landiptv.live:8080/live/ricardo/ricardo/65060.ts
-#EXTINF:-1,UK: CAPITAL TV
-http://landiptv.live:8080/live/ricardo/ricardo/65061.ts
-#EXTINF:-1,UK: MTV BASE
-http://landiptv.live:8080/live/ricardo/ricardo/65090.ts
-#EXTINF:-1,UK: MTV Music
-http://landiptv.live:8080/live/ricardo/ricardo/65095.ts
-#EXTINF:-1,UK: VH1
-http://landiptv.live:8080/live/ricardo/ricardo/65097.ts
-#EXTINF:-1,UK: Viva
-http://landiptv.live:8080/live/ricardo/ricardo/65098.ts
-#EXTINF:-1,UK: Sky MotoGP
-http://landiptv.live:8080/live/ricardo/ricardo/65100.ts
-#EXTINF:-1,UK: Russia Today News
-http://landiptv.live:8080/live/ricardo/ricardo/65101.ts
-#EXTINF:-1,UK: Investigation Discovery HD
-http://landiptv.live:8080/live/ricardo/ricardo/65102.ts
-#EXTINF:-1,UK: Hunting Channel
-http://landiptv.live:8080/live/ricardo/ricardo/65104.ts
-#EXTINF:-1,UK: DW
-http://landiptv.live:8080/live/ricardo/ricardo/65105.ts
-#EXTINF:-1,UK: Sony Movie
-http://landiptv.live:8080/live/ricardo/ricardo/65106.ts
-#EXTINF:-1,UK: Sony Sab
-http://landiptv.live:8080/live/ricardo/ricardo/65107.ts
-#EXTINF:-1,UK: Sony TV
-http://landiptv.live:8080/live/ricardo/ricardo/65108.ts
-#EXTINF:-1,UK: Sony Max
-http://landiptv.live:8080/live/ricardo/ricardo/65109.ts
-#EXTINF:-1,UK: Star Gold
-http://landiptv.live:8080/live/ricardo/ricardo/65110.ts
-#EXTINF:-1,UK: Alibi HD
-http://landiptv.live:8080/live/ricardo/ricardo/65112.ts
-#EXTINF:-1,UK: Sky Arts HD
-http://landiptv.live:8080/live/ricardo/ricardo/65113.ts
-#EXTINF:-1,UK: iFood
-http://landiptv.live:8080/live/ricardo/ricardo/65117.ts
-#EXTINF:-1,UK: True Movies HD
-http://landiptv.live:8080/live/ricardo/ricardo/65118.ts
-#EXTINF:-1,UK: CBS Reality
-http://landiptv.live:8080/live/ricardo/ricardo/65119.ts
-#EXTINF:-1,UK: CBS Drama
-http://landiptv.live:8080/live/ricardo/ricardo/65120.ts
-#EXTINF:-1,UK: CBS Action
-http://landiptv.live:8080/live/ricardo/ricardo/65121.ts
-#EXTINF:-1,UK: Movies24
-http://landiptv.live:8080/live/ricardo/ricardo/65122.ts
-#EXTINF:-1,UK: Movies4Men +1
-http://landiptv.live:8080/live/ricardo/ricardo/65123.ts
-#EXTINF:-1,UK: Movies4Men
-http://landiptv.live:8080/live/ricardo/ricardo/65124.ts
-#EXTINF:-1,UK: Baby TV
-http://landiptv.live:8080/live/ricardo/ricardo/65125.ts
-#EXTINF:-1,UK: Boomerang HD
-http://landiptv.live:8080/live/ricardo/ricardo/65126.ts
-#EXTINF:-1,UK: Nicktoons
-http://landiptv.live:8080/live/ricardo/ricardo/65129.ts
-#EXTINF:-1,UK: Nickelodeon HD
-http://landiptv.live:8080/live/ricardo/ricardo/65130.ts
-#EXTINF:-1,UK: Disney XD HD
-http://landiptv.live:8080/live/ricardo/ricardo/65134.ts
-#EXTINF:-1,UK: SKY Movies Disney
-http://landiptv.live:8080/live/ricardo/ricardo/65135.ts
-#EXTINF:-1,UK: Sky Living HD
-http://landiptv.live:8080/live/ricardo/ricardo/65136.ts
-#EXTINF:-1,UK: Gold
-http://landiptv.live:8080/live/ricardo/ricardo/65137.ts
-#EXTINF:-1,UK: HBO Comedy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65139.ts
-#EXTINF:-1,UK: SKY SELECT HD
-http://landiptv.live:8080/live/ricardo/ricardo/65140.ts
-#EXTINF:-1,UK: SKY GREATS HD
-http://landiptv.live:8080/live/ricardo/ricardo/65142.ts
-#EXTINF:-1,UK: Sky Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/65144.ts
-#EXTINF:-1,UK: SKY Crime & Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/65145.ts
-#EXTINF:-1,UK: SKY Cinema Drama & Romance HD
-http://landiptv.live:8080/live/ricardo/ricardo/65146.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65148.ts
-#EXTINF:-1,UK: SKY FAMILY HD
-http://landiptv.live:8080/live/ricardo/ricardo/65149.ts
-#EXTINF:-1,UK: Sky Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/65151.ts
-#EXTINF:-1,UK: Sky Hits Showcase HD
-http://landiptv.live:8080/live/ricardo/ricardo/65152.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://landiptv.live:8080/live/ricardo/ricardo/65154.ts
-#EXTINF:-1,UK: Cinema Premiere (Beauty and the Beast 2017)
-http://landiptv.live:8080/live/ricardo/ricardo/65156.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://landiptv.live:8080/live/ricardo/ricardo/65157.ts
-#EXTINF:-1,UK: SKY Two HD
-http://landiptv.live:8080/live/ricardo/ricardo/65158.ts
-#EXTINF:-1,UK: Sky One HD
-http://landiptv.live:8080/live/ricardo/ricardo/65159.ts
-#EXTINF:-1,UK: Comedy Central HD
-http://landiptv.live:8080/live/ricardo/ricardo/65160.ts
-#EXTINF:-1,UK: Lifetime HD
-http://landiptv.live:8080/live/ricardo/ricardo/65161.ts
-#EXTINF:-1,UK: TCM HD
-http://landiptv.live:8080/live/ricardo/ricardo/65162.ts
-#EXTINF:-1,UK: Fox HD
-http://landiptv.live:8080/live/ricardo/ricardo/65163.ts
-#EXTINF:-1,UK: Syfy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65165.ts
-#EXTINF:-1,UK: TLC IRELAND
-http://landiptv.live:8080/live/ricardo/ricardo/65166.ts
-#EXTINF:-1,UK: Watch HD
-http://landiptv.live:8080/live/ricardo/ricardo/65168.ts
-#EXTINF:-1,UK: ITV Encore HD
-http://landiptv.live:8080/live/ricardo/ricardo/65173.ts
-#EXTINF:-1,UK: E! HD
-http://landiptv.live:8080/live/ricardo/ricardo/65174.ts
-#EXTINF:-1,UK: 3E HD
-http://landiptv.live:8080/live/ricardo/ricardo/65175.ts
-#EXTINF:-1,UK: RTE Junior
-http://landiptv.live:8080/live/ricardo/ricardo/65176.ts
-#EXTINF:-1,UK: RTE ONE HD
-http://landiptv.live:8080/live/ricardo/ricardo/65177.ts
-#EXTINF:-1,UK: RTE TWO HD
-http://landiptv.live:8080/live/ricardo/ricardo/65178.ts
-#EXTINF:-1,UK: RTE NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/65179.ts
-#EXTINF:-1,UK: BBC Four HD
-http://landiptv.live:8080/live/ricardo/ricardo/65182.ts
-#EXTINF:-1,UK: BBC News HD
-http://landiptv.live:8080/live/ricardo/ricardo/65183.ts
-#EXTINF:-1,UK: CBBC Three
-http://landiptv.live:8080/live/ricardo/ricardo/65184.ts
-#EXTINF:-1,UK: BBC One HD
-http://landiptv.live:8080/live/ricardo/ricardo/65186.ts
-#EXTINF:-1,UK: MUTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74521.ts
-#EXTINF:-1,UK: LFC TV
-http://landiptv.live:8080/live/ricardo/ricardo/74522.ts
-#EXTINF:-1,UK: SKY PREMIERE +1
-http://landiptv.live:8080/live/ricardo/ricardo/74535.ts
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
-http://landiptv.live:8080/live/ricardo/ricardo/74545.ts
-#EXTINF:-1,UK: SKY HITS HD
-http://landiptv.live:8080/live/ricardo/ricardo/74547.ts
-#EXTINF:-1,UK: BBC Two HD
-http://landiptv.live:8080/live/ricardo/ricardo/74561.ts
-#EXTINF:-1,UK: BBC World News
-http://landiptv.live:8080/live/ricardo/ricardo/74563.ts
-#EXTINF:-1,UK: SKY 1
-http://landiptv.live:8080/live/ricardo/ricardo/74564.ts
-#EXTINF:-1,UK: ITV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74566.ts
-#EXTINF:-1,UK: London Live
-http://landiptv.live:8080/live/ricardo/ricardo/74568.ts
-#EXTINF:-1,UK: More4
-http://landiptv.live:8080/live/ricardo/ricardo/74571.ts
-#EXTINF:-1,UK: 4SEVEN HD
-http://landiptv.live:8080/live/ricardo/ricardo/74572.ts
-#EXTINF:-1,UK: DMAX HD
-http://landiptv.live:8080/live/ricardo/ricardo/74573.ts
-#EXTINF:-1,UK: UNIVERSAL HD
-http://landiptv.live:8080/live/ricardo/ricardo/74574.ts
-#EXTINF:-1,UK: My5
-http://landiptv.live:8080/live/ricardo/ricardo/74575.ts
-#EXTINF:-1,UK: E4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74576.ts
-#EXTINF:-1,UK: Eden HD
-http://landiptv.live:8080/live/ricardo/ricardo/74577.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://landiptv.live:8080/live/ricardo/ricardo/74579.ts
-#EXTINF:-1,UK: Your TV
-http://landiptv.live:8080/live/ricardo/ricardo/74580.ts
-#EXTINF:-1,UK: TG 4
-http://landiptv.live:8080/live/ricardo/ricardo/74585.ts
-#EXTINF:-1,UK: 5Star
-http://landiptv.live:8080/live/ricardo/ricardo/74587.ts
-#EXTINF:-1,UK: SPIKE
-http://landiptv.live:8080/live/ricardo/ricardo/74588.ts
-#EXTINF:-1,UK: BET
-http://landiptv.live:8080/live/ricardo/ricardo/74589.ts
-#EXTINF:-1,UK: CITV
-http://landiptv.live:8080/live/ricardo/ricardo/74590.ts
-#EXTINF:-1,UK: Tiny POP
-http://landiptv.live:8080/live/ricardo/ricardo/74591.ts
-#EXTINF:-1,UK: H2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74597.ts
-#EXTINF:-1,UK: Travel Channel
-http://landiptv.live:8080/live/ricardo/ricardo/74601.ts
-#EXTINF:-1,UK: 4MUSIC
-http://landiptv.live:8080/live/ricardo/ricardo/74604.ts
-#EXTINF:-1,UK: Fox News
-http://landiptv.live:8080/live/ricardo/ricardo/74608.ts
-#EXTINF:-1,UK: Euronews
-http://landiptv.live:8080/live/ricardo/ricardo/74609.ts
-#EXTINF:-1,UK: Sky Musicals HD
-http://landiptv.live:8080/live/ricardo/ricardo/74690.ts
-#EXTINF:-1,UK: Sky 3D
-http://landiptv.live:8080/live/ricardo/ricardo/74696.ts
-#EXTINF:-1,UK: BoxOffice 3
-http://landiptv.live:8080/live/ricardo/ricardo/74697.ts
-#EXTINF:-1,UK: Pop Max
-http://landiptv.live:8080/live/ricardo/ricardo/74706.ts
-#EXTINF:-1,UK: W HD
-http://landiptv.live:8080/live/ricardo/ricardo/74716.ts
-#EXTINF:-1,UK: ITV2 +1
-http://landiptv.live:8080/live/ricardo/ricardo/74719.ts
-#EXTINF:-1,UK: ITV4 +1
-http://landiptv.live:8080/live/ricardo/ricardo/74720.ts
-#EXTINF:-1,UK: Quest Red
-http://landiptv.live:8080/live/ricardo/ricardo/74721.ts
-#EXTINF:-1,UK: Challenge
-http://landiptv.live:8080/live/ricardo/ricardo/74722.ts
-#EXTINF:-1,UK: S4C
-http://landiptv.live:8080/live/ricardo/ricardo/74723.ts
-#EXTINF:-1,UK: 5 USA +1
-http://landiptv.live:8080/live/ricardo/ricardo/74729.ts
-#EXTINF:-1,UK: UTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74731.ts
-#EXTINF:-1,UK: BBC Parliament
-http://landiptv.live:8080/live/ricardo/ricardo/74734.ts
-#EXTINF:-1,UK: BBC Alba
-http://landiptv.live:8080/live/ricardo/ricardo/74735.ts
-#EXTINF:-1,UK: Arise News
-http://landiptv.live:8080/live/ricardo/ricardo/74736.ts
-#EXTINF:-1,UK: FRANCE 24
-http://landiptv.live:8080/live/ricardo/ricardo/74737.ts
-#EXTINF:-1,UK: CBSN News
-http://landiptv.live:8080/live/ricardo/ricardo/74738.ts
-#EXTINF:-1,UK: Channels Television
-http://landiptv.live:8080/live/ricardo/ricardo/74741.ts
-#EXTINF:-1,UK: CNN NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/74742.ts
-#EXTINF:-1,UK: Bloomberg
-http://landiptv.live:8080/live/ricardo/ricardo/74743.ts
-#EXTINF:-1,UK: Discovery HOME & HEALTH
-http://landiptv.live:8080/live/ricardo/ricardo/74758.ts
-#EXTINF:-1,UK: Film 4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74759.ts
-#EXTINF:-1,UK: Sky Movies Modern Greats HD
-http://landiptv.live:8080/live/ricardo/ricardo/74760.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/74761.ts
-#EXTINF:-1,UK: Sky Great HD
-http://landiptv.live:8080/live/ricardo/ricardo/74765.ts
-#EXTINF:-1,UK: VH1
-http://landiptv.live:8080/live/ricardo/ricardo/74774.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/74775.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://landiptv.live:8080/live/ricardo/ricardo/74776.ts
-#EXTINF:-1,UK: Channel4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74789.ts
-#EXTINF:-1,UK: Channel5 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74790.ts
-#EXTINF:-1,UK: CNN HD
-http://landiptv.live:8080/live/ricardo/ricardo/74792.ts
-#EXTINF:-1,UK: Discovery Shed
-http://landiptv.live:8080/live/ricardo/ricardo/74794.ts
-#EXTINF:-1,UK: Drama
-http://landiptv.live:8080/live/ricardo/ricardo/74796.ts
-#EXTINF:-1,UK: Food Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/74799.ts
-#EXTINF:-1,UK: History HD
-http://landiptv.live:8080/live/ricardo/ricardo/74802.ts
-#EXTINF:-1,UK: Horror Channel
-http://landiptv.live:8080/live/ricardo/ricardo/74804.ts
-#EXTINF:-1,UK: NAT GEO Wild HD
-http://landiptv.live:8080/live/ricardo/ricardo/74807.ts
-#EXTINF:-1,UK: NAT GEO HD
-http://landiptv.live:8080/live/ricardo/ricardo/74808.ts
-#EXTINF:-1,UK: Disney Junior HD
-http://landiptv.live:8080/live/ricardo/ricardo/65133.ts
-#EXTINF:-1,UK: Cartoonito
-http://landiptv.live:8080/live/ricardo/ricardo/74593.ts
-#EXTINF:-1,UK: Disney Channel HD
-http://landiptv.live:8080/live/ricardo/ricardo/74594.ts
-#EXTINF:-1,UK: Nickelodeon +1
-http://landiptv.live:8080/live/ricardo/ricardo/74705.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/74786.ts
-#EXTINF:-1,UK: ITV Box Office HD
-http://landiptv.live:8080/live/ricardo/ricardo/65022.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD
-http://landiptv.live:8080/live/ricardo/ricardo/80381.ts
-#EXTINF:-1,UK: HISTOR
-http://landiptv.live:8080/live/ricardo/ricardo/80400.ts
-#EXTINF:-1,UK: Setanta Sport
-http://landiptv.live:8080/live/ricardo/ricardo/65015.ts
-#EXTINF:-1,UK: EDGE SPORT HD
-http://landiptv.live:8080/live/ricardo/ricardo/65066.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://landiptv.live:8080/live/ricardo/ricardo/65067.ts
-#EXTINF:-1,UK: Super Sport 2
-http://landiptv.live:8080/live/ricardo/ricardo/74658.ts
-#EXTINF:-1,UK: Ginxe Sports TV
-http://landiptv.live:8080/live/ricardo/ricardo/74685.ts
-#EXTINF:-1,UK: BBC Earth
-http://landiptv.live:8080/live/ricardo/ricardo/86280.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/86281.ts
-#EXTINF:-1,UK: 5 SELECT
-http://landiptv.live:8080/live/ricardo/ricardo/86300.ts
-#EXTINF:-1,UK: CRIME & INVESTIGATION HD
-http://landiptv.live:8080/live/ricardo/ricardo/86302.ts
-#EXTINF:-1,UK: Fine Living Network
-http://landiptv.live:8080/live/ricardo/ricardo/86312.ts
-#EXTINF:-1,UK: Racing HD
-http://landiptv.live:8080/live/ricardo/ricardo/86331.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://landiptv.live:8080/live/ricardo/ricardo/86333.ts
-#EXTINF:-1,UK: SyFy UK
-http://landiptv.live:8080/live/ricardo/ricardo/86340.ts
-#EXTINF:-1,UK: Sky Cinema Oscars
-http://landiptv.live:8080/live/ricardo/ricardo/88313.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/88316.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/88320.ts
-#EXTINF:-1,UK: SHOWCASE
-http://landiptv.live:8080/live/ricardo/ricardo/88686.ts
-#EXTINF:-1,UK: HBO HD
-http://landiptv.live:8080/live/ricardo/ricardo/91383.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91439.ts
-#EXTINF:-1,UK: Sky Cinema Modern Greats HD
-http://landiptv.live:8080/live/ricardo/ricardo/91457.ts
-#EXTINF:-1,UK: True Movie
-http://landiptv.live:8080/live/ricardo/ricardo/92612.ts
-#EXTINF:-1,UK: Sky Movie Thriller
-http://landiptv.live:8080/live/ricardo/ricardo/93063.ts
-#EXTINF:-1,UK: Sky Movie Family
-http://landiptv.live:8080/live/ricardo/ricardo/93066.ts
-#EXTINF:-1,UK: Sky Movie Drama
-http://landiptv.live:8080/live/ricardo/ricardo/93070.ts
-#EXTINF:-1,UK: CHELSEA
-http://landiptv.live:8080/live/ricardo/ricardo/93244.ts
-#EXTINF:-1,UK: WWE Raw Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/93245.ts
-#EXTINF:-1,UK: WWE HD
-http://landiptv.live:8080/live/ricardo/ricardo/93246.ts
-#EXTINF:-1,UK: WWE 24
-http://landiptv.live:8080/live/ricardo/ricardo/93247.ts
-#EXTINF:-1,UK: Premier Sport HD
-http://landiptv.live:8080/live/ricardo/ricardo/93328.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://landiptv.live:8080/live/ricardo/ricardo/93470.ts
-#EXTINF:-1,UK: Sky Living FHD
-http://landiptv.live:8080/live/ricardo/ricardo/93472.ts
-#EXTINF:-1,UK: ITV BOX OFFICE (Live During Events Only)
-http://landiptv.live:8080/live/ricardo/ricardo/93907.ts
-#EXTINF:-1,UK: TCM (film)
-http://landiptv.live:8080/live/ricardo/ricardo/94176.ts
-#EXTINF:-1,UK: Keep It Country TV
-http://landiptv.live:8080/live/ricardo/ricardo/94189.ts
-#EXTINF:-1,UK: AMC HD
-http://landiptv.live:8080/live/ricardo/ricardo/63034.ts
-#EXTINF:-1,UK: RTE1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91966.ts
-#EXTINF:-1,UK: RTE2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91967.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER 1
-http://landiptv.live:8080/live/ricardo/ricardo/94779.ts
-#EXTINF:-1,UK: Eurosport 1 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94786.ts
-#EXTINF:-1,UK: HBO 2 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94789.ts
-#EXTINF:-1,UK: NAT GEO FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94791.ts
-#EXTINF:-1,UK: Animal Planet FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94793.ts
-#EXTINF:-1,UK: History FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94795.ts
-#EXTINF:-1,UK: MGM FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94796.ts
-#EXTINF:-1,UK: PPV WWE
-http://landiptv.live:8080/live/ricardo/ricardo/94806.ts
-#EXTINF:-1,UK: WWE NETWORK
-http://landiptv.live:8080/live/ricardo/ricardo/74519.ts
-#EXTINF:-1,UK: TV3
-http://landiptv.live:8080/live/ricardo/ricardo/74567.ts
-#EXTINF:-1,UK: REAL LIVES
-http://landiptv.live:8080/live/ricardo/ricardo/74582.ts
-#EXTINF:-1,UK: UTV Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/74586.ts
-#EXTINF:-1,UK: CAPITAL TV MUSIC
-http://landiptv.live:8080/live/ricardo/ricardo/74602.ts
-#EXTINF:-1,UK: NOW 80s
-http://landiptv.live:8080/live/ricardo/ricardo/74605.ts
-#EXTINF:-1,UK: RUSSIA TODAY
-http://landiptv.live:8080/live/ricardo/ricardo/74610.ts
-#EXTINF:-1,UK: HUM TV EUROPE
-http://landiptv.live:8080/live/ricardo/ricardo/74611.ts
-#EXTINF:-1,UK: B4U Music
-http://landiptv.live:8080/live/ricardo/ricardo/86866.ts
-#EXTINF:-1,UK: &TV
-http://landiptv.live:8080/live/ricardo/ricardo/87030.ts
-#EXTINF:-1,UK: PRIME TV UK
-http://landiptv.live:8080/live/ricardo/ricardo/91384.ts
-#EXTINF:-1,UK: CHANNEL AKAAL
-http://landiptv.live:8080/live/ricardo/ricardo/91386.ts
-#EXTINF:-1,UK: ARY DIGITAL
-http://landiptv.live:8080/live/ricardo/ricardo/91387.ts
-#EXTINF:-1,UK: AL JAZEERA NEWS ENGLISH
-http://landiptv.live:8080/live/ricardo/ricardo/91389.ts
-#EXTINF:-1,UK: BLOOMBERG NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91391.ts
-#EXTINF:-1,UK: HUM MASALA
-http://landiptv.live:8080/live/ricardo/ricardo/91394.ts
-#EXTINF:-1,UK: SETANTA SPORTS
-http://landiptv.live:8080/live/ricardo/ricardo/91400.ts
-#EXTINF:-1,UK: DUNYA NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91417.ts
-#EXTINF:-1,UK: NOLLLYWOOD
-http://landiptv.live:8080/live/ricardo/ricardo/91418.ts
-#EXTINF:-1,UK: E! Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/91422.ts
-#EXTINF:-1,UK: ABP NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91433.ts
-#EXTINF:-1,UK: RISHTEY TV
-http://landiptv.live:8080/live/ricardo/ricardo/91454.ts
-#EXTINF:-1,UK: SIKH TV
-http://landiptv.live:8080/live/ricardo/ricardo/91455.ts
-#EXTINF:-1,UK: STAR BHARAT
-http://landiptv.live:8080/live/ricardo/ricardo/91458.ts
-#EXTINF:-1,UK: STAR PLUS
-http://landiptv.live:8080/live/ricardo/ricardo/91459.ts
-#EXTINF:-1,UK: ZING TV
-http://landiptv.live:8080/live/ricardo/ricardo/91468.ts
-#EXTINF:-1,UK: MTV Base HD
-http://landiptv.live:8080/live/ricardo/ricardo/95572.ts
-#EXTINF:-1,UK: MTV Live HD
-http://landiptv.live:8080/live/ricardo/ricardo/95573.ts
-#EXTINF:-1,UK: REALY
-http://landiptv.live:8080/live/ricardo/ricardo/74727.ts
-#EXTINF:-1,UK: Africa News
-http://landiptv.live:8080/live/ricardo/ricardo/65041.ts
-#EXTINF:-1,UK: ABC News
-http://landiptv.live:8080/live/ricardo/ricardo/96992.ts
-#EXTINF:-1,UK: Sky Cinema Premiere Plus
-http://landiptv.live:8080/live/ricardo/ricardo/97047.ts
-#EXTINF:-1,UK: MOTORSPORT TV
-http://landiptv.live:8080/live/ricardo/ricardo/97053.ts
-#EXTINF:-1,UK: CBBC
-http://landiptv.live:8080/live/ricardo/ricardo/74569.ts
-#EXTINF:-1,UK: Pick TV
-http://landiptv.live:8080/live/ricardo/ricardo/91965.ts
-#EXTINF:-1,UK: Sky Movies Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/94661.ts
-#EXTINF:-1,UK: Motors TV
-http://landiptv.live:8080/live/ricardo/ricardo/97001.ts
-#EXTINF:-1,UK: Chelsea FC
-http://landiptv.live:8080/live/ricardo/ricardo/98241.ts
-#EXTINF:-1,UK: Bike
-http://landiptv.live:8080/live/ricardo/ricardo/99064.ts
-#EXTINF:-1,UK: Box Nation
-http://landiptv.live:8080/live/ricardo/ricardo/99066.ts
-#EXTINF:-1,UK: Challange
-http://landiptv.live:8080/live/ricardo/ricardo/99069.ts
-#EXTINF:-1,UK: Crime and Investigation
-http://landiptv.live:8080/live/ricardo/ricardo/99072.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://landiptv.live:8080/live/ricardo/ricardo/99073.ts
-#EXTINF:-1,UK: Disney Movies
-http://landiptv.live:8080/live/ricardo/ricardo/99076.ts
-#EXTINF:-1,UK: ESPN
-http://landiptv.live:8080/live/ricardo/ricardo/99082.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/99085.ts
-#EXTINF:-1,UK: Fast & Fun Box Hits
-http://landiptv.live:8080/live/ricardo/ricardo/99086.ts
-#EXTINF:-1,UK: History Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99093.ts
-#EXTINF:-1,UK: Irish TV
-http://landiptv.live:8080/live/ricardo/ricardo/99095.ts
-#EXTINF:-1,UK: Kix
-http://landiptv.live:8080/live/ricardo/ricardo/99101.ts
-#EXTINF:-1,UK: MTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/99105.ts
-#EXTINF:-1,UK: RT
-http://landiptv.live:8080/live/ricardo/ricardo/99110.ts
-#EXTINF:-1,UK: RTE JR
-http://landiptv.live:8080/live/ricardo/ricardo/99113.ts
-#EXTINF:-1,UK: STV
-http://landiptv.live:8080/live/ricardo/ricardo/99114.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 1
-http://landiptv.live:8080/live/ricardo/ricardo/99117.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 2
-http://landiptv.live:8080/live/ricardo/ricardo/99118.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 3
-http://landiptv.live:8080/live/ricardo/ricardo/99119.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 4
-http://landiptv.live:8080/live/ricardo/ricardo/99120.ts
-#EXTINF:-1,UK: Sky Living UK
-http://landiptv.live:8080/live/ricardo/ricardo/99122.ts
-#EXTINF:-1,UK: Sony Movies
-http://landiptv.live:8080/live/ricardo/ricardo/99127.ts
-#EXTINF:-1,UK: True Crime
-http://landiptv.live:8080/live/ricardo/ricardo/99131.ts
-#EXTINF:-1,UK: True Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/99132.ts
-#EXTINF:-1,UK: TV3 Plus 1
-http://landiptv.live:8080/live/ricardo/ricardo/99134.ts
-#EXTINF:-1,UK: World Fight Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99138.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://landiptv.live:8080/live/ricardo/ricardo/98206.ts
-#EXTINF:-1,UK: Channel5 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/98240.ts
-#EXTINF:-1,UK: HISTORY 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/98244.ts
-#EXTINF:-1,UK: STV FHD
-http://landiptv.live:8080/live/ricardo/ricardo/98263.ts
-#EXTINF:-1,UK: LIVERPOOL TV
-http://landiptv.live:8080/live/ricardo/ricardo/85019.ts
-#EXTINF:-1,UK: SKY ARTS 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91968.ts
-#EXTINF:-1,UK: CHANNEL 2
-http://landiptv.live:8080/live/ricardo/ricardo/99577.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/99585.ts
-#EXTINF:-1,UK: EDEN 1
-http://landiptv.live:8080/live/ricardo/ricardo/99588.ts
-#EXTINF:-1,UK: GOLD TV
-http://landiptv.live:8080/live/ricardo/ricardo/99590.ts
-#EXTINF:-1,UK: MOVIES 4 MAN
-http://landiptv.live:8080/live/ricardo/ricardo/99596.ts
-#EXTINF:-1,UK: OUTDOR CHANNEL
-http://landiptv.live:8080/live/ricardo/ricardo/99598.ts
-#EXTINF:-1,UK: RTE 3 Junior
-http://landiptv.live:8080/live/ricardo/ricardo/99600.ts
-#EXTINF:-1,UK: SETANTA SPOR
-http://landiptv.live:8080/live/ricardo/ricardo/99602.ts
-#EXTINF:-1,UK: SKY 2
-http://landiptv.live:8080/live/ricardo/ricardo/99603.ts
-#EXTINF:-1,UK: SKY MOVIES ATLANTIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/99605.ts
-#EXTINF:-1,UK: SKY MOVIES HITS SHOWCASE HD
-http://landiptv.live:8080/live/ricardo/ricardo/99606.ts
-#EXTINF:-1,UK: TCM 1
-http://landiptv.live:8080/live/ricardo/ricardo/99608.ts
-#EXTINF:-1,UK: Discovery Channel HD
-http://landiptv.live:8080/live/ricardo/ricardo/92586.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://landiptv.live:8080/live/ricardo/ricardo/92603.ts
-#EXTINF:-1,UK: RTE News Now
-http://landiptv.live:8080/live/ricardo/ricardo/98259.ts
-#EXTINF:-1,UK: EirSport 1
-http://landiptv.live:8080/live/ricardo/ricardo/99617.ts
-#EXTINF:-1,UK: ITV1 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/99900.ts
-#EXTINF:-1,UK: Community
-http://landiptv.live:8080/live/ricardo/ricardo/99902.ts
-#EXTINF:-1,UK: Channel4 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/99907.ts
-#EXTINF:-1,UK: Bloomberg Europe TV
-http://landiptv.live:8080/live/ricardo/ricardo/99911.ts
-#EXTINF:-1,UK: TV3 Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/99917.ts
-#EXTINF:-1,UK: TG4 Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/99918.ts
-#EXTINF:-1,UK: Syfy TV
-http://landiptv.live:8080/live/ricardo/ricardo/99919.ts
-#EXTINF:-1,UK: Gold Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99922.ts
-#EXTINF:-1,UK: Nick Junior
-http://landiptv.live:8080/live/ricardo/ricardo/99925.ts
-#EXTINF:-1,UK: NAT GEO Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99930.ts
-#EXTINF:-1,UK: Docubox HD
-http://landiptv.live:8080/live/ricardo/ricardo/99931.ts
-#EXTINF:-1,UK: Fishing & Hunting
-http://landiptv.live:8080/live/ricardo/ricardo/99932.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://landiptv.live:8080/live/ricardo/ricardo/99938.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://landiptv.live:8080/live/ricardo/ricardo/99939.ts
-#EXTINF:-1,UK: Sky Movies Scfi
-http://landiptv.live:8080/live/ricardo/ricardo/99940.ts
-#EXTINF:-1,UK: Sky Drama & Romance
-http://landiptv.live:8080/live/ricardo/ricardo/99941.ts
-#EXTINF:-1,UK: BoxOffice
-http://landiptv.live:8080/live/ricardo/ricardo/99950.ts
-#EXTINF:-1,UK: Motor TV
-http://landiptv.live:8080/live/ricardo/ricardo/99952.ts
-#EXTINF:-1,UK: Fightbox HD
-http://landiptv.live:8080/live/ricardo/ricardo/99955.ts
-#EXTINF:-1,UK: Celtic TV
-http://landiptv.live:8080/live/ricardo/ricardo/99959.ts
-#EXTINF:-1,UK: VH1+
-http://landiptv.live:8080/live/ricardo/ricardo/99961.ts
-#EXTINF:-1,UK: BoxOffice 10
-http://landiptv.live:8080/live/ricardo/ricardo/100445.ts
-#EXTINF:-1,UK: BoxOffice 5
-http://landiptv.live:8080/live/ricardo/ricardo/100449.ts
-#EXTINF:-1,UK: BoxOffice 6
-http://landiptv.live:8080/live/ricardo/ricardo/100450.ts
-#EXTINF:-1,UK: BoxOffice 7
-http://landiptv.live:8080/live/ricardo/ricardo/100451.ts
-#EXTINF:-1,UK: BoxOffice 8
-http://landiptv.live:8080/live/ricardo/ricardo/100452.ts
-#EXTINF:-1,UK: BoxOffice 9
-http://landiptv.live:8080/live/ricardo/ricardo/100453.ts
-#EXTINF:-1,###### USA ######
-http://landiptv.live:8080/live/ricardo/ricardo/93395.ts
-#EXTINF:-1,US: HBO FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78351.ts
-#EXTINF:-1,US: HBO Family FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78353.ts
-#EXTINF:-1,US: HBO Zone FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78354.ts
-#EXTINF:-1,US: Showtime 2 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78342.ts
-#EXTINF:-1,US: Cinemax Moremax
-http://landiptv.live:8080/live/ricardo/ricardo/74853.ts
-#EXTINF:-1,US: Cinemax 5 Max
-http://landiptv.live:8080/live/ricardo/ricardo/74901.ts
-#EXTINF:-1,US: HBO Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/74903.ts
-#EXTINF:-1,US: Starz Kids & Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/77158.ts
-#EXTINF:-1,US: BOX OFFICE MOVIES
-http://landiptv.live:8080/live/ricardo/ricardo/74905.ts
-#EXTINF:-1,US: Starz Encore East HD
-http://landiptv.live:8080/live/ricardo/ricardo/74914.ts
-#EXTINF:-1,US: Starz Encore HD
-http://landiptv.live:8080/live/ricardo/ricardo/74915.ts
-#EXTINF:-1,US: Cinemax East HD
-http://landiptv.live:8080/live/ricardo/ricardo/74917.ts
-#EXTINF:-1,US: CINEMAX ACTIONMAX
-http://landiptv.live:8080/live/ricardo/ricardo/74918.ts
-#EXTINF:-1,US: CINEMAX 5 STARMAX HD
-http://landiptv.live:8080/live/ricardo/ricardo/74927.ts
-#EXTINF:-1,US: Showtime Extreme HD
-http://landiptv.live:8080/live/ricardo/ricardo/74934.ts
-#EXTINF:-1,US: Showtime Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/74935.ts
-#EXTINF:-1,US: AFN PRIME PACIFIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/74938.ts
-#EXTINF:-1,US: AFN PRIME ATLANTIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/74939.ts
-#EXTINF:-1,US: AFN NEWS HD
-http://landiptv.live:8080/live/ricardo/ricardo/74940.ts
-#EXTINF:-1,US: AFN Movie HD
-http://landiptv.live:8080/live/ricardo/ricardo/74941.ts
-#EXTINF:-1,US: AFN Family Movie
-http://landiptv.live:8080/live/ricardo/ricardo/74942.ts
-#EXTINF:-1,US: Starz HD
-http://landiptv.live:8080/live/ricardo/ricardo/75115.ts
-#EXTINF:-1,US: Comedy
-http://landiptv.live:8080/live/ricardo/ricardo/75116.ts
-#EXTINF:-1,US: Starz Cinema HD
-http://landiptv.live:8080/live/ricardo/ricardo/75114.ts
-#EXTINF:-1,US: Signature
-http://landiptv.live:8080/live/ricardo/ricardo/75117.ts
-#EXTINF:-1,US: Zone
-http://landiptv.live:8080/live/ricardo/ricardo/75118.ts
-#EXTINF:-1,US: Action Max FHD
-http://landiptv.live:8080/live/ricardo/ricardo/75136.ts
-#EXTINF:-1,US: Showtime FHD
-http://landiptv.live:8080/live/ricardo/ricardo/75137.ts
-#EXTINF:-1,US: HBO East HD
-http://landiptv.live:8080/live/ricardo/ricardo/75881.ts
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: 4E
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/115325
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86830
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67208
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95319
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95255
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66158
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95339
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66116
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Attica TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/129195
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67200
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127255
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67197
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: BRT 2 (Cy)
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155174
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Capital
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86814
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/143786
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127972
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142560
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142561
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127225
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93430
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: E! HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/109603
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EBS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95280
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77968
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/129198
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175545
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198137
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95276
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198136
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95340
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95341
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT sports HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64695
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: est TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/114816
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/192997
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64693
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EUROSPORT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77980
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77982
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66140
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86840
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/177080
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64681
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/161053
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64677
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64676
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ID X
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/109605
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95309
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86825
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66153
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77989
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66164
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66133
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93862
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66105
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67182
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77991
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Mega Cosmos
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175550
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66150
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66136
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95266
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135880
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135881
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135882
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93438
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93439
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66177
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/90234
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142517
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/138225
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64665
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156615
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142495
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155128
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93442
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93444
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198578
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70922
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142506
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93446
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93447
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93448
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66141
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93450
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66170
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86810
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78510
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SBC
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77997
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/158963
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156614
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66189
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198012
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127250
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78513
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: THRAKI NET
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135863
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Tile Mousiki 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66167
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Tile Musiki
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86841
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TLC HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/94221
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Travel Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93453
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95333
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV 100
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77998
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV Filopoli
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66166
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Viasat History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95318
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Vouli HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64633
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: XALASTRA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66144
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Zouzounia TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/157419
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ANIMAL PLANET HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66158
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ANT 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95339
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Astra TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66116
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Attica TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/129195
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: AXELOOS TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/67200
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Baby HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/127255
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: BEST TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/67197
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: BRT 2 (Cy)
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/155174
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Capital
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/86814
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Cinemania
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143786
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Crime & Investigation HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/127972
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Channel FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/142560
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Science HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/142561
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery ShowCase HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208715
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Turbo Xtra
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/127225
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Disney Junior HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93430
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EBS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95280
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EBS PLUS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77968
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Epirus TV1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/129198
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Epsilon B
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/175545
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT 2 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198137
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT 3 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95276
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT world
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198136
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95340
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT 3
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95341
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT sports HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64695
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: est TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/114816
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Etp 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/192997
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EURONEWS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64693
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EUROSPORT 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64692
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EUROSPORT 2 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77980
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Extra TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77982
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Food Network HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/131325
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Fox Channel HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66140
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HEART BEAT
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/86840
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Hellas TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/177080
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HIGH TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64681
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: History HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/161053
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HUNTER TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64677
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: iCONCERTS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64676
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ID X
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/109605
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Investigation Disvovery HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95309
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Kids 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/86825
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Kontra TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66153
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: KRHTH TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77989
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Lampsi TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66164
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Life HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66133
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: LIKE TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93862
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Lyxnoc
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66105
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Mad TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/67182
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Makedonia TV HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77991
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Mega Cosmos
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/175550
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Messinia TV HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66150
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Montreal Greek TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66136
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Motorvision TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/129204
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95266
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/135880
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 3
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/135882
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NAT GEO HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93438
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NAT GEO Wild HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93439
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Nautical Channel HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208719
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NG TV Music
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66177
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Nickelodeon HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/90234
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/142517
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NOVA TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/138225
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OMega Channel HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64665
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156615
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/142495
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 3
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/155128
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE History
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93442
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93444
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 2 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198578
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 3 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/70922
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 4 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/142506
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 6 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93446
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 7 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93447
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 8 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93448
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Play TV Music
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66141
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Plus Cyprus
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93450
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RELOAD RADIO TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66170
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RIK 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/86831
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RIK 2
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/86810
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Rise FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/78510
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SBC
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77997
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SIGMA
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/158963
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Skai HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156614
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: STAR TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66189
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Start HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198012
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/127250
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SYROS TV1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/78513
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: THRAKI NET
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/135863
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Tile Mousiki 2
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66167
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Tile Musiki
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/86841
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TLC HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/94221
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Travel Channel HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93453
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95333
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV 100
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77998
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV Filopoli
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66166
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Viasat History HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95318
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Village Cinema HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95273
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Vouli HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64633
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: XALASTRA TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66144
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Zouzounia TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157419
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) Ionian Channel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) Acheloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) Crete TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema 2 [VIP]
+http://landiptv.live:8080/live/marco/polo/142522.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema 3 [VIP]
+http://landiptv.live:8080/live/marco/polo/142523.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema 4 [VIP]
+http://landiptv.live:8080/live/marco/polo/142524.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema 5 [VIP]
+http://landiptv.live:8080/live/marco/polo/142525.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema 6 [VIP]
+http://landiptv.live:8080/live/marco/polo/142526.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema 7 [VIP]
+http://landiptv.live:8080/live/marco/polo/142527.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 2 [VIP]
+http://landiptv.live:8080/live/marco/polo/142530.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 3 [VIP]
+http://landiptv.live:8080/live/marco/polo/142531.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 4 [VIP]
+http://landiptv.live:8080/live/marco/polo/142532.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 5 [VIP]
+http://landiptv.live:8080/live/marco/polo/142533.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 6 [VIP]
+http://landiptv.live:8080/live/marco/polo/142534.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 7 [VIP]
+http://landiptv.live:8080/live/marco/polo/142535.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 8 [VIP]
+http://landiptv.live:8080/live/marco/polo/142536.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 9 [VIP]
+http://landiptv.live:8080/live/marco/polo/142537.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Greek Cinema ON DEMEAND 10 [VIP]
+http://landiptv.live:8080/live/marco/polo/142529.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 1 FHD
+http://landiptv.live:8080/live/marco/polo/199400.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 2 FHD
+http://landiptv.live:8080/live/marco/polo/199401.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 3 FHD
+http://landiptv.live:8080/live/marco/polo/199402.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 5 FHD
+http://landiptv.live:8080/live/marco/polo/199404.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 6 FHD
+http://landiptv.live:8080/live/marco/polo/199405.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 7 FHD
+http://landiptv.live:8080/live/marco/polo/199406.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 8 FHD
+http://landiptv.live:8080/live/marco/polo/199407.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 9 FHD
+http://landiptv.live:8080/live/marco/polo/199408.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 10 FHD
+http://landiptv.live:8080/live/marco/polo/199409.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 11 FHD
+http://landiptv.live:8080/live/marco/polo/199410.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 12 FHD
+http://landiptv.live:8080/live/marco/polo/199411.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 14 FHD
+http://landiptv.live:8080/live/marco/polo/199413.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Nova Premier 15 FHD
+http://landiptv.live:8080/live/marco/polo/199414.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: 4E
+http://landiptv.live:8080/live/marco/polo/115325.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/live/marco/polo/86830.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/live/marco/polo/67208.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/live/marco/polo/95319.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/live/marco/polo/95255.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/live/marco/polo/66158.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/live/marco/polo/95339.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/live/marco/polo/66116.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Attica TV
+http://landiptv.live:8080/live/marco/polo/129195.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/live/marco/polo/67200.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/live/marco/polo/127255.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/live/marco/polo/67197.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Capital
+http://landiptv.live:8080/live/marco/polo/86814.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/live/marco/polo/143786.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/live/marco/polo/127972.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/live/marco/polo/142560.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/live/marco/polo/142561.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/live/marco/polo/127225.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: DISNEY CHANNEL
+http://landiptv.live:8080/live/marco/polo/135887.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/live/marco/polo/93430.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: E! HD
+http://landiptv.live:8080/live/marco/polo/109603.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/live/marco/polo/77968.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Epic Movies 2
+http://landiptv.live:8080/live/marco/polo/161049.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/live/marco/polo/129198.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/live/marco/polo/175545.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/live/marco/polo/198137.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/live/marco/polo/95276.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/live/marco/polo/198136.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/live/marco/polo/95340.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ERT sports HD
+http://landiptv.live:8080/live/marco/polo/64695.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: ERT world
+http://landiptv.live:8080/live/marco/polo/198138.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: est TV
+http://landiptv.live:8080/live/marco/polo/114816.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/live/marco/polo/192997.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/live/marco/polo/64693.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EUROSPORT 1 HD
+http://landiptv.live:8080/live/marco/polo/64692.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: EUROSPORT 2 HD
+http://landiptv.live:8080/live/marco/polo/77980.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/live/marco/polo/77982.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/live/marco/polo/66140.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: GREEK CINEMA 1
+http://landiptv.live:8080/live/marco/polo/95264.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: GREEK CINEMA 2
+http://landiptv.live:8080/live/marco/polo/95265.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: GREEK CINEMA 80s 1
+http://landiptv.live:8080/live/marco/polo/127230.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/live/marco/polo/86840.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/live/marco/polo/177080.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/live/marco/polo/64681.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: History HD
+http://landiptv.live:8080/live/marco/polo/161053.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/live/marco/polo/64677.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/live/marco/polo/64676.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: ID X
+http://landiptv.live:8080/live/marco/polo/109605.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/live/marco/polo/95309.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/live/marco/polo/86825.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Kids Movies 1
+http://landiptv.live:8080/live/marco/polo/93436.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/live/marco/polo/66153.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/live/marco/polo/77989.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/live/marco/polo/66164.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/live/marco/polo/66133.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/live/marco/polo/93862.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/live/marco/polo/66105.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/live/marco/polo/67182.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/live/marco/polo/77991.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Mega Cosmos
+http://landiptv.live:8080/live/marco/polo/175550.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/live/marco/polo/66150.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/live/marco/polo/66136.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES 1
+http://landiptv.live:8080/live/marco/polo/95266.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: MOVIES 2
+http://landiptv.live:8080/live/marco/polo/95267.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: MOVIES 3
+http://landiptv.live:8080/live/marco/polo/95268.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/live/marco/polo/135880.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/live/marco/polo/135881.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: MOVIES GR SUBS 3
+http://landiptv.live:8080/live/marco/polo/135882.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/live/marco/polo/93438.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/live/marco/polo/93439.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: New Generation TV
+http://landiptv.live:8080/live/marco/polo/163745.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/live/marco/polo/66177.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/live/marco/polo/90234.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/live/marco/polo/142517.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/live/marco/polo/138225.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/live/marco/polo/64665.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/live/marco/polo/156615.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/live/marco/polo/142495.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/live/marco/polo/155128.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/live/marco/polo/93442.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/live/marco/polo/93444.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 2 HD
+http://landiptv.live:8080/live/marco/polo/198578.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/live/marco/polo/70922.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/live/marco/polo/142506.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/live/marco/polo/93446.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/live/marco/polo/93447.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/live/marco/polo/93448.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/live/marco/polo/66141.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/live/marco/polo/93450.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/live/marco/polo/66170.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RIK 1
+http://landiptv.live:8080/live/marco/polo/86831.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/live/marco/polo/86810.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/live/marco/polo/78510.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SBC
+http://landiptv.live:8080/live/marco/polo/77997.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/live/marco/polo/158963.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/live/marco/polo/156614.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/live/marco/polo/66189.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/live/marco/polo/198012.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/live/marco/polo/127250.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/live/marco/polo/78513.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: THRAKI NET
+http://landiptv.live:8080/live/marco/polo/135863.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Tile Mousiki 2
+http://landiptv.live:8080/live/marco/polo/66167.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Tile Musiki
+http://landiptv.live:8080/live/marco/polo/86841.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TLC HD
+http://landiptv.live:8080/live/marco/polo/94221.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Travel Channel HD
+http://landiptv.live:8080/live/marco/polo/93453.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV 1
+http://landiptv.live:8080/live/marco/polo/95333.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV 100
+http://landiptv.live:8080/live/marco/polo/77998.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: TV Filopoli
+http://landiptv.live:8080/live/marco/polo/66166.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: Viasat Explore HD
+http://landiptv.live:8080/live/marco/polo/106895.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Viasat History HD
+http://landiptv.live:8080/live/marco/polo/95318.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (ONLINE) GR: VILLAGE CINEMA
+http://landiptv.live:8080/live/marco/polo/159409.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Vouli HD
+http://landiptv.live:8080/live/marco/polo/64633.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: XALASTRA TV
+http://landiptv.live:8080/live/marco/polo/66144.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="GSE NO GROUP", (DIAMOND) GR: Zouzounia TV
+http://landiptv.live:8080/live/marco/polo/157419.m3u8
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 1 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/123940
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: 4E
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/115325
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86830
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67208
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95319
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95255
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/08923968c68a3a6ea0b26eedf3d36307.png" group-title="GREECE", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66158
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95339
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66116
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67200
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bfb9d382c87d4bf4250c040b9b8d3147.png" group-title="GREECE", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127255
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67197
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BRT 2 (Cy)
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155174
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d6741e49bbac287d9002bef3221c263a.png" group-title="GREECE", (DIAMOND) GR: Capital
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86814
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/143786
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127972
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cf64acb15305c8e40f0b609bc4577939.png" group-title="GREECE", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142560
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/17f3349e7efdca134151e3993bf816dd.png" group-title="GREECE", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142561
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/9d1c4400c674e022db3f4e0ad0058564.png" group-title="GREECE", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127225
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cff7f6a59a7eacf96bf0db6e5cbf208a.png" group-title="GREECE", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93430
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77968
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/129198
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175545
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198137
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95276
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95340
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ERT world
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198138
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: est TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/114816
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/192997
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/2d6ef2159771c7763acf925518340839.png" group-title="GREECE", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64693
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d963cfab0bc6836b818847c95f637f1d.png" group-title="GREECE", (DIAMOND) GR: EUROSPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64692
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/3a5c4ae57c2ce638c2ec4b8ec82bc913.png" group-title="GREECE", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77982
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/96bfdb91358f388c1c5e685ab5868e24.png" group-title="GREECE", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66140
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86840
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/177080
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64681
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/161053
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64677
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64676
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/939bbf89c5655850ce1058c9bcb8506a.png" group-title="GREECE", (DIAMOND) GR: ID X
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/109605
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/4ca6734e2057b6c7e1ac719a2ac8ad25.png" group-title="GREECE", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95309
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86825
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66153
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77989
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66164
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/316a5e0532d807e3ac5f8407ca1973ae.png" group-title="GREECE", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66133
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93862
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66105
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67182
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77991
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mega Cosmos
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175550
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66150
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95266
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135880
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135881
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/ee5fd3d49e26a41454f66b1ac4f758b8.png" group-title="GREECE", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93438
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b21414bce2ffa24cad14229d2b9f4bd4.png" group-title="GREECE", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93439
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66177
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/5797937715d6b9b612c117cf8a46635d.png" group-title="GREECE", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/90234
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142517
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bcef39f363b14843004dd013168f262e.png" group-title="GREECE", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/138225
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64665
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156615
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142495
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155128
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93442
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93444
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70922
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142506
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93446
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93447
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93448
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66141
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93450
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66170
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/20fb58848e99cdaccb2d09a4327ae76d.png" group-title="GREECE", (DIAMOND) GR: RIK 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86831
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86810
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78510
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SBC
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77997
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/158963
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156614
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66189
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198012
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127250
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78513
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: THRAKI NET
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135863
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Tile Mousiki 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66167
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Tile Musiki
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86841
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/1a0672adf4de79bef961320774efbb0b.png" group-title="GREECE", (DIAMOND) GR: TLC HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/94221
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/a258edd9d547febe2ff6cbd6b8368d5f.png" group-title="GREECE", (DIAMOND) GR: Travel Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93453
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: TV 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95333
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: TV 100
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77998
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: TV Filopoli
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66166
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/abdd2e29b3d222d143d7ee9e167d414b.png" group-title="GREECE", (DIAMOND) GR: Viasat History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95318
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Vouli HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64633
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: XALASTRA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66144
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Zouzounia TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/157419
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 1 HD {MATCH TIME}
+http://landiptv.live:8080/marco/polo/123940
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: 4E
+http://landiptv.live:8080/marco/polo/115325
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/marco/polo/86830
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/marco/polo/67208
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/marco/polo/95319
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/marco/polo/95255
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/08923968c68a3a6ea0b26eedf3d36307.png" group-title="GREECE", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/marco/polo/66158
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/marco/polo/95339
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/marco/polo/66116
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/marco/polo/67200
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bfb9d382c87d4bf4250c040b9b8d3147.png" group-title="GREECE", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/marco/polo/127255
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/marco/polo/67197
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BRT 2 (Cy)
+http://landiptv.live:8080/marco/polo/155174
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d6741e49bbac287d9002bef3221c263a.png" group-title="GREECE", (DIAMOND) GR: Capital
+http://landiptv.live:8080/marco/polo/86814
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/marco/polo/143786
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/marco/polo/127972
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cf64acb15305c8e40f0b609bc4577939.png" group-title="GREECE", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/marco/polo/142560
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/17f3349e7efdca134151e3993bf816dd.png" group-title="GREECE", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/marco/polo/142561
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/9d1c4400c674e022db3f4e0ad0058564.png" group-title="GREECE", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/marco/polo/127225
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cff7f6a59a7eacf96bf0db6e5cbf208a.png" group-title="GREECE", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/marco/polo/93430
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EBS
+http://landiptv.live:8080/marco/polo/95280
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/marco/polo/77968
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/marco/polo/129198
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/marco/polo/175545
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/marco/polo/198137
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/marco/polo/95276
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/marco/polo/198136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/marco/polo/95340
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ERT world
+http://landiptv.live:8080/marco/polo/198138
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: est TV
+http://landiptv.live:8080/marco/polo/114816
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/marco/polo/192997
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/2d6ef2159771c7763acf925518340839.png" group-title="GREECE", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/marco/polo/64693
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d963cfab0bc6836b818847c95f637f1d.png" group-title="GREECE", (DIAMOND) GR: EUROSPORT 1 HD
+http://landiptv.live:8080/marco/polo/64692
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/3a5c4ae57c2ce638c2ec4b8ec82bc913.png" group-title="GREECE", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/marco/polo/77982
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/96bfdb91358f388c1c5e685ab5868e24.png" group-title="GREECE", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/marco/polo/66140
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/marco/polo/86840
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/marco/polo/177080
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/marco/polo/64681
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: History HD
+http://landiptv.live:8080/marco/polo/161053
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/marco/polo/64677
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/marco/polo/64676
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/939bbf89c5655850ce1058c9bcb8506a.png" group-title="GREECE", (DIAMOND) GR: ID X
+http://landiptv.live:8080/marco/polo/109605
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/4ca6734e2057b6c7e1ac719a2ac8ad25.png" group-title="GREECE", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/marco/polo/95309
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/marco/polo/86825
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/marco/polo/66153
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/marco/polo/77989
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/marco/polo/66164
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/316a5e0532d807e3ac5f8407ca1973ae.png" group-title="GREECE", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/marco/polo/66133
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/marco/polo/93862
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/marco/polo/66105
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/marco/polo/67182
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/marco/polo/77991
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mega Cosmos
+http://landiptv.live:8080/marco/polo/175550
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/marco/polo/66150
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/marco/polo/66136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES 1
+http://landiptv.live:8080/marco/polo/95266
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/marco/polo/135880
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/marco/polo/135881
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/ee5fd3d49e26a41454f66b1ac4f758b8.png" group-title="GREECE", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/marco/polo/93438
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b21414bce2ffa24cad14229d2b9f4bd4.png" group-title="GREECE", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/marco/polo/93439
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/marco/polo/66177
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/5797937715d6b9b612c117cf8a46635d.png" group-title="GREECE", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/marco/polo/90234
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/marco/polo/142517
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bcef39f363b14843004dd013168f262e.png" group-title="GREECE", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/marco/polo/138225
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/marco/polo/64665
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/marco/polo/156615
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/marco/polo/142495
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/marco/polo/155128
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/marco/polo/93442
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/marco/polo/93444
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/marco/polo/70922
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/marco/polo/142506
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/marco/polo/93446
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/marco/polo/93447
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/marco/polo/93448
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/marco/polo/66141
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/marco/polo/93450
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/marco/polo/66170
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/20fb58848e99cdaccb2d09a4327ae76d.png" group-title="GREECE", (DIAMOND) GR: RIK 1
+http://landiptv.live:8080/marco/polo/86831
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/marco/polo/86810
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/marco/polo/78510
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SBC
+http://landiptv.live:8080/marco/polo/77997
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/marco/polo/158963
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/marco/polo/156614
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/marco/polo/66189
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/marco/polo/198012
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/marco/polo/127250
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/marco/polo/78513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: NOVA SPORTS 1 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/123940
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: 4E
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/115325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86830
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95319
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: BRT 2 (Cy)
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155174
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Capital
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86814
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/143786
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142560
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: EBS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/129198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198137
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: est TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/114816
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/192997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64693
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: EUROSPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86840
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/177080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64681
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/161053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64677
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64676
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: ID X
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/109605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95309
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86825
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77989
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135881
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: MOVIES GR SUBS 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135882
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/90234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/138225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64665
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93442
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE SPORT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198578
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93446
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: RIK 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86831
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86810
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78510
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: SBC
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/158963
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127250
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: THRAKI NET
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Tile Mousiki 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66167
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Tile Musiki
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86841
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: TLC HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/94221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Travel Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: TV 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: TV 100
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77998
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Viasat History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Vouli HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64633
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: XALASTRA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DIAMOND) GR: Zouzounia TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/157419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: NOVA SPORTS 1 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/123940
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: 4E
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/115325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86830
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95319
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Attica TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/129195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: BRT 2 (Cy)
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155174
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Capital
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86814
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/143786
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142560
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EBS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/129198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198137
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: ERT 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: ERT sports HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64695
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: est TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/114816
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/192997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64693
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EUROSPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: EUROSPORT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86840
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/177080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64681
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/161053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64677
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64676
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: ID X
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/109605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95309
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86825
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77989
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Mega Cosmos
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: MOVIES 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95266
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135881
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: MOVIES GR SUBS 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135882
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/90234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/138225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64665
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93442
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE SPORT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198578
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93446
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: RIK 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86831
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86810
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78510
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/158963
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127250
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: THRAKI NET
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Tile Mousiki 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66167
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Tile Musiki
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86841
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: TLC HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/94221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Travel Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: TV 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: TV 100
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77998
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: TV Filopoli
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66166
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Viasat History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Vouli HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64633
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: XALASTRA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="greek", (DIAMOND) GR: Zouzounia TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/157419
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 1 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/123940
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: 4E
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/115325
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86830
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67208
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95319
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95255
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/08923968c68a3a6ea0b26eedf3d36307.png" group-title="GREECE", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66158
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95339
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66116
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67200
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bfb9d382c87d4bf4250c040b9b8d3147.png" group-title="GREECE", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127255
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67197
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BRT 2 (Cy)
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155174
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d6741e49bbac287d9002bef3221c263a.png" group-title="GREECE", (DIAMOND) GR: Capital
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86814
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/143786
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127972
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cf64acb15305c8e40f0b609bc4577939.png" group-title="GREECE", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142560
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/17f3349e7efdca134151e3993bf816dd.png" group-title="GREECE", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142561
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/9d1c4400c674e022db3f4e0ad0058564.png" group-title="GREECE", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127225
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cff7f6a59a7eacf96bf0db6e5cbf208a.png" group-title="GREECE", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93430
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EBS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95280
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77968
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/129198
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175545
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198137
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95276
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95340
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: est TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/114816
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/192997
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/2d6ef2159771c7763acf925518340839.png" group-title="GREECE", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64693
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d963cfab0bc6836b818847c95f637f1d.png" group-title="GREECE", (DIAMOND) GR: EUROSPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64692
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/3a5c4ae57c2ce638c2ec4b8ec82bc913.png" group-title="GREECE", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77982
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/96bfdb91358f388c1c5e685ab5868e24.png" group-title="GREECE", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66140
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86840
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/177080
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64681
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/161053
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64677
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64676
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/939bbf89c5655850ce1058c9bcb8506a.png" group-title="GREECE", (DIAMOND) GR: ID X
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/109605
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/4ca6734e2057b6c7e1ac719a2ac8ad25.png" group-title="GREECE", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95309
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86825
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66153
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77989
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66164
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/316a5e0532d807e3ac5f8407ca1973ae.png" group-title="GREECE", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66133
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93862
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66105
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/67182
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77991
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mega Cosmos
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/175550
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66150
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95266
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135880
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135881
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135882
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/ee5fd3d49e26a41454f66b1ac4f758b8.png" group-title="GREECE", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93438
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b21414bce2ffa24cad14229d2b9f4bd4.png" group-title="GREECE", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93439
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66177
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/5797937715d6b9b612c117cf8a46635d.png" group-title="GREECE", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/90234
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142517
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bcef39f363b14843004dd013168f262e.png" group-title="GREECE", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/138225
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64665
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156615
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142495
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/155128
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93442
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93444
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198578
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70922
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/142506
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93446
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93447
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93448
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66141
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93450
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66170
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/20fb58848e99cdaccb2d09a4327ae76d.png" group-title="GREECE", (DIAMOND) GR: RIK 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86831
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86810
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78510
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/158963
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/156614
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66189
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198012
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127250
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/78513
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: THRAKI NET
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/135863
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Tile Mousiki 2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66167
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Tile Musiki
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/86841
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/1a0672adf4de79bef961320774efbb0b.png" group-title="GREECE", (DIAMOND) GR: TLC HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/94221
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/a258edd9d547febe2ff6cbd6b8368d5f.png" group-title="GREECE", (DIAMOND) GR: Travel Channel HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/93453
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: TV 1
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95333
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: TV 100
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77998
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: TV Filopoli
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66166
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/abdd2e29b3d222d143d7ee9e167d414b.png" group-title="GREECE", (DIAMOND) GR: Viasat History HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/95318
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Vouli HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64633
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: XALASTRA TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/66144
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Zouzounia TV
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/157419
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 1 HD {MATCH TIME}
+http://landiptv.live:8080/marco/polo/123940
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: 4E
+http://landiptv.live:8080/marco/polo/115325
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AB Channel
+http://landiptv.live:8080/marco/polo/86830
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Action 24 TV
+http://landiptv.live:8080/marco/polo/67208
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Alpha Cinema
+http://landiptv.live:8080/marco/polo/95319
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ALPHA TV HD
+http://landiptv.live:8080/marco/polo/95255
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/08923968c68a3a6ea0b26eedf3d36307.png" group-title="GREECE", (DIAMOND) GR: ANIMAL PLANET HD
+http://landiptv.live:8080/marco/polo/66158
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ANT 1
+http://landiptv.live:8080/marco/polo/95339
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Astra TV
+http://landiptv.live:8080/marco/polo/66116
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Attica TV
+http://landiptv.live:8080/marco/polo/129195
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: AXELOOS TV
+http://landiptv.live:8080/marco/polo/67200
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bfb9d382c87d4bf4250c040b9b8d3147.png" group-title="GREECE", (DIAMOND) GR: Baby HD
+http://landiptv.live:8080/marco/polo/127255
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BEST TV
+http://landiptv.live:8080/marco/polo/67197
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: BRT 2 (Cy)
+http://landiptv.live:8080/marco/polo/155174
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d6741e49bbac287d9002bef3221c263a.png" group-title="GREECE", (DIAMOND) GR: Capital
+http://landiptv.live:8080/marco/polo/86814
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Cinemania
+http://landiptv.live:8080/marco/polo/143786
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Crime & Investigation HD
+http://landiptv.live:8080/marco/polo/127972
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cf64acb15305c8e40f0b609bc4577939.png" group-title="GREECE", (DIAMOND) GR: Discovery Channel FHD
+http://landiptv.live:8080/marco/polo/142560
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/17f3349e7efdca134151e3993bf816dd.png" group-title="GREECE", (DIAMOND) GR: Discovery Science HD
+http://landiptv.live:8080/marco/polo/142561
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/9d1c4400c674e022db3f4e0ad0058564.png" group-title="GREECE", (DIAMOND) GR: Discovery Turbo Xtra
+http://landiptv.live:8080/marco/polo/127225
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/cff7f6a59a7eacf96bf0db6e5cbf208a.png" group-title="GREECE", (DIAMOND) GR: Disney Junior HD
+http://landiptv.live:8080/marco/polo/93430
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EBS
+http://landiptv.live:8080/marco/polo/95280
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EBS PLUS
+http://landiptv.live:8080/marco/polo/77968
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epirus TV1
+http://landiptv.live:8080/marco/polo/129198
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Epsilon B
+http://landiptv.live:8080/marco/polo/175545
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 2 HD
+http://landiptv.live:8080/marco/polo/198137
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT 3 HD
+http://landiptv.live:8080/marco/polo/95276
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: EPT world
+http://landiptv.live:8080/marco/polo/198136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: ERT 1
+http://landiptv.live:8080/marco/polo/95340
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: est TV
+http://landiptv.live:8080/marco/polo/114816
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Etp 1
+http://landiptv.live:8080/marco/polo/192997
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/2d6ef2159771c7763acf925518340839.png" group-title="GREECE", (DIAMOND) GR: EURONEWS
+http://landiptv.live:8080/marco/polo/64693
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/d963cfab0bc6836b818847c95f637f1d.png" group-title="GREECE", (DIAMOND) GR: EUROSPORT 1 HD
+http://landiptv.live:8080/marco/polo/64692
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/3a5c4ae57c2ce638c2ec4b8ec82bc913.png" group-title="GREECE", (DIAMOND) GR: Extra TV
+http://landiptv.live:8080/marco/polo/77982
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/96bfdb91358f388c1c5e685ab5868e24.png" group-title="GREECE", (DIAMOND) GR: Fox Channel HD
+http://landiptv.live:8080/marco/polo/66140
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HEART BEAT
+http://landiptv.live:8080/marco/polo/86840
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Hellas TV
+http://landiptv.live:8080/marco/polo/177080
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HIGH TV
+http://landiptv.live:8080/marco/polo/64681
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: History HD
+http://landiptv.live:8080/marco/polo/161053
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: HUNTER TV
+http://landiptv.live:8080/marco/polo/64677
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: iCONCERTS
+http://landiptv.live:8080/marco/polo/64676
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/939bbf89c5655850ce1058c9bcb8506a.png" group-title="GREECE", (DIAMOND) GR: ID X
+http://landiptv.live:8080/marco/polo/109605
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/4ca6734e2057b6c7e1ac719a2ac8ad25.png" group-title="GREECE", (DIAMOND) GR: Investigation Disvovery HD
+http://landiptv.live:8080/marco/polo/95309
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kids 1
+http://landiptv.live:8080/marco/polo/86825
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Kontra TV
+http://landiptv.live:8080/marco/polo/66153
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: KRHTH TV
+http://landiptv.live:8080/marco/polo/77989
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lampsi TV
+http://landiptv.live:8080/marco/polo/66164
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/316a5e0532d807e3ac5f8407ca1973ae.png" group-title="GREECE", (DIAMOND) GR: Life HD
+http://landiptv.live:8080/marco/polo/66133
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: LIKE TV
+http://landiptv.live:8080/marco/polo/93862
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Lyxnoc
+http://landiptv.live:8080/marco/polo/66105
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mad TV
+http://landiptv.live:8080/marco/polo/67182
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Makedonia TV HD
+http://landiptv.live:8080/marco/polo/77991
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Mega Cosmos
+http://landiptv.live:8080/marco/polo/175550
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Messinia TV HD
+http://landiptv.live:8080/marco/polo/66150
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Montreal Greek TV
+http://landiptv.live:8080/marco/polo/66136
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES 1
+http://landiptv.live:8080/marco/polo/95266
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 1
+http://landiptv.live:8080/marco/polo/135880
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: MOVIES GR SUBS 2
+http://landiptv.live:8080/marco/polo/135881
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/ee5fd3d49e26a41454f66b1ac4f758b8.png" group-title="GREECE", (DIAMOND) GR: NAT GEO HD
+http://landiptv.live:8080/marco/polo/93438
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b21414bce2ffa24cad14229d2b9f4bd4.png" group-title="GREECE", (DIAMOND) GR: NAT GEO Wild HD
+http://landiptv.live:8080/marco/polo/93439
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NG TV Music
+http://landiptv.live:8080/marco/polo/66177
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/5797937715d6b9b612c117cf8a46635d.png" group-title="GREECE", (DIAMOND) GR: Nickelodeon HD
+http://landiptv.live:8080/marco/polo/90234
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: NOVA SPORTS 2 HD {MATCH TIME}
+http://landiptv.live:8080/marco/polo/142517
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/bcef39f363b14843004dd013168f262e.png" group-title="GREECE", (DIAMOND) GR: NOVA TV
+http://landiptv.live:8080/marco/polo/138225
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OMega Channel HD
+http://landiptv.live:8080/marco/polo/64665
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 1 HD
+http://landiptv.live:8080/marco/polo/156615
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 2 FHD
+http://landiptv.live:8080/marco/polo/142495
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE CINEMA 3
+http://landiptv.live:8080/marco/polo/155128
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE History
+http://landiptv.live:8080/marco/polo/93442
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 1 HD
+http://landiptv.live:8080/marco/polo/93444
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 2 HD
+http://landiptv.live:8080/marco/polo/198578
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 3 HD
+http://landiptv.live:8080/marco/polo/70922
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 4 HD
+http://landiptv.live:8080/marco/polo/142506
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 6 HD
+http://landiptv.live:8080/marco/polo/93446
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 7 HD
+http://landiptv.live:8080/marco/polo/93447
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: OTE SPORT 8 HD
+http://landiptv.live:8080/marco/polo/93448
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Play TV Music
+http://landiptv.live:8080/marco/polo/66141
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Plus Cyprus
+http://landiptv.live:8080/marco/polo/93450
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RELOAD RADIO TV
+http://landiptv.live:8080/marco/polo/66170
+
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/20fb58848e99cdaccb2d09a4327ae76d.png" group-title="GREECE", (DIAMOND) GR: RIK 1
+http://landiptv.live:8080/marco/polo/86831
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: RIK 2
+http://landiptv.live:8080/marco/polo/86810
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Rise FHD
+http://landiptv.live:8080/marco/polo/78510
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SBC
+http://landiptv.live:8080/marco/polo/77997
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SIGMA
+http://landiptv.live:8080/marco/polo/158963
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Skai HD
+http://landiptv.live:8080/marco/polo/156614
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: STAR TV
+http://landiptv.live:8080/marco/polo/66189
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: Start HD
+http://landiptv.live:8080/marco/polo/198012
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/marco/polo/127250
+
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="GREECE", (DIAMOND) GR: SYROS TV1
+http://landiptv.live:8080/marco/polo/78513
+
